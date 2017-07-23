@@ -3,7 +3,7 @@
 ###### GLOBAL ################################### */
 html { position: relative; width: 100%; min-height: 100%; overflow-y: scroll; }
 
-body { width: 100%; margin: 140px 0 0 0; padding: 0; background-image: url("/images/bg.jpg"); text-decoration: none; }
+body { width: 100%; margin: 140px 0 0 0; padding: 0; text-decoration: none; }
 
 h1 { font-family: Arvo; font-size: 30px; font-weight: normal; color: #cf6436; margin: 0; }
 
@@ -35,8 +35,8 @@ article { margin-left: auto; margin-right: auto; margin-bottom: 150px; max-width
   .tricolumn:nth-child(3n+2) { margin: 0 80px; }
   /* spacing between rows */
   .tricolumn:nth-child(n+4) { margin-top: 60px; } }
-.sectionheader { padding: 0; margin-bottom: 50px; background-image: url("/images/double_lines.png"); background-repeat: no-repeat; background-position: left center; text-align: center; }
-.sectionheader h1 { background-image: url("/images/bg.jpg"); text-align: center; text-transform: uppercase; display: inline-block; padding: 0 20px; }
+.sectionheader { padding: 0; margin-bottom: 50px; background-repeat: no-repeat; background-position: left center; text-align: center; }
+.sectionheader h1 { text-align: center; text-transform: uppercase; display: inline-block; padding: 0 20px; }
 
 .aboutpage .halfcolumn p { margin-left: 50px; }
 
@@ -60,7 +60,7 @@ article { margin-left: auto; margin-right: auto; margin-bottom: 150px; max-width
 @media (min-width: 480px) { .navbar .navcontrol .navlinks a { padding: 0; } }
 .navbar .navcontrol .navlinks a:hover { color: #d3b9aa; }
 
-.navbar .navcontrol .homelink { position: absolute; left: 50%; -webkit-transform: translateX(-50%); -moz-transform: translateX(-50%); -ms-transform: translateX(-50%); -o-transform: translateX(-50%); transform: translateX(-50%); width: 40px; height: 40px; margin-top: 10px; background-image: url("/images/top_logo.png"); }
+.navbar .navcontrol .homelink { position: absolute; left: 50%; -webkit-transform: translateX(-50%); -moz-transform: translateX(-50%); -ms-transform: translateX(-50%); -o-transform: translateX(-50%); transform: translateX(-50%); width: 40px; height: 40px; margin-top: 10px; }
 
 @media (min-width: 480px) { .navbar .navcontrol .homelink { position: static; float: left; -webkit-transform: none; -moz-transform: none; -ms-transform: none; -o-transform: none; transform: none; } }
 .navbar .navcontrol .homelink img { visibility: hidden; }
@@ -69,7 +69,7 @@ article { margin-left: auto; margin-right: auto; margin-bottom: 150px; max-width
 
 /*
 ###### FOOTER ################################### */
-.footer { position: absolute; bottom: 0; width: 100%; height: 90px; background-color: #f4f7f5; background-image: url("/images/double_lines_footer.png"); background-repeat: repeat-x; background-position: 0px 5px; font-family: Arvo; font-size: 11px; }
+.footer { position: absolute; bottom: 0; width: 100%; height: 90px; background-color: #f4f7f5; background-repeat: repeat-x; background-position: 0px 5px; font-family: Arvo; font-size: 11px; }
 
 .footer .footercontent { max-width: 900px; padding: 25px 10px 0 10px; margin-left: auto; margin-right: auto; }
 
@@ -123,11 +123,11 @@ article { margin-left: auto; margin-right: auto; margin-bottom: 150px; max-width
 
 .aboutpage .leaders figure p, .aboutpage .leaders div.tricolumn p { text-align: center; width: 200px; font-style: italic; margin-left: auto; margin-right: auto; }
 
-.aboutpage .leaders figure .email:before { content: url("/images/email_icon.png"); margin-right: 5px; vertical-align: middle; }
+.aboutpage .leaders figure .email:before { margin-right: 5px; vertical-align: middle; }
 
 .aboutpage .leaders div.tricolumn h2 { text-align: center; margin-bottom: 15px; }
 
-.aboutpage .leaders div.tricolumn .email:before { content: url("/images/email_icon.png"); margin-right: 5px; vertical-align: middle; }
+.aboutpage .leaders div.tricolumn .email:before { margin-right: 5px; vertical-align: middle; }
 
 /*
 ###### GROUPS PAGE ################################### */

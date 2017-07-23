@@ -21,7 +21,6 @@ body {
 	width: 100%;
 	margin: 140px 0 0 0;
 	padding: 0;
-	background-image: url("/images/bg.jpg");
 	text-decoration: none;
 }
 
@@ -128,13 +127,11 @@ article {
 .sectionheader {
 	padding: 0;
 	margin-bottom: 50px;
-	background-image: url("/images/double_lines.png");
 	background-repeat: no-repeat;
 	background-position: left center;
 	text-align: center;
 
 	h1 {
-		background-image: url("/images/bg.jpg");
 		text-align: center;
 		text-transform: uppercase;
 		display: inline-block;
@@ -241,7 +238,6 @@ article {
 	width: 40px;
 	height: 40px;
 	margin-top: 10px;
-	background-image: url("/images/top_logo.png");
 }
 @media (min-width: 480px) {
 	.navbar .navcontrol .homelink {
@@ -273,7 +269,6 @@ article {
 	width: 100%;
 	height: 90px;
 	background-color: #f4f7f5;
-	background-image: url("/images/double_lines_footer.png");
 	background-repeat: repeat-x;
 	background-position: 0px 5px;
 	font-family: Arvo;
@@ -443,7 +438,6 @@ article {
 }
 
 .aboutpage .leaders figure .email:before {
-	content: url("/images/email_icon.png");
 	margin-right: 5px;
 	vertical-align: middle;
 }
@@ -454,7 +448,6 @@ article {
 }
 
 .aboutpage .leaders div.tricolumn .email:before {
-	content: url("/images/email_icon.png");
 	margin-right: 5px;
 	vertical-align: middle;
 }
