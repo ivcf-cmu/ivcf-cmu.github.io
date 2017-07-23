@@ -6,11 +6,11 @@
 			</div>
 		</a>
 		<div class="navlinks">
-			<div><a href="about" class="current">About</a></div>
-			<div><a href="groups">Groups</a></div>
-			<div><a href="events">Events</a></div>
+			<div><a href="about" class="{% if page.page == "about" %}current{% endif %}">About</a></div>
+			<div><a href="groups" class="{% if page.page == "groups" %}current{% endif %}">Groups</a></div>
+			<div><a href="events" class="{% if page.page == "events" %}current{% endif %}">Events</a></div>
 			<!--<div><a href="photos">Photos</a></div>-->
-			<div><a href="links">Links</a></div>
+			<div><a href="links" class="{% if page.page == "links" %}current{% endif %}">Links</a></div>
 		</div>
 	</div>
 </header>
