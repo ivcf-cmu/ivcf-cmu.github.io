@@ -1,35 +1,7 @@
-<!DOCTYPE HTML>
-<!-- Copyright 2012 Michelle Reinhold, Sang Tian.
-     All rights reserved. -->
-<html>
-<head>
-  <meta name="viewport" content="width=device-width, initial-scale=1, minimal-ui">
-  <link href="style.css" rel="stylesheet" type="text/css" />
-  <link href='http://fonts.googleapis.com/css?family=Lato:400,400italic|Arvo:400,700' rel='stylesheet' type='text/css'>
-  <link rel="shortcut icon" href="images/favicon.ico" />
-  <title>InterVarsity Christian Fellowship - CMU Chapter - Events</title>
-  <!-- TODO: correct base url -->
-  <meta name="description" content="InterVarsity Christian Fellowship CMU website - events" />
-  <meta name="author" content="Michelle Reinhold" />
-  <meta name="author" content="Sang Tian" />
-</head>
-<body>
-  <header class="navbar">
-    <div class="navcontrol">
-      <a href="index.html">
-        <div class="homelink">
-          <img src="images/top_logo_hover.png" />
-        </div>
-      </a>
-      <div class="navlinks">
-        <div><a href="about.html">About</a></div>
-        <div><a href="groups.html">Groups</a></div>
-        <div><a href="events.html" class="current">Events</a></div>
-        <!--<div><a href="photos.html">Photos</a></div>-->
-        <div><a href="links.html">Links</a></div>
-      </div>
-    </div>
-  </header>
+---
+layout: default
+---
+
   <article class="eventspage">
     <header class="sectionheader">
       <h1>Calendar</h1>
@@ -172,5 +144,3 @@
     ga('create', 'UA-54044080-1', 'auto');
     ga('send', 'pageview');
   </script>
-</body>
-</html>

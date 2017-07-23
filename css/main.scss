@@ -1,0 +1,708 @@
+---
+---
+
+
+/* Copyright 2012 Michelle Reinhold, Sang Tian.
+ * All rights reserved.
+ */
+
+/*
+###### GLOBAL ###################################
+ */
+
+html {
+	position: relative;
+	width: 100%;
+	min-height: 100%;
+	overflow-y: scroll;
+}
+
+body {
+	width: 100%;
+	margin: 140px 0 0 0;
+	padding: 0;
+	background-image: url("/images/bg.jpg");
+	text-decoration: none;
+}
+
+h1 {
+	font-family: Arvo;
+	font-size: 30px;
+	font-weight: normal;
+	color: #cf6436;
+	margin: 0;
+}
+
+h2 {
+	font-family: Arvo;
+	font-size: 18px;
+	font-weight: normal;
+	color: #1a9aa0;
+	margin: 0;
+}
+
+p, ol, ul, li {
+	font-family: Lato;
+	font-size: 14px;
+	color: #515151;
+}
+
+p {
+	margin: 0;
+}
+
+a {
+	color: inherit;
+	&:link {
+		color: inherit;
+		text-decoration: none;
+	}
+	&:visited {
+		color: inherit;
+	}
+}
+
+article {
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 150px;
+	max-width: 900px;
+	padding: 0 10px;
+}
+
+.halfcolumn {
+	display: inline-block;
+	width: 445px;
+	vertical-align: top;
+	text-align: left;
+}
+
+.tricolumn {
+	display: inline-block;
+	margin: 0;
+	width: 100%;
+	vertical-align: top;
+	text-align: center;
+	&:nth-child(n+2) {
+		margin-top: 50px;
+	}
+}
+
+@media (min-width: 510px) and (max-width: 899px) {
+	.tricolumn {
+		width: 49%;
+	}
+
+	/* reset the width from the single-column layout,
+	 * which is not in a media query */
+	.tricolumn:nth-child(n+2) {
+		margin-top: 0;
+	}
+
+	.tricolumn:nth-child(n+3) {
+		margin-top: 50px;
+	}
+}
+
+@media (min-width: 900px) {
+	.tricolumn {
+		width: 230px;
+	}
+
+	/* reset single-column layout */
+	.tricolumn:nth-child(n+1) {
+		margin-top: 0;
+	}
+
+	/* spacing between items in the same row */
+	.tricolumn:nth-child(3n+2) {
+		margin: 0 80px;
+	}
+
+	/* spacing between rows */
+	.tricolumn:nth-child(n+4) {
+		margin-top: 60px;
+	}
+}
+
+.sectionheader {
+	padding: 0;
+	margin-bottom: 50px;
+	background-image: url("/images/double_lines.png");
+	background-repeat: no-repeat;
+	background-position: left center;
+	text-align: center;
+
+	h1 {
+		background-image: url("/images/bg.jpg");
+		text-align: center;
+		text-transform: uppercase;
+		display: inline-block;
+		padding: 0 20px;
+	}
+}
+
+.aboutpage .halfcolumn p {
+	margin-left: 50px;
+}
+
+/* for when you want to force something like a heading to
+ * break a certain way (like Fellowships @ CMU in links.html)
+ */
+@media (min-width: 500px) {
+	.responsive-br {
+		display: none;
+	}
+}
+
+
+/*
+###### NAVBAR ###################################
+ */
+
+.navbar {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	background-color: white;
+	z-index: 1000;
+	.navcontrol {
+		max-width: 900px;
+		padding: 0;
+		height: 100%;
+		margin-left: auto;
+		margin-right: auto;
+		.navlinks {
+			margin-top: 19px;
+			div {
+				display: inline-block;
+				width: 49%;
+				height: 36px;
+				text-align: center;
+				font-family: Lato;
+				font-size: 13px;
+				color: #abc4b5;
+				text-transform: uppercase;
+			}
+
+		}
+	}
+
+}
+
+@media (min-width: 480px) {
+	.navbar {
+		height: 60px;
+		.navcontrol {
+			padding: 0 10px;
+			.navlinks {
+				float: right;
+				height: 0;
+				margin-top: 38px;
+				line-height: 0;
+				div {
+					width: auto;
+					height: auto;
+					margin-left: 50px;
+					text-align: left;
+				}
+
+			}
+		}
+	}
+}
+
+.navbar .navcontrol .navlinks div .current {
+	color: #cf6436;
+}
+
+.navbar .navcontrol .navlinks a {
+	padding: 10px;
+}
+@media (min-width: 480px) {
+	.navbar .navcontrol .navlinks a {
+		padding: 0;
+	}
+}
+
+.navbar .navcontrol .navlinks a:hover {
+	color: #d3b9aa;
+}
+
+.navbar .navcontrol .homelink {
+	position: absolute;
+	left: 50%;
+	-webkit-transform: translateX(-50%);
+	-moz-transform: translateX(-50%);
+	-ms-transform: translateX(-50%);
+	-o-transform: translateX(-50%);
+	transform: translateX(-50%);
+	width: 40px;
+	height: 40px;
+	margin-top: 10px;
+	background-image: url("/images/top_logo.png");
+}
+@media (min-width: 480px) {
+	.navbar .navcontrol .homelink {
+		position: static;
+		float: left;
+		-webkit-transform: none;
+		-moz-transform: none;
+		-ms-transform: none;
+		-o-transform: none;
+		transform: none;
+	}
+}
+
+.navbar .navcontrol .homelink img {
+	visibility: hidden;
+}
+
+.navbar .navcontrol .homelink:hover img {
+	visibility: visible;
+}
+
+/*
+###### FOOTER ###################################
+ */
+
+.footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	height: 90px;
+	background-color: #f4f7f5;
+	background-image: url("/images/double_lines_footer.png");
+	background-repeat: repeat-x;
+	background-position: 0px 5px;
+	font-family: Arvo;
+	font-size: 11px;
+}
+
+.footer .footercontent {
+	max-width: 900px;
+	padding: 25px 10px 0 10px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.footer .footercontent .contactinfo {
+	float: left;
+}
+
+.footer .footercontent .contactlinks {
+	float: right;
+	padding-left: 7px;
+	border-left: #d0d2d1 1px solid;
+}
+@media (min-width: 360px) {
+	.footer .footercontent .contactlinks {
+		padding: 0;
+		border: none;
+	}
+}
+
+.footer .footercontent .contactlinks .contactblurb {
+	text-align: right;
+}
+
+.footer .footercontent .contactlinks .icons {
+	margin-top: 10px;
+	position: relative;
+}
+
+.footer .footercontent .contactlinks .icons a figure {
+	display: inline-block;
+	vertical-align: middle;
+	margin: 0 0 0 20px;
+}
+.footer .footercontent .contactlinks .icons a:first-child figure {
+	margin-left: 0;
+}
+
+.footer .footercontent .contactlinks .icons a figure figcaption {
+	display: none;
+}
+
+@media (min-width: 400px) {
+	.footer .footercontent .contactlinks .icons a #email:hover figcaption {
+		position: absolute;
+		display: block;
+		left: -50px;
+		color: #1a9aa0;
+	}
+
+	.footer .footercontent .contactlinks .icons a #facebook:hover figcaption {
+		position: absolute;
+		display: block;
+		left: -70px;
+		top: 5px;
+		color: #1a9aa0;
+	}
+
+	.footer .footercontent .contactlinks .icons a #dlist:hover figcaption {
+		position: absolute;
+		display: block;
+		left: -100px;
+		top: 6px;
+		color: #1a9aa0;
+	}
+}
+
+/*
+###### FRONTPAGE ###################################
+ */
+
+.frontpage {
+	margin-bottom: 0;
+}
+
+.frontpage header img {
+	display: block;
+	max-width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.frontpage header div {
+	display: block;
+	font-family: Arvo;
+	font-size: 24px;
+	font-weight: bold;
+	color: #cf6436;
+	text-align: center;
+}
+
+.frontpage p {
+	max-width: 350px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 15px;
+}
+
+.frontpage p a {
+	font-family: Lato;
+	font-size: 14px;
+	color: #c19277;
+}
+
+.frontpage p a:hover {
+	color: #d3b9aa;
+}
+
+/*
+###### ABOUT PAGE ###################################
+ */
+
+.aboutpage .leaders {
+	text-align: center;
+	margin-top: -60px;
+}
+
+.aboutpage .vision p {
+	margin: 10px 5px;
+}
+
+.aboutpage .vision a {
+	font-family: Lato;
+	font-size: 14px;
+	color: #c19277;
+}
+
+.aboutpage .vision a:hover {
+	color: #d3b9aa;
+}
+
+.aboutpage .leaders figure {
+	display: inline-block;
+	vertical-align: top;
+	margin: 60px 15px 0 15px;
+}
+
+.aboutpage .leaders figure>img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.aboutpage .leaders figure h2 {
+	text-align: center;
+	width: 200px;
+	text-transform: uppercase;
+	margin-top: 15px;
+}
+
+.aboutpage .leaders figure p, .aboutpage .leaders div.tricolumn p {
+	text-align: center;
+	width: 200px;
+	font-style: italic;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.aboutpage .leaders figure .email:before {
+	content: url("/images/email_icon.png");
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.aboutpage .leaders div.tricolumn h2 {
+	text-align: center;
+	margin-bottom: 15px;
+}
+
+.aboutpage .leaders div.tricolumn .email:before {
+	content: url("/images/email_icon.png");
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+/*
+###### GROUPS PAGE ###################################
+ */
+
+.groupspage .sectionheader {
+	margin-bottom: 30px;
+}
+
+.groupspage .cogs {
+	margin-top: 50px;
+	text-align: center;
+}
+
+.groupspage .cogs dl {
+	float: left;
+	font-family: Lato;
+	font-size: 14px;
+	width: 230px;
+}
+
+.groupspage .cogs dl dt {
+	clear: left;
+	float: left;
+	color: #cf6436;
+	width: 80px;
+	margin: 0;
+}
+
+.groupspage .cogs dl dd {
+	float: left;
+	color: #515151;
+	width: 140px;
+	margin: 0;
+}
+
+.smallgroup {
+	display: inline-block;
+	text-align: left;
+}
+@media (min-width: 900px) {
+	.smallgroup {
+		width: 100%;
+		height: 100%;
+	}
+}
+
+.smallgroup p {
+	max-width: 240px;
+	margin-top: .5em;
+}
+
+.groupspage a {
+	text-decoration: underline;
+	transition: color .1s;
+}
+
+.smallgroup a {
+	white-space: nowrap;
+}
+
+.groupspage a:hover {
+	color: #cf6436;
+}
+
+/* in two-column layout with odd number of groups, keep
+ * last group from ending up awkwardly in the middle */
+@media (min-width: 510px) and (max-width: 899px) {
+	.groupspage .tricolumn:last-child:nth-child(2n + 1) {
+		margin-right: 50%;
+	}
+}
+
+/*
+###### EVENTS PAGE ###################################
+ */
+
+.eventspage .events p {
+	margin: 10px 0;
+	text-align: left;
+}
+
+.eventspage .events a {
+	font-family: Lato;
+	font-size: 14px;
+	color: #c19277;
+}
+
+.eventspage .events a:hover {
+	color: #d3b9aa;
+}
+
+/* this and the next rule make the calendar change
+ * width based on the viewport, while maintaining
+ * aspect ratio */
+.eventspage .calendar {
+	position: relative;
+	height: 0;
+	padding-top: 56.25%;
+	text-align: center;
+}
+
+.eventspage .calendar iframe {
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	z-index: 100;
+}
+
+.eventspage .tricolumn {
+	text-align: left;
+}
+
+@media (min-width: 510px) {
+	.eventspage .tricolumn p {
+		max-width: 230px;
+	}
+}
+
+/*
+###### PHOTOS PAGE ###################################
+ */
+
+.photospage p {
+	margin-bottom: 30px;
+}
+
+.photospage .photos {
+	text-align: center;
+}
+
+.photospage .photos div {
+	padding: 20px 10px;
+	display: inline-block;
+}
+
+.photospage .photos div:nth-child(3n+1) {
+	padding-left: 0;
+}
+
+.photospage .photos div:nth-child(3n+3) {
+	padding-right: 0;
+}
+
+.photospage .photos figure {
+	padding: 10px;
+	margin: 0;
+	background-color: #fcfcfc;
+	border: 1px solid #dddddd;
+	box-shadow: 0 1px 5px rgba(0,0,0,.15);
+	position: relative;
+}
+
+.photospage .photos figure:hover {
+	-moz-transform: translate(0, -2px); -webkit-transform: translate(0, -2px); -o-transform: translate(0, -2px); -ms-transform: translate(0, -2px); transform: translate(0, -2px);
+}
+
+.photospage .photos div:nth-child(4n+1) {
+	-moz-transform: rotate(-2deg) translate(0, -2px); -webkit-transform: rotate(-2deg) translate(0, -2px); -o-transform: rotate(-2deg) translate(0, -2px); -ms-transform: rotate(-2deg) translate(0, -2px); transform: rotate(-2deg) translate(0, -2px);
+}
+
+.photospage .photos div:nth-child(4n+2) {
+	-moz-transform: translate(0, -2px); -webkit-transform: translate(0, -2px); -o-transform: translate(0, -2px); -ms-transform: translate(0, -2px); transform: translate(0, -2px);
+}
+
+.photospage .photos div:nth-child(4n+3) {
+	-moz-transform: rotate(2deg) translate(0, 2px); -webkit-transform: rotate(2deg) translate(0, 2px); -o-transform: rotate(2deg) translate(0, 2px); -ms-transform: rotate(2deg) translate(0, 2px); transform: rotate(2deg) translate(0, 2px);
+}
+
+.photospage .photos figure:before {
+	content: "";
+	position: absolute;
+
+	top: -15px;
+	right: 20%;
+
+	width: 60%;
+	height: 40px;
+	background-color: rgba(255, 255, 255,0.6);
+
+	border-left: 1px dashed rgba(0,0,0,0.1);
+	border-right: 1px dashed rgba(0,0,0,0.1);	
+}
+
+.photospage .photos figure img {
+	display: block;
+	max-width: 250px;
+	max-height: 250px;
+	margin-left: auto;
+	margin-right: auto;
+	border: 1px solid #ccc;
+}
+
+.photospage .photos figure figcaption {
+	max-width: 260px;
+	padding: 10px 0 5px 0;
+	font-family: Lato;
+	font-size: 14px;
+	color: #515151;
+	text-align: center;
+}
+
+/*
+###### LINKS PAGE ###################################
+ */
+
+.linkspage .churches h2 {
+	text-align: left;
+	margin: 10px 0;
+}
+
+.linkspage .tricolumn {
+	text-align: left;
+}
+
+.linkspage .churches .tricolumn {
+	width: 275px;
+}
+
+.linkspage a {
+	font-family: Lato;
+	font-size: 14px;
+	color: #c19277;
+}
+
+.linkspage a:hover {
+	color: #d3b9aa;
+}
+
+.linkspage .affiliations {
+	margin-bottom: 15px;
+}
+
+/*
+###### FISHES PAGE ###################################
+ */
+
+.fishespage a {
+	color: #c19277;
+}
+
+.fishespage a:hover {
+	color: #d3b9aa;
+}
