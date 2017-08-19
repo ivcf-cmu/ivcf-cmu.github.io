@@ -61,7 +61,7 @@ a {
 	}
 }
 
-article {
+.content {
 	margin-left: auto;
 	margin-right: auto;
 	margin-bottom: 150px;
@@ -124,10 +124,11 @@ article {
 	}
 }
 
-.sectionheader {
+.section-header {
 	padding: 0;
 	margin-bottom: 50px;
-	background-repeat: no-repeat;
+	background-repeat-y: no-repeat;
+	background-repeat-x: repeat;
 	background-position: left center;
 	text-align: center;
 
@@ -139,7 +140,7 @@ article {
 	}
 }
 
-.aboutpage .halfcolumn p {
+.content-about .halfcolumn p {
 	margin-left: 50px;
 }
 
@@ -391,72 +392,76 @@ article {
 ###### ABOUT PAGE ###################################
  */
 
-.aboutpage .leaders {
+.content-about .leaders {
 	text-align: center;
 	margin-top: -60px;
 }
 
-.aboutpage .vision p {
-	margin: 10px 5px;
-}
 
-.aboutpage .vision a {
-	font-family: Lato;
-	font-size: 14px;
-	color: #c19277;
-}
+.content-about {
+	p {
+		margin: 10px 5px;
+	}
 
-.aboutpage .vision a:hover {
-	color: #d3b9aa;
-}
+	a {
+		font-family: Lato;
+		font-size: 14px;
+		color: #c19277;
 
-.aboutpage .leaders figure {
-	display: inline-block;
-	vertical-align: top;
-	margin: 60px 15px 0 15px;
-}
+		&:hover {
+			color: #d3b9aa;
+		}
+	}
 
-.aboutpage .leaders figure>img {
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-}
+	.leaders figure {
+		display: inline-block;
+		vertical-align: top;
+		margin: 60px 15px 0 15px;
+	}
 
-.aboutpage .leaders figure h2 {
-	text-align: center;
-	width: 200px;
-	text-transform: uppercase;
-	margin-top: 15px;
-}
+	.leaders figure>img {
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
 
-.aboutpage .leaders figure p, .aboutpage .leaders div.tricolumn p {
-	text-align: center;
-	width: 200px;
-	font-style: italic;
-	margin-left: auto;
-	margin-right: auto;
-}
+	.leaders figure h2 {
+		text-align: center;
+		width: 200px;
+		text-transform: uppercase;
+		margin-top: 15px;
+	}
 
-.aboutpage .leaders figure .email:before {
-	margin-right: 5px;
-	vertical-align: middle;
-}
+	.leaders figure p, .leaders div.tricolumn p {
+		text-align: center;
+		width: 200px;
+		font-style: italic;
+		margin-left: auto;
+		margin-right: auto;
+	}
 
-.aboutpage .leaders div.tricolumn h2 {
-	text-align: center;
-	margin-bottom: 15px;
-}
+	.leaders figure .email:before {
+		margin-right: 5px;
+		vertical-align: middle;
+	}
 
-.aboutpage .leaders div.tricolumn .email:before {
-	margin-right: 5px;
-	vertical-align: middle;
+	.leaders div.tricolumn h2 {
+		text-align: center;
+		margin-bottom: 15px;
+	}
+
+	.leaders div.tricolumn .email:before {
+		margin-right: 5px;
+		vertical-align: middle;
+	}
+
 }
 
 /*
 ###### GROUPS PAGE ###################################
  */
 
-.groupspage .sectionheader {
+.groupspage .section-header {
 	margin-bottom: 30px;
 }
 

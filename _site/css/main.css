@@ -17,7 +17,7 @@ a { color: inherit; }
 a:link { color: inherit; text-decoration: none; }
 a:visited { color: inherit; }
 
-article { margin-left: auto; margin-right: auto; margin-bottom: 150px; max-width: 900px; padding: 0 10px; }
+.content { margin-left: auto; margin-right: auto; margin-bottom: 150px; max-width: 900px; padding: 0 10px; }
 
 .halfcolumn { display: inline-block; width: 445px; vertical-align: top; text-align: left; }
 
@@ -35,10 +35,10 @@ article { margin-left: auto; margin-right: auto; margin-bottom: 150px; max-width
   .tricolumn:nth-child(3n+2) { margin: 0 80px; }
   /* spacing between rows */
   .tricolumn:nth-child(n+4) { margin-top: 60px; } }
-.sectionheader { padding: 0; margin-bottom: 50px; background-repeat: no-repeat; background-position: left center; text-align: center; }
-.sectionheader h1 { text-align: center; text-transform: uppercase; display: inline-block; padding: 0 20px; }
+.section-header { padding: 0; margin-bottom: 50px; background-repeat-y: no-repeat; background-repeat-x: repeat; background-position: left center; text-align: center; }
+.section-header h1 { text-align: center; text-transform: uppercase; display: inline-block; padding: 0 20px; }
 
-.aboutpage .halfcolumn p { margin-left: 50px; }
+.content-about .halfcolumn p { margin-left: 50px; }
 
 /* for when you want to force something like a heading to break a certain way (like Fellowships @ CMU in links.html) */
 @media (min-width: 500px) { .responsive-br { display: none; } }
@@ -107,31 +107,22 @@ article { margin-left: auto; margin-right: auto; margin-bottom: 150px; max-width
 
 /*
 ###### ABOUT PAGE ################################### */
-.aboutpage .leaders { text-align: center; margin-top: -60px; }
+.content-about .leaders { text-align: center; margin-top: -60px; }
 
-.aboutpage .vision p { margin: 10px 5px; }
-
-.aboutpage .vision a { font-family: Lato; font-size: 14px; color: #c19277; }
-
-.aboutpage .vision a:hover { color: #d3b9aa; }
-
-.aboutpage .leaders figure { display: inline-block; vertical-align: top; margin: 60px 15px 0 15px; }
-
-.aboutpage .leaders figure > img { display: block; margin-left: auto; margin-right: auto; }
-
-.aboutpage .leaders figure h2 { text-align: center; width: 200px; text-transform: uppercase; margin-top: 15px; }
-
-.aboutpage .leaders figure p, .aboutpage .leaders div.tricolumn p { text-align: center; width: 200px; font-style: italic; margin-left: auto; margin-right: auto; }
-
-.aboutpage .leaders figure .email:before { margin-right: 5px; vertical-align: middle; }
-
-.aboutpage .leaders div.tricolumn h2 { text-align: center; margin-bottom: 15px; }
-
-.aboutpage .leaders div.tricolumn .email:before { margin-right: 5px; vertical-align: middle; }
+.content-about p { margin: 10px 5px; }
+.content-about a { font-family: Lato; font-size: 14px; color: #c19277; }
+.content-about a:hover { color: #d3b9aa; }
+.content-about .leaders figure { display: inline-block; vertical-align: top; margin: 60px 15px 0 15px; }
+.content-about .leaders figure > img { display: block; margin-left: auto; margin-right: auto; }
+.content-about .leaders figure h2 { text-align: center; width: 200px; text-transform: uppercase; margin-top: 15px; }
+.content-about .leaders figure p, .content-about .leaders div.tricolumn p { text-align: center; width: 200px; font-style: italic; margin-left: auto; margin-right: auto; }
+.content-about .leaders figure .email:before { margin-right: 5px; vertical-align: middle; }
+.content-about .leaders div.tricolumn h2 { text-align: center; margin-bottom: 15px; }
+.content-about .leaders div.tricolumn .email:before { margin-right: 5px; vertical-align: middle; }
 
 /*
 ###### GROUPS PAGE ################################### */
-.groupspage .sectionheader { margin-bottom: 30px; }
+.groupspage .section-header { margin-bottom: 30px; }
 
 .groupspage .cogs { margin-top: 50px; text-align: center; }
 

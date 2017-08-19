@@ -1,29 +1,16 @@
 ---
 layout: default
 page: about
+sectionHeader: Our Vision
 ---
-  <article class="aboutpage">
-    <header class="sectionheader">
-      <h1>Our Vision</h1>
-    </header>
-    <div class="vision">
-      <p>
-      InterVarsity-USA&rsquo;s vision is to see students and faculty transformed,
-      campuses renewed, and world changers developed.
-      </p>
-      <!--<p>
-      Our chapter&rsquo;s vision for the year is: Going deep brings life.
-      <ol>
-        <li>Transformation: <em>deep commitment</em> to relationship with God</li>
-        <li>Community: <em>deep care</em> for one another</li>
-        <li>Mission: <em>deep compassion</em> for campus and world</li>
-      </ol>
-      </p>-->
-      <p><a href="http://www.intervarsity.org/about/our/our-doctrinal-basis" target="_blank">Read InterVarsity-USA's doctrinal basis here!</a></p>
-    </div>
-    <!--
-    <div class="halfcolumn">
-      <img src="images/placeholder.jpg" />
-    </div>
-    -->
-  </article>
+In response to God's love, grace, and truth, our vision is to grow in love with God
+
+ - Through God's Word
+ - With All of God's People, Regardless of Ethnicity or Culture
+ - For God's Purposes in the World
+
+InterVarsity Christian Fellowship/USA is a vibrant campus ministry that establishes and advances witnessing communties of students and faculty. We minister to all through small group Bible studies, large campus gatherings, leadership training, thoughtful discipleship, and life-changing conferences and events.
+
+In one accord with all Christians on campus, we have a vision to see Carnegie Mellon University become a place where Jesus' name is lifted on high and glorified.
+
+[Read InterVarsity-USA's doctrinal basis](http://www.intervarsity.org/about/our/our-doctrinal-basis)

@@ -1,18 +1,8 @@
----
+--
 layout: default
-page: groups
----
-
-<article class="groupspage">
-	<header class="sectionheader">
-		<h1>Large Group</h1>
-	</header>
-	<p>
-		Large group is a weekly event where all of the small groups gather in one place to
-		worship God, know Him better, have fellowship with one another, and be
-		ignited for the sake of our community groups.
-	</p>
-</article>
+page: Small Groups
+sectionHeader: Small Groups`
+--
 <article class="groupspage">
 	<header class="sectionheader">
 		<h1>Small Groups</h1>
@@ -92,5 +82,5 @@ page: groups
 			</div>
 		</div>
 	</div>
-</article>
+	<div
 

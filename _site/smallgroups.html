@@ -11,10 +11,10 @@
   <meta name="author" content="Michelle Reinhold" />
   <meta name="author" content="Sang Tian" />
   <style>
-.sectionheader {
+.section-header {
 	background-image: url("/images/double_lines.png");
 }
-.sectionheader h1 {
+.section-header h1 {
 	background-image: url("/images/bg.jpg");
 }
 
@@ -26,11 +26,11 @@
 	background-image: url("/images/double_lines_footer.png");
 }
 
-.aboutpage .leaders figure .email:before {
+.content-about .leaders figure .email:before {
 	content: url("/images/email_icon.png");
 }
 
-.aboutpage .leaders div.tricolumn .email:before {
+.content-about .leaders div.tricolumn .email:before {
 	content: url("/images/email_icon.png");
 }
 </style>
@@ -48,7 +48,7 @@
 		</a>
 		<div class="navlinks">
 			<div><a href="about" class="">About</a></div>
-			<div><a href="groups" class="current">Groups</a></div>
+			<div><a href="groups" class="">Groups</a></div>
 			<div><a href="events" class="">Events</a></div>
 			<!--<div><a href="photos">Photos</a></div>-->
 			<div><a href="links" class="">Links</a></div>
@@ -57,16 +57,15 @@
 </header>
 
 		<div class='main'>
-			<article class="groupspage">
-	<header class="sectionheader">
-		<h1>Large Group</h1>
-	</header>
-	<p>
-		Large group is a weekly event where all of the small groups gather in one place to
-		worship God, know Him better, have fellowship with one another, and be
-		ignited for the sake of our community groups.
-	</p>
-</article>
+			<div class='content content-'>
+				<div class='section-header'>
+					<h1></h1>
+				</div>
+			<p>–
+layout: default
+page: Small Groups
+sectionHeader: Small Groups`
+–</p>
 <article class="groupspage">
 	<header class="sectionheader">
 		<h1>Small Groups</h1>
@@ -146,9 +145,11 @@
 			</div>
 		</div>
 	</div>
+	&lt;div
+
 </article>
 
-
+			</div>
 		</div>
 		<div class="footer">
 	<div class="footercontent">
