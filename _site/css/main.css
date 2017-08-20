@@ -122,45 +122,39 @@ a:visited { color: inherit; }
 
 /*
 ###### GROUPS PAGE ################################### */
-.groupspage .section-header { margin-bottom: 30px; }
-
-.groupspage .cogs { margin-top: 50px; text-align: center; }
-
-.groupspage .cogs dl { float: left; font-family: Lato; font-size: 14px; width: 230px; }
-
-.groupspage .cogs dl dt { clear: left; float: left; color: #cf6436; width: 80px; margin: 0; }
-
-.groupspage .cogs dl dd { float: left; color: #515151; width: 140px; margin: 0; }
-
-.smallgroup { display: inline-block; text-align: left; }
-
-@media (min-width: 900px) { .smallgroup { width: 100%; height: 100%; } }
-.smallgroup p { max-width: 240px; margin-top: .5em; }
-
-.groupspage a { text-decoration: underline; transition: color .1s; }
-
-.smallgroup a { white-space: nowrap; }
-
-.groupspage a:hover { color: #cf6436; }
+.content-smallgroups .section-header, .content-largegroup .section-header { margin-bottom: 30px; }
+.content-smallgroups .cogs, .content-largegroup .cogs { margin-top: 50px; text-align: center; }
+.content-smallgroups .cogs dl, .content-largegroup .cogs dl { overflow: auto; float: left; font-family: Lato; font-size: 14px; width: 230px; }
+.content-smallgroups .cogs dl dt, .content-largegroup .cogs dl dt { clear: left; float: left; color: #cf6436; width: 80px; margin: 0; }
+.content-smallgroups .cogs dl dd, .content-largegroup .cogs dl dd { float: left; color: #515151; width: 140px; margin: 0; }
+.content-smallgroups .cogs-large dl, .content-largegroup .cogs-large dl { margin: auto; width: 320px; float: none; }
+.content-smallgroups .cogs-large dl dt, .content-largegroup .cogs-large dl dt { width: 110px; text-align: left; }
+.content-smallgroups .cogs-large dl dt a, .content-largegroup .cogs-large dl dt a { text-decoration: none; }
+.content-smallgroups .cogs-large dl dd, .content-largegroup .cogs-large dl dd { text-align: left; width: 200px; }
+.content-smallgroups .smallgroup, .content-largegroup .smallgroup { display: inline-block; text-align: left; }
+@media (min-width: 900px) { .content-smallgroups .smallgroup, .content-largegroup .smallgroup { width: 100%; height: 100%; } }
+.content-smallgroups .smallgroup p, .content-largegroup .smallgroup p { max-width: 240px; margin-top: .5em; }
+.content-smallgroups a, .content-largegroup a { text-decoration: underline; transition: color .1s; }
+.content-smallgroups .smallgroup a, .content-largegroup .smallgroup a { white-space: nowrap; }
+.content-smallgroups a:hover, .content-largegroup a:hover { color: #cf6436; }
+.content-smallgroups #location-addendum, .content-largegroup #location-addendum { margin-top: 40px; }
 
 /* in two-column layout with odd number of groups, keep last group from ending up awkwardly in the middle */
 @media (min-width: 510px) and (max-width: 899px) { .groupspage .tricolumn:last-child:nth-child(2n + 1) { margin-right: 50%; } }
 /*
 ###### EVENTS PAGE ################################### */
-.eventspage .events p { margin: 10px 0; text-align: left; }
+.content-events p { margin: 10px 0; text-align: left; }
+.content-events a { font-family: Lato; font-size: 14px; color: #c19277; }
+.content-events a:hover { color: #d3b9aa; }
+.content-events .tricolumn { text-align: left; }
 
-.eventspage .events a { font-family: Lato; font-size: 14px; color: #c19277; }
-
-.eventspage .events a:hover { color: #d3b9aa; }
-
+@media (min-width: 510px) { .content-events .tricolumn p { max-width: 230px; } }
+/*
+###### CALENDAR PAGE ################################# */
 /* this and the next rule make the calendar change width based on the viewport, while maintaining aspect ratio */
-.eventspage .calendar { position: relative; height: 0; padding-top: 56.25%; text-align: center; }
+.content-calendar { display: flex; flex-direction: column; }
+.content-calendar iframe { min-height: 100vh; }
 
-.eventspage .calendar iframe { position: absolute; height: 100%; width: 100%; top: 0; right: 0; bottom: 0; left: 0; z-index: 100; }
-
-.eventspage .tricolumn { text-align: left; }
-
-@media (min-width: 510px) { .eventspage .tricolumn p { max-width: 230px; } }
 /*
 ###### PHOTOS PAGE ################################### */
 .photospage p { margin-bottom: 30px; }
@@ -191,17 +185,16 @@ a:visited { color: inherit; }
 
 /*
 ###### LINKS PAGE ################################### */
-.linkspage .churches h2 { text-align: left; margin: 10px 0; }
-
-.linkspage .tricolumn { text-align: left; }
-
-.linkspage .churches .tricolumn { width: 275px; }
-
-.linkspage a { font-family: Lato; font-size: 14px; color: #c19277; }
-
-.linkspage a:hover { color: #d3b9aa; }
-
-.linkspage .affiliations { margin-bottom: 15px; }
+.content-links .churches h2 { text-align: left; margin: 10px 0; }
+.content-links .tricolumn { text-align: left; }
+.content-links .churches .tricolumn { width: 275px; }
+.content-links a { font-family: Lato; font-size: 14px; color: #c19277; }
+.content-links a:hover { color: #d3b9aa; }
+.content-links .affiliations { margin-bottom: 15px; }
+.content-links .contact { display: flex; margin-left: 30px; }
+.content-links .contact:before { content: "\021E5"; margin-right: 10px; color: #1a9aa0; }
+.content-links .contact a { color: #1a9aa0; }
+.content-links .contact a:hover { color: #3fc5cc; }
 
 /*
 ###### FISHES PAGE ################################### */
