@@ -1,2 +1,6 @@
 .sass-cache/
 *.css.map
+Gemfile.lock
+*.swp
+*.swo
+.jekyll-metadata
