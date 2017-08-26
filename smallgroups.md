@@ -49,9 +49,9 @@ Most of InterVarsity’s ministry happens in our small groups where we work toge
 			<dt>Leaders</dt>
 			<dd><a href="mailto:evangelism@andrew.cmu.edu" target="_blank">Ben Huang</a></dd>
 			<dt>Time</dt>
-			<dd>TBD for Fall 2017</dd>
+			<dd>Tuesdays, 5:00 pm</dd>
 			<dt>Location</dt>
-			<dd>TBD for Fall 2017</dd>
+			<dd>5141 Forbes Avenue</dd>
 			</dl>
 		</div>
 	</div>
