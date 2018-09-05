@@ -9,15 +9,15 @@ Most of InterVarsity’s ministry happens in our small groups where we work toge
 <div class="cogs">
 	<div class="tricolumn">
 		<div class="smallgroup">
-			<h2>Women&rsquo;s Group</h2>
+			<h2>Monica's Small Group</h2>
 			<p>A study group geared toward young women that strives to support each other and develop relationships centered on scripture and fellowship</p>
 			<dl>
 			<dt>Gender</dt>
 			<dd>Women</dd>
-			<dt>Leaders</dt>
-			<dd><a href="mailto:womensgroup@andrew.cmu.edu" target="_blank">Rena Miu &amp; Stephanie Ananth</a></dd>
+			<dt>Leader</dt>
+			<dd><a href="mailto:monicale@andrew.cmu.edu" target="_blank">Monica Lee</a></dd>
 			<dt>Time</dt>
-			<dd>Wednesday, 4:30-6:00pm</dd>
+			<dd>Wednesday, 8:00pm</dd>
 			<dt>Location</dt>
 			<dd>UC Chapel</dd>
 			</dl>
@@ -25,69 +25,63 @@ Most of InterVarsity’s ministry happens in our small groups where we work toge
 	</div>
 	<div class="tricolumn">
 		<div class="smallgroup">
-			<h2>Joel and Zach's Small Group</h2>
+			<h2>Jessa's Small Group</h2>
+			<p>A study group geared toward young women that strives to support each other and develop relationships centered on scripture and fellowship</p>
+			<dl>
+			<dt>Gender</dt>
+			<dd>Women</dd>
+			<dt>Leader</dt>
+			<dd><a href="mailto:jwesthei@andrew.cmu.edu" target="_blank">Jessa Wesheimer</a></dd>
+			<dt>Time</dt>
+			<dd>Saturday, 2:30pm</dd>
+			<dt>Location</dt>
+			<dd>UC Chapel</dd>
+			</dl>
+		</div>
+	</div>
+	<div class="tricolumn">
+		<div class="smallgroup">
+			<h2>Zach's Small Group</h2>
 			<p>A small group for men seeking to develop a community based around the study of and devotion to God's word even in a high pressure academic environment</p>
 			<dl>
 			<dt>Gender</dt>
 			<dd>Men</dd>
 			<dt>Leaders</dt>
-			<dd><a href="mailto:mensgroup@andrew.cmu.edu" target="_blank">Joel Loo &amp; Zach Wade</a></dd>
+			<dd><a href="mailto:zwade@andrew.cmu.edu" target="_blank">Zach Wade</a></dd>
 			<dt>Time</dt>
-			<dd>Thursdays, 7:30-9:00pm </dd>
+			<dd>Monday, 6:00-7:30pm </dd>
 			<dt>Location</dt>
-			<dd>CUC Caffee</dd>
+			<dd>UC Chapel</dd>
 			</dl>
 		</div>
 	</div>
 	<div class="tricolumn">
 		<div class="smallgroup">
-			<h2>Ben's Group</h2>
+			<h2>Ben's Small Group</h2>
 			<p>A smaller, more intimate group of men who have hearts for learning how to share the Gospel and then preaching the Word to our campus. We seek to bring younger men into the group and disciple them in the same way our Lord brought up disciples to preach and glorify His name.</p>
 			<dl>
 			<dt>Gender</dt>
 			<dd>Men</dd>
 			<dt>Leaders</dt>
-			<dd><a href="mailto:evangelism@andrew.cmu.edu" target="_blank">Ben Huang</a></dd>
+			<dd><a href="mailto:benhuang@andrew.cmu.edu" target="_blank">Ben Huang</a></dd>
 			<dt>Time</dt>
-			<dd>TBD for Fall 2017</dd>
+			<dd>Wednesday, 6:45</dd>
 			<dt>Location</dt>
-			<dd>TBD for Fall 2017</dd>
+			<dd>5141 Forbes Avenue</dd>
 			</dl>
 		</div>
 	</div>
 	<div class="tricolumn">
 		<div class="smallgroup">
-			<h2>Foundations Group</h2>
-			<p>Foundations is a group comprised of mostly International students who are seeking to learn more about Christianity or just curious about what Christians believe. </p>
+			<h2>David's Small Group</h2>
+			<p>A small group for men who desire a more closer relationship with God and to develop hearts for Him</p>
 			<dl>
-				<dt>Gender</dt> <dd>Co-ed</dd>
-				<dt>Leaders</dt> <dd><a href="mailto:foundations@cmuintervarsity.org" target="_blank">Jenny Liao</a></dd>
-				<dt>Time</dt> <dd>TBD for Fall 2017</dd>
-				<dt>Location</dt> <dd>TBD for Fall 2017</dd>
-			</dl>
-		</div>
-	</div>
-	<div class="tricolumn">
-		<div class="smallgroup">
-			<h2>Greek Group</h2>
-			<p>Greek Group seeks to equip Greek students not only with the Word, but also with techniques and strategies on how to share the Gospel to their friends and in their own living communities.</p>
-			<dl>
-				<dt>Gender</dt> <dd>Co-ed</dd>
-				<dt>Leaders</dt> <dd><a href="mailto:greek@cmuintervarsity.org" target="_blank">Sterling Wells &amp; <br>Monica Lee</a></dd>
-				<dt>Time</dt> <dd>TBD for Fall 2017</dd>
-				<dt>Location</dt> <dd>TBD for Fall 2017</dd>
-			</dl>
-		</div>
-	</div>
-	<div class="tricolumn">
-		<div class="smallgroup">
-			<h2>CFA Group (College of Fine Arts)</h2>
-			<p>A bible study for those in the College of Fine Arts</p>
-			<dl>
-			<dt>Gender</dt> <dd>Co-ed</dd>
-			<dt>Leaders</dt> <dd><a href="mailto:cfa@cmuintervarsity.org" target="_blank">Natalie Harmon</a></dd>
-			<dt>Time</dt> <dd>TBD for Fall 2017</dd>
-			<dt>Location</dt> <dd>TBD for Fall 2017</dd>
+			<dt>Gender</dt> <dd>Men</dd>
+			<dt>Leaders</dt> <dd><a href="mailto:dswhite@cmuintervarsity.org" target="_blank">David White</a></dd>
+			<dt>Time</dt>
+			<dd>Thursday, 5:00pm</dd>
+			<dt>Location</dt>
+			<dd>Resnik 330 Lounge</dd>
 			</dl>
 		</div>
 	</div>
