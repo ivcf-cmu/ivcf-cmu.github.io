@@ -74,7 +74,7 @@ Most of InterVarsity’s ministry happens in our small groups where we work toge
 	<div class="tricolumn">
 		<div class="smallgroup">
 			<h2>David's Small Group</h2>
-			<p>A small group for men who desire a more closer relationship with God and to develop hearts for Him</p>
+			<p>A small group for men who desire to live a more Godly life</p>
 			<dl>
 			<dt>Gender</dt> <dd>Men</dd>
 			<dt>Leaders</dt> <dd><a href="mailto:dswhite@cmuintervarsity.org" target="_blank">David White</a></dd>
