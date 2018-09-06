@@ -4,73 +4,98 @@ page: events
 sectionHeader: Events
 ---
 
-Come with us and spend some time off-campus. Clear your head and learn what God, friends, and life are all about.
+<p>
+Come with us and spend some time off-campus. Clear your head and learn what God, friends, and life are all about. For questions, or to RSVP please contact <a href="mailto:rfeeck@andrew.cmu.edu">Rachel Feeck</a>. Make sure to join <a href="https://www.facebook.com/groups/1519875101640963/">IVCF Misc</a> on Facebook to get the latest updates!
+</p>
 
 
 
-<div>
-<div class="tricolumn">
-<h2>Harvest</h2>
-<p>
-This is InterVarsity's regional fall conference, bringing together
-chapters from various campuses on a weekend retreat of rest, worship,
-and learning.
-</p>
-<a href="http://gowithiv.org/harvest/" target="_blank">
-  Official Website
-</a>
-</div>
-<div class="tricolumn">
-<h2>Urbana</h2>
-<p>
-Urbana is a triennial event where over 25,000 people gather to worship
-God and hear how he is using people to accomplish his purposes
-throughout the world. For sixty years, God has been using Urbana
-conventions to change the lives of students and to advance His Kingdom
-in our world.
-</p>
-<a href="http://www.urbana.org/" target="_blank">
-  Official Website
-</a>
-</div>
-<div class="tricolumn">
-<h2>IFA Philly Missions Trip</h2>
-<p>
-The Inter-fellowship Association at CMU organizes a week-long missions trip to Philadelphia to preach the gospel and spread love to the under-privileged in one of Philly's worst neighborhoods. Christians from many different fellowships will band together to run Vacation Bible School for the urban youth in the afternoon, preach to the homeless and drug addicts at night, and be a light to the Kensington community for a whole week.
-
-Natalie Harmon and David White will be leading the trip during Spring Break 2018! For more information, contact either of them.
-</p>
-</div>
-<div class="tricolumn">
-<h2>Chapter Focus Week</h2>
-<p>
-Our regional CFW is held every spring at Cedar Campus, Michigan. It is
-a time where students in the chapter retreat from campus for a week of
-reflection, worship, learning, and planning for ministry efforts in the
-next school year.
-</p>
-<a href="http://www.chapterfocusweek.com/" target="_blank">
-  Official Website
-</a>
-</div>
-<div class="tricolumn">
-<h2>Global Urban Trek</h2>
-<p>
-Spend your summer living and serving among the poorest of the poor,
-under the leadership of national ministry partners. Trust God in hard
-places and follow Jesus to serve the least of these.
-</p>
-<a href="http://globalurbantrek.intervarsity.org" target="_blank">
-  Official Website
-</a>
-</div>
-<div class="tricolumn">
-<h2>Global Program</h2>
-<p>
-You’ll remember what you did each summer during college for the rest of your life, so why not make it really count? Want to share the gospel with university students and others in East Asia or Bolivia? An adventure in ministry awaits you!
-</p>
-<a href="http://gowithiv.org/summer/" target="_blank">
-  Official Website
-</a>
-</div>
+<div class="content-events">
+	<div class="cogs">
+		<div class="tricolumn">
+			<h2>Games on the Cut</h2>
+			<dl>
+				<dt>When?&nbsp;</dt><dd>Mondays for as long as the weather is good</dd>
+				<dt>Where?&nbsp;</dt><dd>The Cut</dd>
+			</dl>
+			<p>
+				Like Frisbee, Kan Jam, or Spike Ball? Find us on the cut for fun and games!
+			</p>
+		</div>
+		<div class="tricolumn">
+			<h2>Potluck and Board Games</h2>
+			<dl>
+				<dt>When?&nbsp;</dt><dd>Saturday, September 15 at 5:30 PM</dd>
+				<dt>Where?&nbsp;</dt><dd>222 Lytton Avenue, Pittsburgh PA</dd>
+			</dl>
+			<p>
+				Join us for food, friends, and fun!
+			</p>
+		</div>
+		<div class="tricolumn">
+			<h2>Pirates vs. Brewers Ball Game</h2>
+			<dl>
+				<dt>When?&nbsp;</dt><dd>Saturday, September 22 from 6:00 PM to 10:00 PM</dd>
+				<dt>Where?&nbsp;</dt><dd>PNC Park</dd>
+			</dl>
+			<p>
+				Come out to PNC park for a fun time with friends and ballgame excitement.  We will take the bus to and from the game.  Ticket cost is $20.  RSVP required.
+			</p>
+		</div>
+		<div class="tricolumn">
+			<h2>Paintball</h2>
+			<dl>
+				<dt>When?&nbsp;</dt><dd>Saturday, September 29 from 10:00 AM to 3:00 PM</dd>
+				<dt>Where?&nbsp;</dt><dd>PNC Park</dd>
+			</dl>
+			<p>
+				Weather permitting.  Tactical team-based fun and fellowship.  $25 gets you equipment and paint.
+			</p>
+		</div>
+		<div class="tricolumn">
+			<h2>The Overnighter</h2>
+			<dl>
+				<dt>When?&nbsp;</dt><dd>Saturday & Sunday, October 13-14</dd>
+			</dl>
+			<p>
+				Relax, refresh, and refocus at our annual fall retreat. Worship, prayer, discussions, and learning as well as games, friends, food, and a campfire all make for a weekend that everyone should attend.
+			</p>
+		</div>
+		<div class="tricolumn">
+		<h2>Harvest</h2>
+			<p>
+			This is InterVarsity's regional fall conference, bringing together
+			chapters from various campuses on a weekend retreat of rest, worship,
+			and learning.
+			</p>
+			<a href="http://gowithiv.org/harvest/" target="_blank">
+			  Official Website
+			</a>
+		</div>
+		<div class="tricolumn">
+			<h2>Urbana</h2>
+			<p>
+			Urbana is a triennial event where over 25,000 people gather to worship
+			God and hear how he is using people to accomplish his purposes
+			throughout the world. For sixty years, God has been using Urbana
+			conventions to change the lives of students and to advance His Kingdom
+			in our world.
+			</p>
+			<a href="http://www.urbana.org/" target="_blank">
+			  Official Website
+			</a>
+		</div>
+		<div class="tricolumn">
+			<h2>Chapter Focus Week</h2>
+			<p>
+			Our regional CFW is held every spring at Cedar Campus, Michigan. It is
+			a time where students in the chapter retreat from campus for a week of
+			reflection, worship, learning, and planning for ministry efforts in the
+			next school year.
+			</p>
+			<a href="http://www.chapterfocusweek.com/" target="_blank">
+			  Official Website
+			</a>
+		</div>
+	</div>
 </div>

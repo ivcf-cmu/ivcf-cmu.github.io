@@ -12,6 +12,7 @@
 
 html {
 	position: relative;
+	font-family: Lato;
 	width: 100%;
 	min-height: 100%;
 	overflow-y: scroll;
@@ -461,7 +462,7 @@ a {
 ###### GROUPS PAGE ###################################
  */
 
-.content-smallgroups, .content-largegroup  {
+.content-smallgroups, .content-largegroup, .content-events  {
 	.section-header {
 		margin-bottom: 30px;
 	}
