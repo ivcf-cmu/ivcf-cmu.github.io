@@ -62,17 +62,6 @@ Come with us and spend some time off-campus. Clear your head and learn what God,
 			</p>
 		</div>
 		<div class="tricolumn">
-		<h2>Harvest</h2>
-			<p>
-			This is InterVarsity's regional fall conference, bringing together
-			chapters from various campuses on a weekend retreat of rest, worship,
-			and learning.
-			</p>
-			<a href="http://gowithiv.org/harvest/" target="_blank">
-			  Official Website
-			</a>
-		</div>
-		<div class="tricolumn">
 			<h2>Urbana</h2>
 			<p>
 			Urbana is a triennial event where over 25,000 people gather to worship
