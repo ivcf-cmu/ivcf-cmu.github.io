@@ -63,7 +63,7 @@ Most of InterVarsity’s ministry happens in our small groups where we work toge
 			<dt>Gender</dt>
 			<dd>Men</dd>
 			<dt>Leaders</dt>
-			<dd><a href="mailto:benhuang@andrew.cmu.edu" target="_blank">Ben Huang</a></dd>
+			<dd><a href="mailto:zemingbh@andrew.cmu.edu" target="_blank">Ben Huang</a></dd>
 			<dt>Time</dt>
 			<dd>Wednesday, 6:45</dd>
 			<dt>Location</dt>
