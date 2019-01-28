@@ -19,7 +19,7 @@ Most of InterVarsity’s ministry happens in our small groups where we work toge
 			<dt>Time</dt>
 			<dd>Monday, 8:00pm</dd>
 			<dt>Location</dt>
-			<dd>TBD</dd>
+			<dd>UC Chapel</dd>
 			</dl>
 		</div>
 	</div>
