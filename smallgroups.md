@@ -35,7 +35,7 @@ Most of InterVarsity’s ministry happens in our small groups where we work toge
 			<dt>Time</dt>
 			<dd>Tuesday, 7:30pm</dd>
 			<dt>Location</dt>
-			<dd>TBD</dd>
+			<dd>Doherty Hall 2105</dd>
 			</dl>
 		</div>
 	</div>
