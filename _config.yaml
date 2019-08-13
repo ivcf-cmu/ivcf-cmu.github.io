@@ -1,5 +1,11 @@
+# Matt Kern is adding this file to give developers more control of what
+# Jekyll is doing
+
+# this helps the {{ 'asdf' | relative_url }} things work right
+# also, helps dev testing vs prod work properly
 baseurl: "/"
 url: "https://www.cmuintervarsity.org"
 
+# sass settings - compresses output css
 sass:
   style: compressed
