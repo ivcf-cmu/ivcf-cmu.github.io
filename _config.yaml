@@ -1,2 +1,5 @@
 baseurl: "/"
 url: "https://www.cmuintervarsity.org"
+
+sass:
+  style: compressed

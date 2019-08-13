@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	{% include head.html %}
-	<body style="background: url('{{ "/images/bg.jpg" | relative_url }}')">
+	<body style="background: url('{{ "images/bg.jpg" | base_url }}')">
 		{% include header.html %}
 		<div class='main'>
 			<div class='content content-{{ page.page }}'>
