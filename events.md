@@ -5,11 +5,13 @@ sectionHeader: Events
 ---
 
 <p>
-Come with us and spend some time off-campus. Clear your head and learn what God, friends, and life are all about. For questions, or to RSVP please contact <a href="mailto:rfeeck@andrew.cmu.edu">Rachel Feeck</a>. Make sure to join <a href="https://www.facebook.com/groups/1519875101640963/">IVCF Misc</a> on Facebook to get the latest updates!
+Come relax and spend some time with us. Clear your head and learn what God, friends, and life are all about. For questions, or to RSVP please contact <a href="mailto:jamiepark@cmu.edu">Jamie Park</a>. Make sure to <a href="https://cmuivcf.slack.com/signup" target="_blank">join CMU IVCF on slack</a> (or simply <a href="https://cmuivcf.slack.com" target="_blank">login</a>) to get the latest updates!
 </p>
-
-
-
+<br/>
+<p>
+Apologies for the delay, but details for fall 2019 events are being finalized and will be posted here very soon!
+</p>
+<!--
 <div class="content-events">
 	<div class="cogs">
 		<div class="tricolumn">
@@ -88,3 +90,4 @@ Come with us and spend some time off-campus. Clear your head and learn what God,
 		</div>
 	</div>
 </div>
+-->
