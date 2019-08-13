@@ -13,5 +13,5 @@ Large group is a weekly event where all of the small groups gather in one place 
 </div>
 
 <p id="location-addendum">
-	On 9/15, 10/6, 10/13, 10/27, 11/5, Large Group will be in WEH 5403. Check the calendar for more information
+	<sup>*</sup>On 8/30, 10/11, and 10/25 Large Group will be in Doherty Hall 1211. Check the calendar for more information
 </p>
