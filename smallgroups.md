@@ -4,8 +4,13 @@ page: smallgroups
 sectionHeader: Small Groups
 ---
 <p>
-Most of InterVarsity’s ministry happens in our small groups where we work together to fulfill the Great Commission of Jesus Christ on our campus. This is done by following the example of the fellowship of Jesus’ apostles, seeking to edify each other through prayer, worship, and Scripture as we invite our community to join us in partaking in God's love for us. Our small groups are not self-contained, but instead are focused on reaching out to the campus community as a whole. 
+Most of InterVarsity’s ministry happens in our small groups where we work together to fulfill the Great Commission of Jesus Christ on our campus. This is done by following the example of the fellowship of Jesus’ apostles, seeking to edify each other through prayer, worship, and Scripture as we invite our community to join us in partaking in God's love for us. Our small groups are not self-contained, but instead, are focused on reaching out to the campus community as a whole.
 </p>
+<br/>
+<p>
+The small groups for Fall 2019 are still being finalized but information will be posted here as soon as possible. Small group meetings will begin during the week of September 2nd (the second week of classes).
+</p>
+<!--
 <div class="cogs">
 	<div class="tricolumn">
 		<div class="smallgroup">
@@ -72,4 +77,4 @@ Most of InterVarsity’s ministry happens in our small groups where we work toge
 		</div>
 	</div>
 </div>
-
+-->
