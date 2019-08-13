@@ -3,11 +3,7 @@ layout: default
 page: otherinfo
 sectionHeader: Contact
 ---
-<!--
-<header class="section-header">
-	<h1>Contact</h1>
-</header>
--->
+
 <p>
 	The CMU IVCF Slack workspace is our main communication channel, and definitely worth joining if you would like to be involved. Signing up is quick and easy:
 </p>
@@ -89,5 +85,5 @@ sectionHeader: Contact
 	<h1>Other <br class="responsive-br"/>Fellowships</h1>
 </header>
 <p class="affiliations">
-	InterVarsity at CMU is a part of CMU's Inter-Fellowship Association (IFA), which is the union of all the Christian fellowships on campus. The groups are all united together to glorify God, but we each do it a little differently, so feel free to <a href="http://christatcmu.com/fellowships.html">check out our fellow fellowships</a> on IFA's website!
+	InterVarsity at CMU is a part of CMU's Inter-Fellowship Association (IFA), which is the union of all the Christian fellowships on campus. The groups are all united together to glorify God, but we each do it a little differently, so feel free to <a href="http://christatcmu.com/fellowships.html" target="_blank">check out our fellow fellowships</a> on IFA's website!
 </p>
