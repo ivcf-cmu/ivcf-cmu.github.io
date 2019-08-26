@@ -9,7 +9,8 @@ sectionHeader: Contact
 </p>
 <p>
 	<ol>
-		<li>Go to <a href="cmuivcf.slack.com/signup">cmuivcf.slack.com/signup</a></li>
+		<!--<li>Go to <a href="cmuivcf.slack.com/signup" target="_blank">cmuivcf.slack.com/signup</a></li>-->
+		<li>Go to <a href="{{ 'https://cmuivcf.slack.com/signup' | absolute_url }}" target="_blank">cmuivcf.slack.com/signup</a></li>
 		<li>Enter your Andrew ID</li>
 		<li>Click "Create Account"</li>
 	</ol>
