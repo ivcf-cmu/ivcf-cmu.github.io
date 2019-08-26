@@ -18,6 +18,14 @@ sectionHeader: Contact
 <p>
 	Note: if you would like to create an account with a different email address please contact <a href="mailto:jamiepark@cmu.edu">Jamie Park</a>
 </p>
+<br/>
+<br/>
+<p>
+	To reach out directly, feel free to send us an email at <a href="mailto:ivcf@andrew.cmu.edu">ivcf@andrew.cmu.edu</a>
+</p>
+<br/>
+<p>
+	For updates via email, <a target="_blank" href="https://lists.andrew.cmu.edu/mailman/listinfo/ivcf-misc">join our mailing list</a>! We generally send one email each week.
 <br/><br/><br/><br/>
 <header class="section-header">
 	<h1>Churches</h1>
