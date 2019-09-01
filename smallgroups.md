@@ -8,73 +8,67 @@ Most of InterVarsity’s ministry happens in our small groups where we work toge
 </p>
 <br/>
 <p>
-The small groups for Fall 2019 are still being finalized but information will be posted here as soon as possible. Small group meetings will begin during the week of September 2nd (the second week of classes).
+This semester our small group Bible studies will be examining the gospel of John and seeking to group in faith and fellowship. And if that is not enough snacks are often provided so you should definitely join us!
 </p>
-<!--
 <div class="cogs">
 	<div class="tricolumn">
 		<div class="smallgroup">
-			<h2>Monica's Small Group</h2>
-			<p>A study group geared toward young women that strives to support each other and develop relationships centered on scripture and fellowship</p>
+			<h2>Jessa’s Group</h2>
 			<dl>
 			<dt>Gender</dt>
 			<dd>Women</dd>
-			<dt>Leader</dt>
-			<dd><a href="mailto:monicale@andrew.cmu.edu" target="_blank">Monica Lee</a></dd>
 			<dt>Time</dt>
-			<dd>Monday, 8:00pm</dd>
+			<dd>Tuesdays, 7:00-8:30pm</dd>
 			<dt>Location</dt>
-			<dd>UC Chapel</dd>
+			<dd>UC Caffee (2nd floor)</dd>
+			<dt>Contact</dt>
+			<dd><a href="mailto:jwesthei@andrew.cmu.edu" target="_blank">Jessa Westheimer</a></dd>
 			</dl>
 		</div>
 	</div>
 	<div class="tricolumn">
 		<div class="smallgroup">
-			<h2>Jessa's Small Group</h2>
-			<p>A study group geared toward young women that strives to support each other and develop relationships centered on scripture and fellowship</p>
+			<h2>Steph’s Group</h2>
 			<dl>
 			<dt>Gender</dt>
 			<dd>Women</dd>
-			<dt>Leader</dt>
-			<dd><a href="mailto:jwesthei@andrew.cmu.edu" target="_blank">Jessa Wesheimer</a></dd>
 			<dt>Time</dt>
-			<dd>Tuesday, 7:30pm</dd>
+			<dd>Wednesdays, 6:00-7:30pm</dd>
 			<dt>Location</dt>
-			<dd>Doherty Hall 2105</dd>
+			<dd>UC Chapel (1st floor)</dd>
+			<dt>Contact</dt>
+			<dd><a href="mailto:sananth@andrew.cmu.edu" target="_blank">Steph Ananth</a></dd>
 			</dl>
 		</div>
 	</div>
 	<div class="tricolumn">
 		<div class="smallgroup">
-			<h2>Zach's Small Group</h2>
-			<p>In this coed group we’ll be breaking from the general small group curriculum to discuss “Christianity in 2019” by looking at life, relationships, and discipleship.</p>
-			<dl>
-			<dt>Gender</dt>
-			<dd>Coed</dd>
-			<dt>Leaders</dt>
-			<dd><a href="mailto:zwade@andrew.cmu.edu" target="_blank">Zach Wade</a></dd>
-			<dt>Time</dt>
-			<dd>Thursday, 6:30-8:00pm</dd>
-			<dt>Location</dt>
-			<dd>UC Caffee Conference Room</dd>
-			</dl>
-		</div>
-	</div>
-	<div class="tricolumn">
-		<div class="smallgroup">
-			<h2>Ben's Small Group</h2>
-			<p>A smaller, more intimate group of men who have hearts for learning how to share the Gospel and then preaching the Word to our campus. We seek to bring younger men into the group and disciple them in the same way our Lord brought up disciples to preach and glorify His name.</p>
+			<h2>Topher’s Group</h2>
 			<dl>
 			<dt>Gender</dt>
 			<dd>Men</dd>
-			<dt>Leaders</dt>
-			<dd><a href="mailto:zemingbh@andrew.cmu.edu" target="_blank">Ben Huang</a></dd>
 			<dt>Time</dt>
-			<dd>Tuesday, 3:30pm</dd>
+			<dd>Mondays, 7:00-8:30pm</dd>
+			<dt>Location</dt>
+			<dd>TBA</dd>
+			<dt>Contact</dt>
+			<dd><a href="mailto:cabernar@andrew.cmu.edu" target="_blank">(Chris)Topher Bernard</a></dd>
+			</dl>
+		</div>
+	</div>
+	<div class="tricolumn">
+		<div class="smallgroup">
+			<h2>Ben's Group</h2>
+			<dl>
+			<dt>Gender</dt>
+			<dd>Men</dd>
+			<dt>Time</dt>
+			<dd>Wednesday’s, 7:00-8:30pm</dd>
 			<dt>Location</dt>
 			<dd>Resnik 330</dd>
+			<dt>Contact</dt>
+			<dd><a href="mailto:zemingbh@andrew.cmu.edu" target="_blank">Ben Huang</a></dd>
 			</dl>
 		</div>
 	</div>
 </div>
--->

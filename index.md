@@ -8,9 +8,7 @@ page: front
       <div>Welcome!</div>
     </header>
     <p>
-    Welcome to InterVarsity Christian Feljlowship! We are a
-    community of students at Carnegie Mellon University who love
-    God, and we want to share His love with you!
+   Welcome to InterVarsity Christian Fellowship! We are a community of students at Carnegie Mellon University who love God, and we want to share His love with you!
     </p>
     <p>
     In conjunction with CMU's Inter-Fellowship Association, we have
