@@ -11,26 +11,6 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
 	<div class="cogs">
 
 		<div class="tricolumn">
-			<h2>Ohiopyle</h2>
-			<dl>
-				<dt>When?&nbsp;</dt><dd>Saturday, September 2 from 9:00 AM to 6:00 PM</dd>
-				<dt>Where?&nbsp;</dt><dd>Meet @ Morewood (we’ll drive to Ohiopyle, PA together)</dd>
-			</dl>
-			<p>
-				Enjoy Labor day with friends exploring God’s creation. Take a trip with us to Ohiopyle, PA, and enjoy waterfalls, short hikes, creeking, and a picnic lunch on us.
-			</p>
-		</div>
-		<div class="tricolumn">
-			<h2>Ohiopyle</h2>
-			<dl>
-				<dt>When?&nbsp;</dt><dd>Saturday, September 2 from 9:00 AM to 6:00 PM</dd>
-				<dt>Where?&nbsp;</dt><dd>Meet @ Morewood (we’ll drive to Ohiopyle, PA together)</dd>
-			</dl>
-			<p>
-				Enjoy Labor day with friends exploring God’s creation. Take a trip with us to Ohiopyle, PA, and enjoy waterfalls, short hikes, creeking, and a picnic lunch on us.
-			</p>
-		</div>
-		<div class="tricolumn">
 			<h2>Ignite Conference</h2>
 			<dl>
 				<dt>When?&nbsp;</dt><dd>February 21-23</dd>
@@ -55,7 +35,7 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
 		</div>
 		<div class="tricolumn">
 			<h2>
-        Regional IV Day
+        Alumni Reunion
       </h2>
 			<dl>
 				<dt>When?&nbsp;</dt>
