@@ -8,8 +8,9 @@ page: front
       <div>Welcome!</div>
     </header>
     <p>
-   Welcome to InterVarsity Christian Fellowship! We are a community of students at Carnegie Mellon University who love God, and we want to share His love with you!
+    Welcome to InterVarsity Christian Fellowship! We are a community of students at Carnegie Mellon University who strive to know God and make Him known.
     </p>
+    <!--
     <p>
     In conjunction with CMU's Inter-Fellowship Association, we have
     many events going on during orientation week which you may want
@@ -17,6 +18,7 @@ page: front
     <a href="http://www.christatcmu.com/">website</a>
     to see them all.
     </p>
+    -->
     <p>
     To visit or learn more about getting involved, check out our <a href="largegroup.html">Large Group</a> page to learn about our regular gatherings, <a href="smallgroups.html">Small Groups</a> page for our Bible studies, or our <a href="events.html">Events</a> page for other fun happenings. We'd love to have you join us and are looking forward to meeting you!
     </p>
