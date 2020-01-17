@@ -35,7 +35,7 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
 		</div>
 		<div class="tricolumn">
 			<h2>
-        Alumni Reunion
+        Regional IV Day
       </h2>
 			<dl>
 				<dt>When?&nbsp;</dt>
@@ -85,7 +85,7 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
 		</div>
 		<!--
 		<div class="tricolumn">
-			<h2>Ohiopyle</h2>
+			<h2>Alumni Reunion</h2>
 			<dl>
 				<dt>When?&nbsp;</dt><dd>Saturday, September 2 from 9:00 AM to 6:00 PM</dd>
 				<dt>Where?&nbsp;</dt><dd>Meet @ Morewood (we’ll drive to Ohiopyle, PA together)</dd>
