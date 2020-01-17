@@ -9,18 +9,101 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
 </p>
 <div class="content-events">
 	<div class="cogs">
-		<!--
+
 		<div class="tricolumn">
-			<h2>Games on the Cut</h2>
+			<h2>Ohiopyle</h2>
 			<dl>
-				<dt>When?&nbsp;</dt><dd>Mondays for as long as the weather is good</dd>
-				<dt>Where?&nbsp;</dt><dd>The Cut</dd>
+				<dt>When?&nbsp;</dt><dd>Saturday, September 2 from 9:00 AM to 6:00 PM</dd>
+				<dt>Where?&nbsp;</dt><dd>Meet @ Morewood (we’ll drive to Ohiopyle, PA together)</dd>
 			</dl>
 			<p>
-				Like Frisbee, Kan Jam, or Spike Ball? Find us on the cut for fun and games!
+				Enjoy Labor day with friends exploring God’s creation. Take a trip with us to Ohiopyle, PA, and enjoy waterfalls, short hikes, creeking, and a picnic lunch on us.
 			</p>
 		</div>
-	-->
+		<div class="tricolumn">
+			<h2>Ohiopyle</h2>
+			<dl>
+				<dt>When?&nbsp;</dt><dd>Saturday, September 2 from 9:00 AM to 6:00 PM</dd>
+				<dt>Where?&nbsp;</dt><dd>Meet @ Morewood (we’ll drive to Ohiopyle, PA together)</dd>
+			</dl>
+			<p>
+				Enjoy Labor day with friends exploring God’s creation. Take a trip with us to Ohiopyle, PA, and enjoy waterfalls, short hikes, creeking, and a picnic lunch on us.
+			</p>
+		</div>
+		<div class="tricolumn">
+			<h2>Ignite Conference</h2>
+			<dl>
+				<dt>When?&nbsp;</dt><dd>February 21-23</dd>
+			</dl>
+			<p>
+				Enjoy Labor day with friends exploring God’s creation. Take a trip with us to Ohiopyle, PA, and enjoy waterfalls, short hikes, creeking, and a picnic lunch on us.
+			</p>
+		</div>
+		<div class="tricolumn">
+			<h2>
+        Unleashed Conference
+      </h2>
+			<dl>
+				<dt>When?&nbsp;</dt>
+        <dd>
+          February 21-23
+        </dd>
+			</dl>
+			<p>
+        A conference inviting Asian American leaders and aspiring leaders in Ohio, Michigan, West Virginia and western PA to a weekend where you will grow as leaders through community, scripture studies, and trainings.
+			</p>
+		</div>
+		<div class="tricolumn">
+			<h2>
+        Regional IV Day
+      </h2>
+			<dl>
+				<dt>When?&nbsp;</dt>
+        <dd>
+          Saturday, February 1st. Approximately 3:00 PM - 8:00 PM
+        </dd>
+				<dt>Where?&nbsp;</dt>
+        <dd>
+          TBD, transportation provided
+        </dd>
+			</dl>
+			<p>
+        This one-day activity is the perfect opportunity to meet other students involved in InterVarsity in the western Pennsylvania and Eastern Ohio region. Join us for fellowship and food!
+			</p>
+		</div>
+		<div class="tricolumn">
+			<h2>
+        Pittsburgh IV Day
+      </h2>
+			<dl>
+				<dt>When?&nbsp;</dt>
+        <dd>
+          March 21st.
+        </dd>
+			</dl>
+			<p>
+        Similar to the regional day, more details coming soon!
+			</p>
+		</div>
+		<div class="tricolumn">
+			<h2>
+        Pittsburgh IV Day
+      </h2>
+			<dl>
+				<dt>When?&nbsp;</dt>
+        <dd>
+          March 21st. (exact time coming soon)
+        </dd>
+				<dt>Where?&nbsp;</dt>
+        <dd>
+          On campus - room TBA
+        </dd>
+			</dl>
+			<p>
+        All are welcome to join us for a time to celebrate what God has been doing in the lives of current students as well as former InterVarsity members.
+			</p>
+		</div>
+		<!--
 		<div class="tricolumn">
 			<h2>Ohiopyle</h2>
 			<dl>
@@ -41,6 +124,7 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
 				Relax, refresh, and refocus at our annual fall retreat. Worship, prayer, discussion, and learning, as well as games, food, a campfire, and friends all make for a weekend that everyone should attend.
 			</p>
 		</div>
+    -->
 		<div class="tricolumn">
 			<h2>Chapter Focus Week</h2>
 			<p>
