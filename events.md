@@ -67,7 +67,7 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
 		</div>
 		<div class="tricolumn">
 			<h2>
-        Pittsburgh IV Day
+        Alumni Reunion
       </h2>
 			<dl>
 				<dt>When?&nbsp;</dt>
