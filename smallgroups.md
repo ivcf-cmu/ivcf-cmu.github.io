@@ -8,40 +8,22 @@ Most of InterVarsity’s ministry happens in our small groups where we work toge
 </p>
 <br/>
 <p>
-This semester our small group Bible studies will be continuing to study the gospel of John and seeking to grow in faith and fellowship. And if that is not enough snacks are often provided so you should definitely join us!
+This semester our small group Bible studies will be continuing to study the gospel of John each week and are seeking to grow in faith and fellowship. And if that is not enough snacks are often provided so you should definitely join us!
 </p>
 <br/>
-<p>
-The details are still being decided but small groups will have their first weekly meeting during the second week of classes. If you would like to have a say in the times that are picked then check out the slack workspace.
-</p>
-<!--
 <div class="cogs">
 	<div class="tricolumn">
 		<div class="smallgroup">
-			<h2>Jessa’s Group</h2>
+			<h2>Women’s Group</h2>
 			<dl>
 			<dt>Gender</dt>
 			<dd>Women</dd>
 			<dt>Time</dt>
 			<dd>Tuesdays, 7:00-8:30pm</dd>
 			<dt>Location</dt>
-			<dd>UC Caffee (2nd floor)</dd>
+			<dd>TBA</dd>
 			<dt>Contact</dt>
 			<dd><a href="mailto:jwesthei@andrew.cmu.edu" target="_blank">Jessa Westheimer</a></dd>
-			</dl>
-		</div>
-	</div>
-	<div class="tricolumn">
-		<div class="smallgroup">
-			<h2>Steph’s Group</h2>
-			<dl>
-			<dt>Gender</dt>
-			<dd>Women</dd>
-			<dt>Time</dt>
-			<dd>Wednesdays, 6:00-7:30pm</dd>
-			<dt>Location</dt>
-			<dd>UC Chapel (1st floor)</dd>
-			<dt>Contact</dt>
 			<dd><a href="mailto:sananth@andrew.cmu.edu" target="_blank">Steph Ananth</a></dd>
 			</dl>
 		</div>
@@ -53,9 +35,9 @@ The details are still being decided but small groups will have their first weekl
 			<dt>Gender</dt>
 			<dd>Men</dd>
 			<dt>Time</dt>
-			<dd>Mondays, 7:00-8:30pm</dd>
+			<dd>Tuesdays, 4:30-6:00pm</dd>
 			<dt>Location</dt>
-			<dd>TBA</dd>
+			<dd>UC Chapel</dd>
 			<dt>Contact</dt>
 			<dd><a href="mailto:cabernar@andrew.cmu.edu" target="_blank">(Chris)Topher Bernard</a></dd>
 			</dl>
@@ -68,7 +50,7 @@ The details are still being decided but small groups will have their first weekl
 			<dt>Gender</dt>
 			<dd>Men</dd>
 			<dt>Time</dt>
-			<dd>Wednesday’s, 7:00-8:30pm</dd>
+			<dd>Thursdays, 5:30-7:00pm</dd>
 			<dt>Location</dt>
 			<dd>Resnik 330</dd>
 			<dt>Contact</dt>
@@ -77,4 +59,3 @@ The details are still being decided but small groups will have their first weekl
 		</div>
 	</div>
 </div>
--->
