@@ -23,9 +23,10 @@ This semester our small group Bible studies will be continuing to study the gosp
 			<dt>Location</dt>
 			<dd>TBA</dd>
 			<dt>Contact</dt>
-			<dd><a href="mailto:jwesthei@andrew.cmu.edu" target="_blank">Jessa Westheimer</a></dd>
-      <dt></dt>
-			<dd><a href="mailto:sananth@andrew.cmu.edu" target="_blank">Steph Ananth</a></dd>
+			<dd>
+        <a href="mailto:jwesthei@andrew.cmu.edu" target="_blank">Jessa Westheimer</a>
+        <a href="mailto:sananth@andrew.cmu.edu" target="_blank">Steph Ananth</a>
+      </dd>
 			</dl>
 		</div>
 	</div>
