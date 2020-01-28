@@ -44,7 +44,7 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
         </dd>
 				<dt>Where?&nbsp;</dt>
         <dd>
-          TBD, transportation provided
+          Akron, OH (transportation provided)
         </dd>
 			</dl>
 			<p>
@@ -76,7 +76,7 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
         </dd>
 				<dt>Where?&nbsp;</dt>
         <dd>
-          On campus - room TBA
+          Doherty Hall A302
         </dd>
 			</dl>
 			<p>
