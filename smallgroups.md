@@ -21,7 +21,7 @@ This semester our small group Bible studies will be continuing to study the gosp
 			<dt>Time</dt>
 			<dd>Tuesdays, 7:00-8:30pm</dd>
 			<dt>Location</dt>
-			<dd>TBA</dd>
+			<dd>West Wing Tech Lounge</dd>
 			<dt>Contact</dt>
 			<dd>
         <a href="mailto:jwesthei@andrew.cmu.edu" target="_blank">Jessa Westheimer</a>
