@@ -20,6 +20,9 @@ page: front
     </p>
     -->
     <p>
+    While we usually love connecting in person, in light of COVID-19 all of our events are virtual. That said, we are still excited to encounter Christ and all of the people he has created. Come join us for Bible study, large group, or other events!
+    </p>
+    <p>
     To visit or learn more about getting involved, check out our <a href="largegroup.html">Large Group</a> page to learn about our regular gatherings, <a href="smallgroups.html">Small Groups</a> page for our Bible studies, or our <a href="events.html">Events</a> page for other fun happenings. We'd love to have you join us and are looking forward to meeting you!
     </p>
     <!--<p>
