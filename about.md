@@ -21,5 +21,5 @@ In one accord with all Christians on campus, we have a vision to see Carnegie Me
 </header>
 
 <p>
-This page features the undergraduate multi-ethnic chapter of InterVarsity. We also have an <a href="http://bcm.intervarsity.org/">Ingite</a> (black campus ministry) chapter, a graduate student chapter, and a staff chapter here on campus! For more information about this ministry please reach out to us at <a href="mailto:ivcf@andrew.cmu.edu">ivcf@andrew.cmu.edu</a> and we will be happy to connect you.
+This page features the undergraduate multi-ethnic chapter of <a href="https://intervarsity.org/">InterVarsity</a>. We also have an <a href="http://bcm.intervarsity.org/">Ingite</a> (black campus ministry) chapter, a graduate student chapter, and a staff chapter here on campus! For more information about any of these ministries please reach out to us at <a href="mailto:ivcf@andrew.cmu.edu">ivcf@andrew.cmu.edu</a> and we will be happy to connect you.
 </p>
