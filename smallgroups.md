@@ -8,9 +8,9 @@ Most of InterVarsity’s ministry happens in our small groups where we work toge
 </p>
 <br/>
 <p>
-This semester our small group Bible studies will be continuing to study the gospel of John each week and are seeking to grow in faith and fellowship. And if that is not enough snacks are often provided so you should definitely join us!
+We are excited to continue small group meetings online this semester. The details are still being decided but small groups will have their first weekly meeting during the second week of classes. If you would like to have a say in the times that are picked then check out the slack workspace.
 </p>
-<br/>
+<!-- <br/>
 <div class="cogs">
 	<div class="tricolumn">
 		<div class="smallgroup">
@@ -60,4 +60,4 @@ This semester our small group Bible studies will be continuing to study the gosp
 			</dl>
 		</div>
 	</div>
-</div>
+</div> -->
