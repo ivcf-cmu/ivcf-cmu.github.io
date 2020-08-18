@@ -15,7 +15,7 @@ In one accord with all Christians on campus, we have a vision to see Carnegie Me
 
 <a href="https://intervarsity.org/about-us/what-we-believe" target="_blank">Read InterVarsity-USA's doctrinal basis</a>
 
-
+<br/><br/><br/><br/>
 <header class="section-header">
 	<h1>OUR CAMPUS</h1>
 </header>

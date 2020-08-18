@@ -7,6 +7,7 @@ sectionHeader: Large Group
 <p>
 While the online format is new this year we still look forward to gathering to worship God together, know Him better through scripture, have fellowship with one another, and be ignited and uplifted by the Holy Spirit. Large group is a time where the expectation is to meet God together as one body, in one accord. This year we will not only meet as a group of CMU students, but will also join with other students in the region and across the nation as the online format allows us to be more connected than ever before.
 </p>
+<br/>
 <p>
 More details coming soon!
 </p>
