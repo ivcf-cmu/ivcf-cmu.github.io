@@ -5,11 +5,16 @@ sectionHeader: Contact
 ---
 
 <p>
+	The CMU IVCF Discord Server is our main communication channel, and definitely worth joining if you would like to be involved. Signing up is quick and easy - just <b>go to <a href="https://discord.gg/KWV2TwA" target="_blank"></b> to login or register!
+</p>
+<p>
+	If you have problems getting in, please contact <a href="mailto:jamiepark@cmu.edu">Jamie Park</a>
+</p>
+<!-- <p>
 	The CMU IVCF Slack workspace is our main communication channel, and definitely worth joining if you would like to be involved. Signing up is quick and easy:
 </p>
 <p>
 	<ol>
-		<!--<li>Go to <a href="cmuivcf.slack.com/signup" target="_blank">cmuivcf.slack.com/signup</a></li>-->
 		<li>Go to <a href="{{ 'https://cmuivcf.slack.com/signup' | absolute_url }}" target="_blank">cmuivcf.slack.com/signup</a></li>
 		<li>Enter your Andrew ID</li>
 		<li>Click "Create Account"</li>
@@ -17,7 +22,7 @@ sectionHeader: Contact
 <p>
 <p>
 	Note: if you would like to create an account with a different email address please contact <a href="mailto:jamiepark@cmu.edu">Jamie Park</a>
-</p>
+</p> -->
 <br/>
 <br/>
 <p>
