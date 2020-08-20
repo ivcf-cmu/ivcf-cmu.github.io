@@ -8,7 +8,7 @@ Most of InterVarsity’s ministry happens in our small groups where we work toge
 </p>
 <br/>
 <p>
-We are excited to continue small group meetings online this semester. The details are still being decided but small groups will have their first weekly meeting during the second week of classes. If you would like to have a say in the times that are picked then check out the slack workspace.
+We are excited to continue small group meetings online this semester. The details are still being decided but small groups will have their first weekly meeting during the second week of classes. If you would like to have a say in the times that are picked then check out the Discord.
 </p>
 <!-- <br/>
 <div class="cogs">

@@ -5,7 +5,7 @@ sectionHeader: Events
 ---
 
 <p>
-Come relax and spend some time with us. Clear your head and learn what God, friends, and life are all about. For questions, or to RSVP please contact <a href="mailto:jamiepark@cmu.edu">Jamie Park</a>. Make sure to <a href="https://cmuivcf.slack.com/signup" target="_blank">join CMU IVCF on slack</a> (or simply <a href="https://cmuivcf.slack.com" target="_blank">login</a>) to get the latest updates!
+Come relax and spend some time with us. Clear your head and learn what God, friends, and life are all about. For questions, or to RSVP please contact <a href="mailto:jamiepark@cmu.edu">Jamie Park</a>. Make sure to <a href="https://discord.gg/KWV2TwA" target="_blank">join CMU IVCF on discord</a> to get the latest updates!
 </p>
 <div class="content-events">
 	<div class="cogs">
