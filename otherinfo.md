@@ -55,7 +55,6 @@ sectionHeader: Contact
 		<li>Mt. Ararat Baptist</li>
 		<li>Newman Center Chapel</li>
 		<li>North Way Oakland</li>
-		<li>H2o</li>
 	</ul>
 <!--
 	<div class="tricolumn">
