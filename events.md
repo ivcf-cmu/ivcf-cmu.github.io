@@ -19,6 +19,19 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
 			</p>
 		</div>
 		<div class="tricolumn">
+			<h2>Get-Back-Together Kickoff</h2>
+			<dl>
+				<dt>When?&nbsp;</dt><dd>August 31st, 9 pm</dd>
+			</dl>
+			<dl>
+				<dt>Where?&nbsp;</dt><dd><a href="https://discord.gg/KWV2TwA" target="_blank">Discord!</a></dd>
+			</dl>
+			<p>
+				We'll be kicking of the semester with some worship, prayer, and games. We are excited to welcome new
+				students and reunite with returning friends!
+			</p>
+		</div>
+		<div class="tricolumn">
 			<h2>Harvest Retreat</h2>
 			<p>
 				An online retreat to meet God and other students! The national organization is still working out the details but we will post them here when we know more.
