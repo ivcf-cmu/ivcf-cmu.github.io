@@ -22,8 +22,6 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
 			<h2>Get-Back-Together Kickoff</h2>
 			<dl>
 				<dt>When?&nbsp;</dt><dd>August 31st, 9 pm</dd>
-			</dl>
-			<dl>
 				<dt>Where?&nbsp;</dt><dd><a href="https://discord.gg/KWV2TwA" target="_blank">Discord!</a></dd>
 			</dl>
 			<p>
