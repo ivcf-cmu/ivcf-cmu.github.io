@@ -10,12 +10,12 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
 <div class="content-events">
 	<div class="cogs">
 		<div class="tricolumn">
-			<h2>IFA Fellowship Fair</h2>
+			<h2>City-Wide Game Nights</h2>
 			<dl>
-				<dt>When?&nbsp;</dt><dd>August 29th, 2-3 pm & 3-4 pm</dd>
+				<dt>When?&nbsp;</dt><dd>Every other Thursday starting September 10th</dd>
 			</dl>
 			<p>
-				Come here more about us and the other Christian orgs on campus at the InterFellowship Association’s Fellowship Fair. Information for this event has been published with the orientation information for new students.
+				Take a load of and play some games with friends from CMU, Pitt, Duquesne, and other local universities!
 			</p>
 		</div>
 		<div class="tricolumn">
