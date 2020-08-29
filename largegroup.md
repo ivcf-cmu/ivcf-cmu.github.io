@@ -5,12 +5,15 @@ sectionHeader: Large Group
 ---
 
 <p>
-While the online format is new this year we still look forward to gathering to worship God together, know Him better through scripture, have fellowship with one another, and be ignited and uplifted by the Holy Spirit. Large group is a time where the expectation is to meet God together as one body, in one accord. This year we will not only meet as a group of CMU students, but will also join with other students in the region and across the nation as the online format allows us to be more connected than ever before.
+While the online format is new this year we still look forward to gathering to worship God together, know Him better through scripture, have fellowship with one another, and be ignited and uplifted by the Holy Spirit. Large group is a time where the expectation is to meet God together as one body, in one accord. Come join us!
 </p>
-<br/>
-<p>
-More details coming soon!
-</p>
+<div class="cogs cogs-large">
+	<dl>
+		<dt>Location</dt> <dd><a href="https://discord.gg/Af8Y8Zn" target="_blank">Discord</a></dd>
+		<dt>Time</dt> <dd>Fridays, 9:00 pm EST</dd>
+	</dl>
+</div>
+
 <!-- <p>
 Large group is a weekly event where all of the small groups gather in one place to worship God through music, know Him better through scripture, have fellowship with one another, and be ignited and uplifted by the Holy Spirit. Large Group is a time where the expectation is to meet God together as one body, in one accord. After Large Group, it is an InterVarsity tradition to get dinner together at Resnik and socialize. Come join us!
 </p>
