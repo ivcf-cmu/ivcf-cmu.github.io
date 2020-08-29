@@ -12,7 +12,7 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
 		<div class="tricolumn">
 			<h2>City-Wide Game Nights</h2>
 			<dl>
-				<dt>When?&nbsp;</dt><dd>Every other Thursday starting September 10th</dd>
+				<dt>When?&nbsp;</dt><dd>Every other Thursday starting September 10th at 7 pm EST</dd>
 			</dl>
 			<p>
 				Take a load of and play some games with friends from CMU, Pitt, Duquesne, and other local universities!
@@ -21,7 +21,7 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
 		<div class="tricolumn">
 			<h2>Get-Back-Together Kickoff</h2>
 			<dl>
-				<dt>When?&nbsp;</dt><dd>August 31st, 9 pm</dd>
+				<dt>When?&nbsp;</dt><dd>August 31st, 9 pm EST</dd>
 				<dt>Where?&nbsp;</dt><dd><a href="https://discord.gg/Af8Y8Zn" target="_blank">Discord!</a></dd>
 			</dl>
 			<p>
