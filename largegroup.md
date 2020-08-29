@@ -27,5 +27,5 @@ This semester we will spend most weeks studying and discussing Acts and consider
 </div>
 
 <p id="location-addendum">
-	<sup>*</sup>Check the discord for any last minute changes
+	<sup>*</sup>Check the <a href="https://discord.gg/Af8Y8Zn" target="_blank">discord</a> for any last minute changes
 </p> -->

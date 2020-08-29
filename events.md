@@ -5,7 +5,7 @@ sectionHeader: Events
 ---
 
 <p>
-Come relax and spend some time with us. Clear your head and learn what God, friends, and life are all about. For questions, or to RSVP please contact <a href="mailto:jamiepark@cmu.edu">Jamie Park</a>. Make sure to <a href="https://discord.gg/KWV2TwA" target="_blank">join CMU IVCF on discord</a> to get the latest updates!
+Come relax and spend some time with us. Clear your head and learn what God, friends, and life are all about. For questions, or to RSVP please contact <a href="mailto:jamiepark@cmu.edu">Jamie Park</a>. Make sure to <a href="https://discord.gg/Af8Y8Zn" target="_blank">join CMU IVCF on discord</a> to get the latest updates!
 </p>
 <div class="content-events">
 	<div class="cogs">
@@ -22,7 +22,7 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
 			<h2>Get-Back-Together Kickoff</h2>
 			<dl>
 				<dt>When?&nbsp;</dt><dd>August 31st, 9 pm</dd>
-				<dt>Where?&nbsp;</dt><dd><a href="https://discord.gg/KWV2TwA" target="_blank">Discord!</a></dd>
+				<dt>Where?&nbsp;</dt><dd><a href="https://discord.gg/Af8Y8Zn" target="_blank">Discord!</a></dd>
 			</dl>
 			<p>
 				We'll be kicking of the semester with some worship, prayer, and games. We are excited to welcome new
