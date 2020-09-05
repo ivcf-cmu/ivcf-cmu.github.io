@@ -8,25 +8,27 @@ Most of InterVarsity’s ministry happens in our small groups where we work toge
 </p>
 <br/>
 <p>
-We are excited to continue small group meetings online this semester. The details are still being decided but small groups will have their first weekly meeting during the second week of classes. If you would like to have a say in the times that are picked then <a href="https://discord.gg/Af8Y8Zn" target="_blank">check out the Discord</a>.
+We are excited to continue small group meetings online this semester and will be studying the book of Hebrews together. Checkout the options below to see what works for you!
 </p>
-<!-- <br/>
+<br/>
 <div class="cogs">
 	<div class="tricolumn">
 		<div class="smallgroup">
 			<h2>Women’s Group</h2>
 			<dl>
-			<dt>Gender</dt>
-			<dd>Women</dd>
-			<dt>Time</dt>
-			<dd>Tuesdays, 7:00-8:30pm</dd>
-			<dt>Location</dt>
-			<dd>West Wing Tech Lounge</dd>
-			<dt>Contact</dt>
-			<dd>
-        <a href="mailto:jwesthei@andrew.cmu.edu" target="_blank">Jessa Westheimer</a>
-        <a href="mailto:sananth@andrew.cmu.edu" target="_blank">Steph Ananth</a>
-      </dd>
+				<dt>Gender</dt>
+				<dd>Women</dd>
+				<dt>Date</dt>
+				<dd>Mondays, starting 9/14</dd>
+				<dt>Time</dt>
+				<dd>7:00 - 8:30 pm EST</dd>
+				<dt>Location</dt>
+				<dd><a href="https://discord.gg/Af8Y8Zn" target="_blank">Discord</a></dd>
+				<dt>Contact</dt>
+				<dd>
+					<a href="mailto:jwesthei@andrew.cmu.edu" target="_blank">Jessa Westheimer</a>
+					<a href="mailto:yoleic@andrew.cmu.edu" target="_blank">Yo-Lei Chen</a>
+				</dd>
 			</dl>
 		</div>
 	</div>
@@ -36,10 +38,12 @@ We are excited to continue small group meetings online this semester. The detail
 			<dl>
 			<dt>Gender</dt>
 			<dd>Men</dd>
+			<dt>Date</dt>
+			<dd>Thursdays, starting 9/10</dd>
 			<dt>Time</dt>
-			<dd>Tuesdays, 4:30-6:00pm</dd>
+			<dd>5:00 - 6:30 pm EST</dd>
 			<dt>Location</dt>
-			<dd>UC Chapel</dd>
+			<dd><a href="https://discord.gg/Af8Y8Zn" target="_blank">Discord</a></dd>
 			<dt>Contact</dt>
 			<dd><a href="mailto:cabernar@andrew.cmu.edu" target="_blank">(Chris)Topher Bernard</a></dd>
 			</dl>
@@ -47,17 +51,19 @@ We are excited to continue small group meetings online this semester. The detail
 	</div>
 	<div class="tricolumn">
 		<div class="smallgroup">
-			<h2>Ben's Group</h2>
+			<h2>Samuel’s Group</h2>
 			<dl>
 			<dt>Gender</dt>
 			<dd>Men</dd>
+			<dt>Date</dt>
+			<dd>Mondays, starting 9/7</dd>
 			<dt>Time</dt>
-			<dd>Thursdays, 5:30-7:00pm</dd>
+			<dd>9:00 - 10:30 pm EST</dd>
 			<dt>Location</dt>
-			<dd>Resnik 330</dd>
+			<dd><a href="https://discord.gg/Af8Y8Zn" target="_blank">Discord</a></dd>
 			<dt>Contact</dt>
-			<dd><a href="mailto:zemingbh@andrew.cmu.edu" target="_blank">Ben Huang</a></dd>
+			<dd><a href="mailto:scleong@andrew.cmu.edu" target="_blank">Samuel Leong</a></dd>
 			</dl>
 		</div>
 	</div>
-</div> -->
+</div>
