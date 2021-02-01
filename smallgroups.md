@@ -8,8 +8,9 @@ Most of InterVarsity’s ministry happens in our small groups where we work toge
 </p>
 <br/>
 <p>
-We are excited to continue small group meetings online this semester and will be studying the book of Hebrews together. Checkout the options below to see what works for you!
+We are excited to continue small group meetings online this semester and will be studying the book of Romans together. Small groups will begin the second week of classes, and the weekly days/times are still being decided. We want your input, so please fill out the <a href="https://docs.google.com/forms/d/e/1FAIpQLScyD3LDJoeHxyoZ6ErBs0YX0OwiJ0Cls7n0kQriN4nxAqnUaw/viewform?usp=sf_link" target="_blank">interest form</a> and either the <a href="https://www.when2meet.com/?10889931-irR1w" target="_blank">men's bible study when2meet</a> or <a href="https://www.when2meet.com/?10889947-9zx2i" target="_blank">the women's bible study when2meet</a> (as appropriate).
 </p>
+<!--
 <br/>
 <div class="cogs">
 	<div class="tricolumn">
@@ -67,3 +68,4 @@ We are excited to continue small group meetings online this semester and will be
 		</div>
 	</div>
 </div>
+-->
