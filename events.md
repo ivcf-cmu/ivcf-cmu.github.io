@@ -10,29 +10,32 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
 <div class="content-events">
 	<div class="cogs">
 		<div class="tricolumn">
-			<h2>City-Wide Game Nights</h2>
+			<h2>Large Group Kickoff</h2>
 			<dl>
-				<dt>When?&nbsp;</dt><dd>Every other Thursday starting September 10th at 7 pm EST</dd>
-			</dl>
-			<p>
-				Take a load of and play some games with friends from CMU, Pitt, Duquesne, and other local universities!
-			</p>
-		</div>
-		<div class="tricolumn">
-			<h2>Get-Back-Together Kickoff</h2>
-			<dl>
-				<dt>When?&nbsp;</dt><dd>August 31st, 9 pm EST</dd>
+				<dt>When?&nbsp;</dt><dd>Friday, February 5th @ 9 pm EST</dd>
 				<dt>Where?&nbsp;</dt><dd><a href="https://discord.gg/Af8Y8Zn" target="_blank">Discord!</a></dd>
 			</dl>
 			<p>
-				We'll be kicking of the semester with some worship, prayer, and games. We are excited to welcome new
+				The first large group of the semester! We are excited to welcome new
 				students and reunite with returning friends!
 			</p>
 		</div>
 		<div class="tricolumn">
-			<h2>Harvest Retreat</h2>
+			<h2>Philly Missions</h2>
 			<p>
-				An online retreat to meet God and other students! The national organization is still working out the details but we will post them here when we know more.
+				Each year we partner with InterFellowship Association in order to minister and witness to the Kensington
+				community in Philadelphia. While we won't be there in person this year we are still planning to serve.
+				If you would consider being involved, fill out
+				<a href="https://forms.gle/mjMGEAYmiykmSouy8" target="_blank">the interest form</a>.
+			</p>
+		</div>
+		<div class="tricolumn">
+			<h2>City-Wide Game Nights</h2>
+			<dl>
+				<dt>When?&nbsp;</dt><dd>Once a month starting soon.</dd>
+			</dl>
+			<p>
+				Dates & times TBA. Take a load of and play some games with friends from CMU, Pitt, Duquesne, and other local universities!
 			</p>
 		</div>
 		<!--

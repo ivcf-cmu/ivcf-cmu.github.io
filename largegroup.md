@@ -10,7 +10,7 @@ While the online format is new this year we still look forward to gathering to w
 <div class="cogs cogs-large">
 	<dl>
 		<dt>Location</dt> <dd><a href="https://discord.gg/Af8Y8Zn" target="_blank">Discord</a></dd>
-		<dt>Time</dt> <dd>Fridays, 9:00 pm EST</dd>
+		<dt>Time</dt> <dd>Fridays, 7:30 pm EST</dd>
 	</dl>
 </div>
 
