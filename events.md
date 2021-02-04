@@ -12,7 +12,7 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
 		<div class="tricolumn">
 			<h2>Large Group Kickoff</h2>
 			<dl>
-				<dt>When?&nbsp;</dt><dd>Friday, February 5th @ 9 pm EST</dd>
+				<dt>When?&nbsp;</dt><dd>Friday, February 5th @ 7:30 pm EST</dd>
 				<dt>Where?&nbsp;</dt><dd><a href="https://discord.gg/Af8Y8Zn" target="_blank">Discord!</a></dd>
 			</dl>
 			<p>
