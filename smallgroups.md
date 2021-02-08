@@ -8,9 +8,9 @@ Most of InterVarsity’s ministry happens in our small groups where we work toge
 </p>
 <br/>
 <p>
-We are excited to continue small group meetings online this semester and will be studying the book of Romans together. Small groups will begin the second week of classes, and the weekly days/times are still being decided. We want your input, so please fill out the <a href="https://docs.google.com/forms/d/e/1FAIpQLScyD3LDJoeHxyoZ6ErBs0YX0OwiJ0Cls7n0kQriN4nxAqnUaw/viewform?usp=sf_link" target="_blank">interest form</a> and either the <a href="https://www.when2meet.com/?10889931-irR1w" target="_blank">men's bible study when2meet</a> or <a href="https://www.when2meet.com/?10889947-9zx2i" target="_blank">the women's bible study when2meet</a> (as appropriate).
+We are excited to continue small group meetings this semester and will be studying the book of Romans together. Find the group that is right for you:
 </p>
-<!--
+
 <br/>
 <div class="cogs">
 	<div class="tricolumn">
@@ -20,9 +20,9 @@ We are excited to continue small group meetings online this semester and will be
 				<dt>Gender</dt>
 				<dd>Women</dd>
 				<dt>Date</dt>
-				<dd>Mondays, starting 9/14</dd>
+				<dd>Saturdays, starting 2/13</dd>
 				<dt>Time</dt>
-				<dd>7:00 - 8:30 pm EST</dd>
+				<dd>5:00 - 6:00 pm EST</dd>
 				<dt>Location</dt>
 				<dd><a href="https://discord.gg/Af8Y8Zn" target="_blank">Discord</a></dd>
 				<dt>Contact</dt>
@@ -40,11 +40,11 @@ We are excited to continue small group meetings online this semester and will be
 			<dt>Gender</dt>
 			<dd>Men</dd>
 			<dt>Date</dt>
-			<dd>Thursdays, starting 9/10</dd>
+			<dd>Thursdays, starting 2/11</dd>
 			<dt>Time</dt>
-			<dd>5:00 - 6:30 pm EST</dd>
+			<dd>4:00 - 5:30 pm EST</dd>
 			<dt>Location</dt>
-			<dd><a href="https://discord.gg/Af8Y8Zn" target="_blank">Discord</a></dd>
+			<dd><a href="https://discord.gg/Af8Y8Zn" target="_blank">Discord</a>, but hopefully in-person soon</dd>
 			<dt>Contact</dt>
 			<dd><a href="mailto:cabernar@andrew.cmu.edu" target="_blank">(Chris)Topher Bernard</a></dd>
 			</dl>
@@ -57,9 +57,9 @@ We are excited to continue small group meetings online this semester and will be
 			<dt>Gender</dt>
 			<dd>Men</dd>
 			<dt>Date</dt>
-			<dd>Mondays, starting 9/7</dd>
+			<dd>Sundays, starting 2/14</dd>
 			<dt>Time</dt>
-			<dd>9:00 - 10:30 pm EST</dd>
+			<dd>7:00 - 8:30 pm EST</dd>
 			<dt>Location</dt>
 			<dd><a href="https://discord.gg/Af8Y8Zn" target="_blank">Discord</a></dd>
 			<dt>Contact</dt>
@@ -68,4 +68,3 @@ We are excited to continue small group meetings online this semester and will be
 		</div>
 	</div>
 </div>
--->
