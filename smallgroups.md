@@ -42,7 +42,7 @@ We are excited to continue small group meetings this semester and will be studyi
 			<dt>Date</dt>
 			<dd>Thursdays, starting 2/11</dd>
 			<dt>Time</dt>
-			<dd>4:00 - 5:30 pm EST</dd>
+			<dd>4:30 - 6:00 pm EST</dd>
 			<dt>Location</dt>
 			<dd><a href="https://discord.gg/Af8Y8Zn" target="_blank">Discord</a>, but hopefully in-person soon</dd>
 			<dt>Contact</dt>
