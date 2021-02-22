@@ -35,7 +35,7 @@ We are excited to continue small group meetings this semester and will be studyi
 	</div>
 	<div class="tricolumn">
 		<div class="smallgroup">
-			<h2>Topher’s Group</h2>
+			<h2>Topher’s (in-person) Group</h2>
 			<dl>
 			<dt>Gender</dt>
 			<dd>Men</dd>
@@ -44,7 +44,7 @@ We are excited to continue small group meetings this semester and will be studyi
 			<dt>Time</dt>
 			<dd>4:30 - 6:00 pm EST</dd>
 			<dt>Location</dt>
-			<dd><a href="https://discord.gg/Af8Y8Zn" target="_blank">Discord</a>, but hopefully in-person soon</dd>
+			<dd>UC Chapel, but also <a href="https://discord.gg/Af8Y8Zn" target="_blank">on Discord</a></dd>
 			<dt>Contact</dt>
 			<dd><a href="mailto:cabernar@andrew.cmu.edu" target="_blank">(Chris)Topher Bernard</a></dd>
 			</dl>

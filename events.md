@@ -10,16 +10,6 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
 <div class="content-events">
 	<div class="cogs">
 		<div class="tricolumn">
-			<h2>Games & Food</h2>
-			<dl>
-				<dt>When?&nbsp;</dt><dd>Friday, February 12th  @ 6:30 pm EST</dd>
-				<dt>Where?&nbsp;</dt><dd><a href="https://discord.gg/Af8Y8Zn" target="_blank">Discord!</a></dd>
-			</dl>
-			<p>
-				Come hang out with (old or new) friends and enjoy some food and games! We’ll reimburse you for ordering dinner (check the details on discord). Also, feel free to stick around for large group right afterwards if you're interested.
-			</p>
-		</div>
-		<div class="tricolumn">
 			<h2>Philly Missions</h2>
 			<p>
 				Each year we partner with InterFellowship Association in order to minister and witness to the Kensington
