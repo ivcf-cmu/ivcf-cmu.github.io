@@ -38,7 +38,7 @@ We are excited to continue small group meetings this semester and will be studyi
 			<h2>Topher’s (in-person) Group</h2>
 			<dl>
 			<dt>Gender</dt>
-			<dd>Men</dd>
+			<dd>Coed</dd>
 			<dt>Date</dt>
 			<dd>Thursdays, starting 2/11</dd>
 			<dt>Time</dt>
