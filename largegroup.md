@@ -15,7 +15,7 @@ While the online format is new this year we still look forward to gathering to w
 </div> -->
 
 <p>
-Large group is a weekly event where all of the small groups gather in one place to worship God through music, know Him better through scripture, have fellowship with one another, and be ignited and uplifted by the Holy Spirit. Large Group is a time where the expectation is to meet God together as one body, in one accord. After Large Group, it is an InterVarsity tradition to get dinner together at Resnik and socialize. Come join us!
+Large group is a weekly event where all of the small groups gather in one place to worship God through music, know Him better through scripture, have fellowship with one another, and be ignited and uplifted by the Holy Spirit. Large Group is a time of community, to meet God together as one body, in one accord. After Large Group, it is an InterVarsity tradition to get dinner together afterwards and socialize. Come join us, and bring friends!
 </p>
 <br/>
 <p>
