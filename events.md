@@ -10,6 +10,22 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
 <div class="content-events">
 	<div class="cogs">
 		<div class="tricolumn">
+			<h2>Orientation Week Meet &amp; Greet</h2>
+			<dl>
+				<dt>When?&nbsp;</dt>
+				<dd>Sunday, August 29 at 5:00PM EDT</dd>
+			</dl>
+			<dl>
+				<dt>Where?&nbsp;</dt>
+				<dd>Danforth Lounge (UC 2nd Floor)</dd>
+			</dl>
+			<p>
+				IVCF warmly welcomes all freshmen to CMU, and hope that you will be able to grow in faith and experience godly
+				community here. Join us for a time of worship, fellowship and food, and learn a bit more about IVCF and who we
+				are!
+			</p>
+		</div>
+		<div class="tricolumn">
 			<h2>Philly Missions</h2>
 			<p>
 				Each year we partner with InterFellowship Association in order to minister and witness to the Kensington
@@ -18,7 +34,7 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
 				<a href="https://forms.gle/mjMGEAYmiykmSouy8" target="_blank">the interest form</a>.
 			</p>
 		</div>
-		<div class="tricolumn">
+		<!-- <div class="tricolumn">
 			<h2>City-Wide Game Nights</h2>
 			<dl>
 				<dt>When?&nbsp;</dt><dd>Once a month starting soon.</dd>
@@ -26,21 +42,7 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
 			<p>
 				Dates & times TBA. Take a load of and play some games with friends from CMU, Pitt, Duquesne, and other local universities!
 			</p>
-		</div>
-		<div class="tricolumn">
-			<h2>Orientation Week Meet &amp; Greet</h2>
-			<dl>
-				<dt>When?&nbsp;</dt>
-				<dd>Sunday, August 29 at 5:00PM EDT</dd>
-			</dl>
-			<dl>
-			    <dt>Where?&nbsp;</dt>
-			    <dd>Danforth Lounge (UC 2nd Floor)</dd>
-			</dl>
-			<p>
-				IVCF warmly welcomes all freshmen to CMU, and hope that you will be able to grow in faith and experience godly community here. Join us for a time of worship, fellowship and food, and learn a bit more about IVCF and who we are!
-			</p>
-		</div>
+		</div> -->
 		<!--
 		<div class="tricolumn">
 			<h2>Ignite Conference</h2>
