@@ -8,7 +8,7 @@ Most of InterVarsity’s ministry happens in our small groups where we work toge
 </p>
 <br/>
 <p>
-We are excited to continue small group meetings this semester and will be studying the book of Romans together. Find the group that is right for you:
+We are excited to continue small group meetings this semester and will be studying the book of 1 and 2 Peter together. Find the group that is right for you:
 </p>
 
 <br/>
@@ -20,31 +20,31 @@ We are excited to continue small group meetings this semester and will be studyi
 				<dt>Gender</dt>
 				<dd>Women</dd>
 				<dt>Date</dt>
-				<dd>Saturdays, starting 2/13</dd>
+				<dd>TBC/dd>
 				<dt>Time</dt>
-				<dd>5:00 - 6:00 pm EST</dd>
+				<dd>TBC</dd>
 				<dt>Location</dt>
-				<dd><a href="https://discord.gg/Af8Y8Zn" target="_blank">Discord</a></dd>
+				<dd>TBC</dd>
 				<dt>Contact</dt>
 				<dd>
-					<a href="mailto:jwesthei@andrew.cmu.edu" target="_blank">Jessa Westheimer</a>
 					<a href="mailto:yoleic@andrew.cmu.edu" target="_blank">Yo-Lei Chen</a>
+					<a href="mailto:yitaoche@andrew.cmu.edu" target="_blank">Viola Chen</a>
 				</dd>
 			</dl>
 		</div>
 	</div>
 	<div class="tricolumn">
 		<div class="smallgroup">
-			<h2>Topher’s (in-person) Group</h2>
+			<h2>Topher’s Group</h2>
 			<dl>
 			<dt>Gender</dt>
-			<dd>Coed</dd>
+			<dd>Men</dd>
 			<dt>Date</dt>
-			<dd>Thursdays, starting 2/11</dd>
+			<dd>TBC</dd>
 			<dt>Time</dt>
-			<dd>4:30 - 6:00 pm EST</dd>
+			<dd>TBC</dd>
 			<dt>Location</dt>
-			<dd>UC Chapel, but also <a href="https://discord.gg/Af8Y8Zn" target="_blank">on Discord</a></dd>
+			<dd>TBC</dd>
 			<dt>Contact</dt>
 			<dd><a href="mailto:cabernar@andrew.cmu.edu" target="_blank">(Chris)Topher Bernard</a></dd>
 			</dl>
@@ -57,11 +57,11 @@ We are excited to continue small group meetings this semester and will be studyi
 			<dt>Gender</dt>
 			<dd>Men</dd>
 			<dt>Date</dt>
-			<dd>Sundays, starting 2/14</dd>
+			<dd>TBC</dd>
 			<dt>Time</dt>
-			<dd>7:00 - 8:30 pm EST</dd>
+			<dd>TBC</dd>
 			<dt>Location</dt>
-			<dd><a href="https://discord.gg/Af8Y8Zn" target="_blank">Discord</a></dd>
+			<dd>TBC</dd>
 			<dt>Contact</dt>
 			<dd><a href="mailto:scleong@andrew.cmu.edu" target="_blank">Samuel Leong</a></dd>
 			</dl>
