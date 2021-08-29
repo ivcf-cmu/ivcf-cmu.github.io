@@ -5,6 +5,9 @@ page: front
 <article class="frontpage">
     <header>
         <img src="images/welcome_image.png" />
+        <div>
+            <i>Affliated with &nbsp;</i><img src="images/intervarsity_logo.png" height="24px">
+        </div>
         <div>Welcome!</div>
     </header>
     <p>
