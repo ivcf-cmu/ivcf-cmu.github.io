@@ -9,11 +9,11 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
 </p>
 <div class="content-events">
 	<div class="cogs">
-		<div class="tricolumn">
+		<!-- <div class="tricolumn">
 			<h2>Orientation Week Meet &amp; Greet</h2>
 			<dl>
 				<dt>When?&nbsp;</dt>
-				<dd>Sunday, August 29 at 5:00PM EDT</dd>
+				<dd>Saturday, August 28 at 5:00PM EDT</dd>
 			</dl>
 			<dl>
 				<dt>Where?&nbsp;</dt>
@@ -23,6 +23,16 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
 				IVCF warmly welcomes all freshmen to CMU, and hope that you will be able to grow in faith and experience godly
 				community here. Join us for a time of worship, fellowship and food, and learn a bit more about IVCF and who we
 				are!
+			</p>
+		</div> -->
+		<div class="tricolumn">
+			<h2>Labor Day Trip</h2>
+			<dl>
+				<dt>When?&nbsp;</dt><dd>Monday, Sept 6, 2pm (exact timing TBD)</dd>
+				<dt>Where?&nbsp;</dt><dd>Altitude Trampoline Park (transport provided, meet at UC brown chairs)</dd>
+			</dl>
+			<p>
+				Ready to jumpstart your semester? Join us on Labor Day, Sept 6, to Altitude Trampoline Park for some fun before the semester pounces on you! Transport will be provided, and exact timing and location will be announced on our Discord and the website so stay tuned!
 			</p>
 		</div>
 		<div class="tricolumn">
