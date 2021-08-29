@@ -34,16 +34,16 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
 				<dt>Where?&nbsp;</dt><dd>Altitude Trampoline Park (transport provided, meet at UC brown chairs)</dd>
 			</dl>
 			<p>
-				Ready to jumpstart your semester? Join us on Labor Day, Sept 6, to Altitude Trampoline Park for some fun before the semester pounces on you! Transport will be provided, and exact timing and location will be announced on our Discord and the website so stay tuned!
+				Ready to jumpstart your semester? Join us on <b>Labor Day, Sept 6</b>, to Altitude Trampoline Park for some fun before the semester pounces on you! <b>Transport will be provided</b>, and exact timing and location will be announced on our Discord and the website so stay tuned!
 			</p>
 		</div>
 		<div class="tricolumn">
 			<h2>Philly Missions</h2>
 			<p>
 				Each year we partner with InterFellowship Association in order to minister and witness to the Kensington
-				community in Philadelphia. While we won't be there in person this year we are still planning to serve.
-				If you would consider being involved, fill out
-				<a href="https://forms.gle/mjMGEAYmiykmSouy8" target="_blank">the interest form</a>.
+				community in Philadelphia. We hope to be there in person this year, but are still in the process of sorting things out. Stay tuned for more info!
+				<!-- If you would consider being involved, fill out
+				<a href="https://forms.gle/mjMGEAYmiykmSouy8" target="_blank">the interest form</a>. -->
 			</p>
 		</div>
 		<!-- <div class="tricolumn">
