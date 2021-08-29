@@ -28,10 +28,11 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
 		<div class="tricolumn">
 			<h2>Labor Day Trip</h2>
 			<dl>
-				<dt>When?&nbsp;</dt><dd>Monday, Sept 6, 2pm (exact timing TBD)</dd>
-			</dl>
-			<dl>
-				<dt>Where?&nbsp;</dt><dd>Altitude Trampoline Park (transport provided, meet at UC brown chairs)</dd>
+				<dt>When?&nbsp;</dt>
+				<dd>Monday, Sept 6, approx. 1:45-4:30PM (exact timing TBD)</dd>
+
+				<dt>Where?&nbsp;</dt>
+				<dd>Altitude Trampoline Park (transport provided)</dd>
 			</dl>
 			<p>
 				Ready to jumpstart your semester? Join us on <b>Labor Day, Sept 6</b>, to Altitude Trampoline Park for some fun before the semester pounces on you! <b>Transport will be provided</b>, and exact timing and location will be announced on our Discord and the website so stay tuned!
