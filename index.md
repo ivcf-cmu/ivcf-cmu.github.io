@@ -8,7 +8,7 @@ page: front
         <div class="subtitle">
             Affliated with &nbsp; <img src="images/intervarsity_logo.png" height="28px" />
         </div>
-        <div>Welcome!</div>
+        <div class="title">Welcome!</div>
     </header>
     <p>
         Welcome to InterVarsity Christian Fellowship! We are a community of students at Carnegie Mellon University who

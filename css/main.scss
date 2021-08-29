@@ -370,7 +370,7 @@ a {
 	margin-right: auto;
 }
 
-.frontpage header div {
+.frontpage header div.title {
 	display: block;
 	font-family: Arvo;
 	font-size: 24px;
@@ -380,11 +380,15 @@ a {
 }
 
 .frontpage header div.subtitle {
-    display: block;
+    display: flex;
+    flex-direction: row;
+	align-items: center;
+
     font-size: 24px;
     color: #cf6436;
-    text-align: center;
 	font-style: italic;
+	
+	text-align: center;
 }
 
 
