@@ -29,6 +29,8 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
 			<h2>Labor Day Trip</h2>
 			<dl>
 				<dt>When?&nbsp;</dt><dd>Monday, Sept 6, 2pm (exact timing TBD)</dd>
+			</dl>
+			<dl>
 				<dt>Where?&nbsp;</dt><dd>Altitude Trampoline Park (transport provided, meet at UC brown chairs)</dd>
 			</dl>
 			<p>
