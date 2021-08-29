@@ -4,9 +4,9 @@ page: front
 ---
 <article class="frontpage">
     <header>
-        <img src="images/welcome_image.png" />
+        <img src="images/welcome_image.png" id="welcome-img" />
         <div class="subtitle">
-            Affliated with &nbsp; <img src="images/intervarsity_logo.png" height="28px" />
+            Affliated with &nbsp; <img src="images/intervarsity_logo.png" height="32px" />
         </div>
         <div class="title">Welcome!</div>
     </header>

@@ -363,7 +363,7 @@ a {
 	margin-bottom: 0;
 }
 
-.frontpage header img {
+.frontpage header #welcome-img {
 	display: block;
 	max-width: 100%;
 	margin-left: auto;
@@ -381,13 +381,10 @@ a {
 
 .frontpage header div.subtitle {
     display: flex;
-    flex-direction: row;
 	align-items: center;
-
-    font-size: 24px;
+    font-size: 16px;
     color: #cf6436;
 	font-style: italic;
-	
 	text-align: center;
 }
 
