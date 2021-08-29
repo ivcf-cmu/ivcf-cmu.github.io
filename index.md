@@ -6,7 +6,10 @@ page: front
     <header>
         <img src="images/welcome_image.png" id="welcome-img" />
         <div class="subtitle">
-            Affliated with &nbsp; <img src="images/intervarsity_logo.png" height="32px" />
+            Affliated with &nbsp;
+            <a href="https://intervarsity.org/" target="_blank">
+                <img src="images/intervarsity_logo.png" height="36px" />
+            </a>
         </div>
         <div class="title">Welcome!</div>
     </header>
