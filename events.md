@@ -29,13 +29,16 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
 			<h2>Labor Day Trip</h2>
 			<dl>
 				<dt>When?&nbsp;</dt>
-				<dd>Monday, Sept 6, approx. 1:45-4:30PM (exact timing TBD)</dd>
+				<dd>Monday, Sept 6, approx. 1:30-4:30PM (exact timing TBD)</dd>
 
 				<dt>Where?&nbsp;</dt>
 				<dd>Altitude Trampoline Park (transport provided)</dd>
 			</dl>
 			<p>
-				Ready to jumpstart your semester? Join us on <b>Labor Day, Sept 6</b>, to Altitude Trampoline Park for some fun before the semester pounces on you! <b>Transport will be provided</b>, and exact timing and location will be announced on our Discord and the website so stay tuned!
+				Ready to jumpstart your semester? Join us on <b>Labor Day, Sept 6</b>, to Altitude Trampoline Park for some fun
+				before the semester pounces on you! <b>Transport will be provided</b>, and exact timing and location will be
+				announced on our <a href="https://discord.gg/Af8Y8Zn" target="_blank">Discord</a> and the website so stay tuned! <br /> 
+				Sign up at <a href="https://forms.gle/3CE1czVv879PSKN46" target="_blank">https://forms.gle/3CE1czVv879PSKN46</a> !
 			</p>
 		</div>
 		<div class="tricolumn">
