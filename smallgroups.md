@@ -20,7 +20,7 @@ We are excited to continue small group meetings this semester and will be studyi
 				<dt>Gender</dt>
 				<dd>Women</dd>
 				<dt>Date</dt>
-				<dd>TBC/dd>
+				<dd><a href="https://www.when2meet.com/?12672403-LwcIY" target="_blank">Fill when2meet</a></dd>
 				<dt>Time</dt>
 				<dd>TBC</dd>
 				<dt>Location</dt>
@@ -35,35 +35,21 @@ We are excited to continue small group meetings this semester and will be studyi
 	</div>
 	<div class="tricolumn">
 		<div class="smallgroup">
-			<h2>Topher’s Group</h2>
+			<h2>Men's Group</h2>
 			<dl>
-			<dt>Gender</dt>
-			<dd>Men</dd>
-			<dt>Date</dt>
-			<dd>TBC</dd>
-			<dt>Time</dt>
-			<dd>TBC</dd>
-			<dt>Location</dt>
-			<dd>TBC</dd>
-			<dt>Contact</dt>
-			<dd><a href="mailto:cabernar@andrew.cmu.edu" target="_blank">(Chris)Topher Bernard</a></dd>
-			</dl>
-		</div>
-	</div>
-	<div class="tricolumn">
-		<div class="smallgroup">
-			<h2>Samuel’s Group</h2>
-			<dl>
-			<dt>Gender</dt>
-			<dd>Men</dd>
-			<dt>Date</dt>
-			<dd>TBC</dd>
-			<dt>Time</dt>
-			<dd>TBC</dd>
-			<dt>Location</dt>
-			<dd>TBC</dd>
-			<dt>Contact</dt>
-			<dd><a href="mailto:scleong@andrew.cmu.edu" target="_blank">Samuel Leong</a></dd>
+				<dt>Gender</dt>
+				<dd>Men</dd>
+				<dt>Date</dt>
+				<dd><a href="https://www.when2meet.com/?12672328-zmZcy" target="_blank">Fill when2meet</a></dd>
+				<dt>Time</dt>
+				<dd>TBC</dd>
+				<dt>Location</dt>
+				<dd>TBC</dd>
+				<dt>Contact</dt>
+				<dd>
+					<a href="mailto:cabernar@andrew.cmu.edu" target="_blank">(Chris)Topher Bernard</a>
+					<a href="mailto:scleong@andrew.cmu.edu" target="_blank">Samuel Leong</a>
+				</dd>
 			</dl>
 		</div>
 	</div>
