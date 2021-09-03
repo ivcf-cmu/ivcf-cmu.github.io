@@ -29,7 +29,7 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
 			<h2>Labor Day Trip</h2>
 			<dl>
 				<dt>When?&nbsp;</dt>
-				<dd>Monday, Sept 6, approx. 1:30-4:30PM (exact timing TBD)</dd>
+				<dd>Monday, Sept 6, 1:30-4:30PM</dd>
 
 				<dt>Where?&nbsp;</dt>
 				<dd>Altitude Trampoline Park (transport provided)</dd>
@@ -39,6 +39,7 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
 				before the semester pounces on you! <b>Transport will be provided</b>, and exact timing and location will be
 				announced on our <a href="https://discord.gg/Af8Y8Zn" target="_blank">Discord</a> and the website so stay tuned! <br /> 
 				Sign up at <a href="https://forms.gle/3CE1czVv879PSKN46" target="_blank">https://forms.gle/3CE1czVv879PSKN46</a> !
+				Note that sign ups close <b>tonight, Sept 3, 2359</b>!
 			</p>
 		</div>
 		<div class="tricolumn">
