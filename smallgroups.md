@@ -24,7 +24,7 @@ We are excited to continue small group meetings this semester and will be studyi
 				<dt>Time</dt>
 				<dd>6-730pm EST</dd>
 				<dt>Location</dt>
-				<dd>TBC</dd>
+				<dd>Wean 5320</dd>
 				<dt>Contact</dt>
 				<dd>
 					<a href="mailto:yoleic@andrew.cmu.edu" target="_blank">Yo-Lei Chen</a>
