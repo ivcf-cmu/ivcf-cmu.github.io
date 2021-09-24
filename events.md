@@ -26,20 +26,16 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
 			</p>
 		</div> -->
 		<div class="tricolumn">
-			<h2>Labor Day Trip</h2>
+			<h2>Game Night</h2>
 			<dl>
 				<dt>When?&nbsp;</dt>
-				<dd>Monday, Sept 6, 1:30-4:30PM</dd>
+				<dd>Saturday, Sept 25, 5PM</dd>
 
 				<dt>Where?&nbsp;</dt>
-				<dd>Altitude Trampoline Park (transport provided)</dd>
+				<dd><a href="https://goo.gl/maps/EoaJv3YwuY8jJZ7A6" target="_blank">5547 Beeler St</a></dd>
 			</dl>
 			<p>
-				Ready to jumpstart your semester? Join us on <b>Labor Day, Sept 6</b>, to Altitude Trampoline Park for some fun
-				before the semester pounces on you! <b>Transport will be provided</b>, and exact timing and location will be
-				announced on our <a href="https://discord.gg/Af8Y8Zn" target="_blank">Discord</a> and the website so stay tuned! <br /> 
-				Sign up at <a href="https://forms.gle/3CE1czVv879PSKN46" target="_blank">https://forms.gle/3CE1czVv879PSKN46</a> !
-				Note that sign ups close <b>tonight, Sept 3, 2359</b>!
+				Don't like the sudden changes in Pittsburgh weather? Join us indoors for a game night at <b>5547 Beeler St</b> on Saturday, Sep 25, 5PM! There'll be food and snacks provided :)
 			</p>
 		</div>
 		<div class="tricolumn">
