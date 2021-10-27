@@ -25,7 +25,7 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
 				are!
 			</p>
 		</div> -->
-		<div class="tricolumn">
+		<!-- <div class="tricolumn">
 			<h2>Game Night</h2>
 			<dl>
 				<dt>When?&nbsp;</dt>
@@ -37,7 +37,7 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
 			<p>
 				Don't like the sudden changes in Pittsburgh weather? Join us indoors for a game night at <b>5547 Beeler St</b> on Saturday, Sep 25, 5PM! There'll be food and snacks provided :)
 			</p>
-		</div>
+		</div> -->
 		<div class="tricolumn">
 			<h2>Philly Missions</h2>
 			<p>
@@ -47,15 +47,6 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
 				<a href="https://forms.gle/mjMGEAYmiykmSouy8" target="_blank">the interest form</a>. -->
 			</p>
 		</div>
-		<!-- <div class="tricolumn">
-			<h2>City-Wide Game Nights</h2>
-			<dl>
-				<dt>When?&nbsp;</dt><dd>Once a month starting soon.</dd>
-			</dl>
-			<p>
-				Dates & times TBA. Take a load of and play some games with friends from CMU, Pitt, Duquesne, and other local universities!
-			</p>
-		</div> -->
 		<!--
 		<div class="tricolumn">
 			<h2>Ignite Conference</h2>
