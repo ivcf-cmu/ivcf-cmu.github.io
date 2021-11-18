@@ -42,9 +42,10 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
 			<h2>Philly Missions</h2>
 			<p>
 				Each year we partner with InterFellowship Association in order to minister and witness to the Kensington
-				community in Philadelphia. We hope to be there in person this year, but are still in the process of sorting things out. Stay tuned for more info!
-				<!-- If you would consider being involved, fill out
-				<a href="https://forms.gle/mjMGEAYmiykmSouy8" target="_blank">the interest form</a>. -->
+				community in Philadelphia. We are in person this year, but notably, outreach will be in the afternoon and VBS in the evening. Information <a href="https://youtu.be/V9ZAeCb7zoE" target="_blank">video here</a>.
+
+				If you would like to be involved, fill out
+				<a href="https://forms.gle/14TxhiDnvdL9iBot8" target="_blank">the interest form</a>.
 			</p>
 		</div>
 		<!--
