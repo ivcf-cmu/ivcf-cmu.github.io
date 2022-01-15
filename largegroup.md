@@ -23,9 +23,10 @@ This semester we are trying something different, and will be doing a discussion 
 </p> -->
 
 <p>
-For Large Group this semester, we will be running the <a href="https://www.youtube.com/watch?v=_fyjL4NsAfM" target="_blank">Alpha Series</a>. The series involves weekly meetings with food, a video and an open discussion about life and faith. Participants are free to disagree with content of the video, and a healthy open discussion will ensue.
+For Large Group this semester, we will be running the <a href="https://www.youtube.com/watch?v=_fyjL4NsAfM" target="_blank">Alpha Series</a>. The series involves weekly meetings with food, an engaging video and an open discussion about life and faith. Participants are free to disagree with content of the video, and a healthy open discussion will ensue.
 </p>
-<p>It is important to note that Alpha cannot be run without friends! We ask that you prayerfully think about which friends you could possibly invite to Alpha, and to commit them in prayer. Fill out this <a href="https://forms.gle/mDxTPt8Xv5wv6S8X7" target="_blank">Google Form</a> as part of this commitment.</p>
+
+<p>Alpha needs your friends for it to be most meaningful! We ask that you prayerfully think about which friends you could possibly invite to Alpha, and to commit them in prayer. Fill out this <a href="https://forms.gle/mDxTPt8Xv5wv6S8X7" target="_blank">Google Form</a> as part of this commitment.</p>
 
 <div class="cogs cogs-large">
 	<dl>

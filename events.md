@@ -25,6 +25,7 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
 				are!
 			</p>
 		</div> -->
+
 		<!-- <div class="tricolumn">
 			<h2>Game Night</h2>
 			<dl>
@@ -38,6 +39,7 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
 				Don't like the sudden changes in Pittsburgh weather? Join us indoors for a game night at <b>5547 Beeler St</b> on Saturday, Sep 25, 5PM! There'll be food and snacks provided :)
 			</p>
 		</div> -->
+
 		<div class="tricolumn">
 			<h2>Philly Missions</h2>
 			<p>
@@ -48,6 +50,20 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
 				<a href="https://forms.gle/14TxhiDnvdL9iBot8" target="_blank">the interest form</a>.
 			</p>
 		</div>
+
+		<div class="tricolumn">
+		    <h2>Alpha Large Group</h2>
+		    <p>
+		        This semester, we are doing something very different for <a href="largegroup.md">Large Group</a>: a
+		        video-discussion series called
+		        <a href="https://www.youtube.com/watch?v=_fyjL4NsAfM" target="_blank">Alpha</a>. It is a time of
+		        fellowship over food, and open discussions about life and faith, led by engaging videos created by the
+		        organisation.
+
+				We hope that you prayerfully invite friends! More details about that in the <a href="largegroup.md">Large Group</a> section.
+		    </p>
+		</div>
+
 		<!--
 		<div class="tricolumn">
 			<h2>Ignite Conference</h2>
@@ -104,24 +120,7 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
 				Similar to the regional day, more details coming soon!
 			</p>
 		</div>
-		<div class="tricolumn">
-			<h2>
-				Alumni Reunion
-			</h2>
-				<dl>
-					<dt>When?&nbsp;</dt>
-					<dd>
-						March 21st. (exact time coming soon)
-					</dd>
-							<dt>Where?&nbsp;</dt>
-					<dd>
-						Doherty Hall A302
-					</dd>
-				</dl>
-			<p>
-				All are welcome to join us for a time to celebrate what God has been doing in the lives of current students as well as former InterVarsity members.
-			</p>
-		</div>
+
 		<div class="tricolumn">
 			<h2>Alumni Reunion</h2>
 			<dl>
@@ -132,6 +131,7 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
 				Enjoy Labor day with friends exploring God’s creation. Take a trip with us to Ohiopyle, PA, and enjoy waterfalls, short hikes, creeking, and a picnic lunch on us.
 			</p>
 		</div>
+
 		<div class="tricolumn">
 			<h2>The Overnighter</h2>
 			<dl>
@@ -151,6 +151,7 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
 			Official Website
 			</a>
 		</div>
+
 		<div class="tricolumn">
 			<h2>Urbana</h2>
 			<p>
