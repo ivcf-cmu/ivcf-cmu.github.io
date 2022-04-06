@@ -22,9 +22,9 @@ We are excited to continue small group meetings this semester and will be studyi
 				<dt>Date</dt>
 				<dd>Every Tuesday</dd>
 				<dt>Time</dt>
-				<dd>6-730pm EST</dd>
+				<dd>530-7pm EST</dd>
 				<dt>Location</dt>
-				<dd>Porter 125D</dd>
+				<dd>UC Chapel (First floor)</dd>
 				<dt>Contact</dt>
 				<dd>
 					<a href="mailto:yoleic@andrew.cmu.edu" target="_blank">Yo-Lei Chen</a>
@@ -39,11 +39,11 @@ We are excited to continue small group meetings this semester and will be studyi
 				<dt>Gender</dt>
 				<dd>Men</dd>
 				<dt>Date</dt>
-				<dd>Every Tuesday</dd>
+				<dd>Every Monday</dd>
 				<dt>Time</dt>
 				<dd>7-830pm EST (optional dinner beforehand!)</dd>
 				<dt>Location</dt>
-				<dd>UC Chapel (First floor, enter through recycling area)</dd>
+				<dd>UC Caffee (Second floor, glass box beside lifts)</dd>
 				<dt>Contact</dt>
 				<dd>
 					<a href="mailto:cabernar@andrew.cmu.edu" target="_blank">(Chris)Topher Bernard</a>

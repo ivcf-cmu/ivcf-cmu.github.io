@@ -64,6 +64,42 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
 		    </p>
 		</div>
 
+		<div class="tricolumn">
+			<h2>Alumni Reunion</h2>
+			<dl>
+				<dt>When?&nbsp;</dt>
+				<dd>Saturday, 9 Apr 2022, from 4:30pm to 6:00pm</dd>
+				<dt>Where?&nbsp;</dt>
+				<dd>CMU, Doherty Hall 1211</dd>
+			</dl>
+			<p>
+				Join us during Spring Carnival for a time of worship, prayer, snacks, games, and hopefully dinner afterwards!
+				Both alumni and current members welcome!
+			</p>
+		</div>
+
+
+		<div class="tricolumn">
+			<h2>
+				IV Regional Prayer Meeting
+			</h2>
+			<dl>
+				<dt>When?&nbsp;</dt>
+				<dd>
+					Friday, 8 Apr 2022, 5:00pm to 9:00pm
+				</dd>
+				<dt>Where?&nbsp;</dt>
+				<dd>
+					CMU, Margeret Morrison 103
+				</dd>
+			</dl>
+			<p>
+				IV is hosting a regional prayer meeting!
+			    Come for a time of prayer, free food, and to meet people from IV and free food.
+			https://riversrails.events.intervarsity.org/olgprayer
+			</p>
+		</div>
+
 		<!--
 		<div class="tricolumn">
 			<h2>Ignite Conference</h2>
@@ -118,17 +154,6 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
 			</dl>
 			<p>
 				Similar to the regional day, more details coming soon!
-			</p>
-		</div>
-
-		<div class="tricolumn">
-			<h2>Alumni Reunion</h2>
-			<dl>
-				<dt>When?&nbsp;</dt><dd>Saturday, September 2 from 9:00 AM to 6:00 PM</dd>
-				<dt>Where?&nbsp;</dt><dd>Meet @ Morewood (we’ll drive to Ohiopyle, PA together)</dd>
-			</dl>
-			<p>
-				Enjoy Labor day with friends exploring God’s creation. Take a trip with us to Ohiopyle, PA, and enjoy waterfalls, short hikes, creeking, and a picnic lunch on us.
 			</p>
 		</div>
 
