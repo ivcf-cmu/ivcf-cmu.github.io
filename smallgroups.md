@@ -22,7 +22,7 @@ We are excited to continue small group meetings this semester and will be studyi
 				<dt>Date</dt>
 				<dd>Every Tuesday</dd>
 				<dt>Time</dt>
-				<dd>530-7pm EST</dd>
+				<dd>5:30-7:00pm EST</dd>
 				<dt>Location</dt>
 				<dd>UC Chapel (First floor)</dd>
 				<dt>Contact</dt>
@@ -41,7 +41,7 @@ We are excited to continue small group meetings this semester and will be studyi
 				<dt>Date</dt>
 				<dd>Every Monday</dd>
 				<dt>Time</dt>
-				<dd>7-830pm EST (optional dinner beforehand!)</dd>
+				<dd>7:00-8:30pm EST (optional dinner beforehand!)</dd>
 				<dt>Location</dt>
 				<dd>UC Caffee (Second floor, glass box beside lifts)</dd>
 				<dt>Contact</dt>
