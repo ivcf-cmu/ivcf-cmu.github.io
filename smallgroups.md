@@ -20,14 +20,14 @@ We are excited to continue small group meetings this semester and will be studyi
 				<dt>Gender</dt>
 				<dd>Women</dd>
 				<dt>Date</dt>
-				<dd>Every Tuesday</dd>
+				<dd>TBD</dd>
 				<dt>Time</dt>
-				<dd>5:30-7:00pm EST</dd>
+				<dd>TBD</dd>
 				<dt>Location</dt>
-				<dd>UC Chapel (First floor)</dd>
+				<dd>TBD</dd>
 				<dt>Contact</dt>
 				<dd>
-					<a href="mailto:yoleic@andrew.cmu.edu" target="_blank">Yo-Lei Chen</a>
+					<a href="mailto:jugwu@andrew.cmu.edu" target="_blank">Joy Ugwu</a>
 				</dd>
 			</dl>
 		</div>
@@ -39,11 +39,11 @@ We are excited to continue small group meetings this semester and will be studyi
 				<dt>Gender</dt>
 				<dd>Men</dd>
 				<dt>Date</dt>
-				<dd>Every Monday</dd>
+				<dd>TBD</dd>
 				<dt>Time</dt>
-				<dd>7:00-8:30pm EST (optional dinner beforehand!)</dd>
+				<dd>TBD (optional dinner beforehand!)</dd>
 				<dt>Location</dt>
-				<dd>UC Caffee (Second floor, glass box beside lifts)</dd>
+				<dd>TBD</dd>
 				<dt>Contact</dt>
 				<dd>
 					<a href="mailto:cabernar@andrew.cmu.edu" target="_blank">(Chris)Topher Bernard</a>

@@ -52,6 +52,20 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
 		</div>
 
 		<div class="tricolumn">
+			<h2>Labor Day Trip</h2>
+			<dl>
+				<dt>When?&nbsp;</dt>
+				<dd>Monday, Sep 5</dd>
+				<dt>Where?&nbsp;</dt>
+				<dd>TBD</dd>
+			</dl>
+			<p>
+				Enjoy Labor day with friends exploring God’s creation. Take a trip with us to Ohiopyle, PA, and enjoy
+				waterfalls, short hikes, creeking, and a picnic lunch on us.
+			</p>
+		</div>
+
+		<!-- <div class="tricolumn">
 		    <h2>Alpha Large Group</h2>
 		    <p>
 		        This semester, we are doing something very different for <a href="largegroup.md">Large Group</a>: a
@@ -62,9 +76,9 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
 
 				We hope that you prayerfully invite friends! More details about that in the <a href="largegroup.md">Large Group</a> section.
 		    </p>
-		</div>
+		</div> -->
 
-		<div class="tricolumn">
+		<!-- <div class="tricolumn">
 			<h2>Alumni Reunion</h2>
 			<dl>
 				<dt>When?&nbsp;</dt>
@@ -76,10 +90,9 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
 				Join us during Spring Carnival for a time of worship, prayer, snacks, games, and hopefully dinner afterwards!
 				Both alumni and current members welcome!
 			</p>
-		</div>
+		</div> -->
 
-
-		<div class="tricolumn">
+		<!-- <div class="tricolumn">
 			<h2>
 				IV Regional Prayer Meeting
 			</h2>
@@ -98,7 +111,7 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
 			    Come for a time of prayer, free food, and to meet people from IV and free food.
 			https://riversrails.events.intervarsity.org/olgprayer
 			</p>
-		</div>
+		</div> -->
 
 		<!--
 		<div class="tricolumn">
