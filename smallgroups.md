@@ -22,9 +22,9 @@ We are excited to continue small group meetings this semester and will be studyi
 				<dt>Date</dt>
 				<dd>Thursdays</dd>
 				<dt>Time</dt>
-				<dd>TBD</dd>
+				<dd>8:30-10pm</dd>
 				<dt>Location</dt>
-				<dd>TBD</dd>
+				<dd>UC Caffee (2nd floor, near elevators)</dd>
 				<dt>Contact</dt>
 				<dd>
 					<a href="mailto:jugwu@andrew.cmu.edu" target="_blank">Joy Ugwu</a>
@@ -39,15 +39,33 @@ We are excited to continue small group meetings this semester and will be studyi
 				<dt>Gender</dt>
 				<dd>Men</dd>
 				<dt>Date</dt>
-				<dd>TBD</dd>
+				<dd>Tuesdays</dd>
 				<dt>Time</dt>
-				<dd>TBD (optional dinner beforehand!)</dd>
+				<dd>7-8:30pm (optional dinner beforehand!)</dd>
 				<dt>Location</dt>
-				<dd>TBD</dd>
+				<dd>UC Chapel (1st floor, opposite McConnomy)</dd>
+				<dt>Contact</dt>
+				<dd>
+					<a href="mailto:scleong@andrew.cmu.edu" target="_blank">Samuel Leong</a>
+				</dd>
+			</dl>
+		</div>
+	</div>
+	<div class="tricolumn">
+		<div class="smallgroup">
+			<h2>Men's Group</h2>
+			<dl>
+				<dt>Gender</dt>
+				<dd>Men</dd>
+				<dt>Date</dt>
+				<dd>Wednesdays</dd>
+				<dt>Time</dt>
+				<dd>7-8:30pm (optional dinner beforehand!)</dd>
+				<dt>Location</dt>
+				<dd>UC Caffe (2nd floor, near elevators)</dd>
 				<dt>Contact</dt>
 				<dd>
 					<a href="mailto:cabernar@andrew.cmu.edu" target="_blank">(Chris)Topher Bernard</a>
-					<a href="mailto:scleong@andrew.cmu.edu" target="_blank">Samuel Leong</a>
 				</dd>
 			</dl>
 		</div>
