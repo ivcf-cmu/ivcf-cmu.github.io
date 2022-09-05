@@ -20,7 +20,7 @@ We are excited to continue small group meetings this semester and will be studyi
 				<dt>Gender</dt>
 				<dd>Women</dd>
 				<dt>Date</dt>
-				<dd>TBD</dd>
+				<dd>Thursdays</dd>
 				<dt>Time</dt>
 				<dd>TBD</dd>
 				<dt>Location</dt>

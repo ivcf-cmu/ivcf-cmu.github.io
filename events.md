@@ -44,10 +44,12 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
 			<h2>Philly Missions</h2>
 			<p>
 				Each year we partner with InterFellowship Association in order to minister and witness to the Kensington
-				community in Philadelphia. We are in person this year, but notably, outreach will be in the afternoon and VBS in the evening. Information <a href="https://youtu.be/V9ZAeCb7zoE" target="_blank">video here</a>.
+				community in Philadelphia during Spring break (Mar 5 - Mar 11). We are in person this year, but notably, outreach will be in the afternoon and VBS in the evening. Stay updated for more information!
+				
+				<!-- Information <a href="https://youtu.be/V9ZAeCb7zoE" target="_blank">video here</a>. -->
 
-				If you would like to be involved, fill out
-				<a href="https://forms.gle/14TxhiDnvdL9iBot8" target="_blank">the interest form</a>.
+				<!-- If you would like to be involved, fill out
+				<a href="https://forms.gle/14TxhiDnvdL9iBot8" target="_blank">the interest form</a>. -->
 			</p>
 		</div>
 
@@ -57,7 +59,10 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
 				<dt>When?&nbsp;</dt>
 				<dd>Monday, Sep 5</dd>
 				<dt>Where?&nbsp;</dt>
-				<dd>TBD</dd>
+				<dd>
+				Ohiopyle State Park <br />
+				Meet at <a href="https://goo.gl/maps/1Yndx4qzNmYjtLWD6" target="_blank">Morewood Carpark</a>
+				</dd>
 			</dl>
 			<p>
 				Enjoy Labor day with friends exploring God’s creation. Take a trip with us to Ohiopyle, PA, and enjoy
