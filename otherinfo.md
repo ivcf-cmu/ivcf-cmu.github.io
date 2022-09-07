@@ -6,7 +6,7 @@ sectionHeader: Contact
 
 <p>
 	The CMU IVCF Discord Server is our main communication channel, and definitely worth joining if you would like to be involved. Signing up is quick and easy - just <b>go to <a href="https://discord.gg/KWV2TwA" target="_blank">discord.gg/KWV2TwA</a> to login or register!</b>
-	If you have problems getting in, please contact <a href="mailto:jamiepark@cmu.edu">Jamie Park</a>
+	If you have problems getting in, please contact <a href="mailto:sriyad@andrew.cmu.edu" target="_blank">Sara Riyad</a> or <a href="mailto:scleong@andrew.cmu.edu" target="_blank">Samuel Leong</a>
 </p>
 <!-- <p>
 	The CMU IVCF Slack workspace is our main communication channel, and definitely worth joining if you would like to be involved. Signing up is quick and easy:
@@ -18,16 +18,15 @@ sectionHeader: Contact
 		<li>Click "Create Account"</li>
 	</ol>
 <p>
-<p>
-	Note: if you would like to create an account with a different email address please contact <a href="mailto:jamiepark@cmu.edu">Jamie Park</a>
-</p> -->
+-->
 <br/>
 <p>
 	To reach out directly, feel free to send us an email at <a href="mailto:ivcf@andrew.cmu.edu">ivcf@andrew.cmu.edu</a>
 </p>
 <br/>
 <p>
-	For updates via email, <a target="_blank" href="https://lists.andrew.cmu.edu/mailman/listinfo/ivcf-misc">join our mailing list</a>! We generally send one email each week. Also, follow us on <a target="_blank" href="https://www.instagram.com/cmuiv_undergrad/">Instagram</a> and on <a target="_blank" href="https://www.facebook.com/cmu.ivcf/">Facebook</a>
+	For updates via email, <a target="_blank" href="https://lists.andrew.cmu.edu/mailman/listinfo/ivcf-misc">join our mailing list</a>! We generally send one email each week. Also, follow us on <a target="_blank" href="https://www.instagram.com/cmuiv_undergrad/">Instagram</a>!
+	 <!-- and on <a target="_blank" href="https://www.facebook.com/cmu.ivcf/">Facebook</a> -->
 </p>
 <br/><br/><br/><br/>
 <header class="section-header">
@@ -97,4 +96,8 @@ sectionHeader: Contact
 </header>
 <p class="affiliations">
 	InterVarsity at CMU is a part of CMU's Inter-Fellowship Association (IFA), which is the union of all the Christian fellowships on campus. The groups are all united together to glorify God, but we each do it a little differently, so feel free to <a href="http://christatcmu.com/fellowships.html" target="_blank">check out our fellow fellowships</a> on IFA's website!
+</p>
+
+<p class="affiliations">
+	While you are welcome to join the undergraduate chapter (we have some graduate students in our ranks too), InterVarsity also has a specifically graduate chapter. If you are interested in joining the graduate chapter, please contact <a href="mailto:kathy.mccready@intervarsity.org" target="_blank">Kathy McCready</a>.
 </p>
