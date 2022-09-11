@@ -39,11 +39,11 @@ We are excited to continue small group meetings this semester and will be studyi
 				<dt>Gender</dt>
 				<dd>Men</dd>
 				<dt>Date</dt>
-				<dd>Tuesdays</dd>
+				<dd>Mondays</dd>
 				<dt>Time</dt>
 				<dd>7-8:30pm (optional dinner beforehand!)</dd>
 				<dt>Location</dt>
-				<dd>UC Chapel (1st floor, opposite McConnomy)</dd>
+				<dd>UC Caffe (2nd floor, near elevators)</dd>
 				<dt>Contact</dt>
 				<dd>
 					<a href="mailto:scleong@andrew.cmu.edu" target="_blank">Samuel Leong</a>
