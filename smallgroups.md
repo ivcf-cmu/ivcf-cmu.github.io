@@ -20,9 +20,9 @@ We are excited to continue small group meetings this semester and will be studyi
 				<dt>Gender</dt>
 				<dd>Women</dd>
 				<dt>Date</dt>
-				<dd>Thursdays</dd>
+				<dd>Tuesdays</dd>
 				<dt>Time</dt>
-				<dd>8:30-10pm</dd>
+				<dd>8:00-9:30pm</dd>
 				<dt>Location</dt>
 				<dd>UC Caffee (2nd floor, near elevators)</dd>
 				<dt>Contact</dt>
