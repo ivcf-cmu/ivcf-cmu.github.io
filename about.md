@@ -13,7 +13,7 @@ InterVarsity Christian Fellowship/USA is a vibrant campus ministry that establis
 
 In one accord with all Christians on campus, we have a vision to see Carnegie Mellon University become a place where Jesus’ name is lifted on high and glorified.
 
-<a href="https://intervarsity.org/about-us/what-we-believe" target="_blank">Read InterVarsity-USA's doctrinal basis</a>
+<a href="https://intervarsity.org/about-us/what-we-believe" target="_blank">Read InterVarsity-USA's doctrinal basis/statement of faith</a>
 
 <br/><br/><br/><br/>
 <header class="section-header">

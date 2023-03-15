@@ -22,16 +22,17 @@ Large group is a weekly event where all of the small groups gather in one place 
 This semester we are trying something different, and will be doing a discussion series on the history of Christianity, which we hope will give us a nice understanding of the context of the scripture we study.
 </p> -->
 
-<!-- <p>
+<p>
 For Large Group this semester, we will be running the <a href="https://www.youtube.com/watch?v=_fyjL4NsAfM" target="_blank">Alpha Series</a>. The series involves weekly meetings with food, an engaging video and an open discussion about life and faith. Participants are free to disagree with content of the video, and a healthy open discussion will ensue.
 </p>
 
-<p>Alpha needs your friends for it to be most meaningful! We ask that you prayerfully think about which friends you could possibly invite to Alpha, and to commit them in prayer. Fill out this <a href="https://forms.gle/mDxTPt8Xv5wv6S8X7" target="_blank">Google Form</a> as part of this commitment.</p> -->
+<p>Alpha needs your friends for it to be most meaningful! We ask that you prayerfully think about which friends you could possibly invite to Alpha, and to commit them in prayer.</p>.
+<!-- Fill out this <a href="https://forms.gle/mDxTPt8Xv5wv6S8X7" target="_blank">Google Form</a> as part of this commitment.</p> -->
 
 <div class="cogs cogs-large">
 	<dl>
 		<dt>Location<a href="#location-addendum"><sup>*</sup></a></dt> <dd>DH 1211</dd>
-		<dt>Time</dt> <dd>Fridays, 5:00 pm &mdash; 6:30 pm</dd>
+		<dt>Time</dt> <dd>Fridays, 6:00 pm &mdash; 7:45 pm</dd>
 	</dl>
 </div>
 

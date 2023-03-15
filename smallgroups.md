@@ -20,11 +20,11 @@ We are excited to continue small group meetings this semester and will be studyi
 				<dt>Gender</dt>
 				<dd>Women</dd>
 				<dt>Date</dt>
-				<dd>Tuesdays</dd>
+				<dd>Thursdays</dd>
 				<dt>Time</dt>
-				<dd>8:00-9:30pm</dd>
+				<dd>5:00-6:30pm</dd>
 				<dt>Location</dt>
-				<dd>UC Caffee (2nd floor, near elevators)</dd>
+				<dd>PH 125B</dd>
 				<dt>Contact</dt>
 				<dd>
 					<a href="mailto:jugwu@andrew.cmu.edu" target="_blank">Joy Ugwu</a>
@@ -41,12 +41,12 @@ We are excited to continue small group meetings this semester and will be studyi
 				<dt>Date</dt>
 				<dd>Mondays</dd>
 				<dt>Time</dt>
-				<dd>7-8:30pm (optional dinner beforehand!)</dd>
+				<dd>6:00-7:30pm (optional dinner beforehand!)</dd>
 				<dt>Location</dt>
 				<dd>UC Caffe (2nd floor, near elevators)</dd>
 				<dt>Contact</dt>
 				<dd>
-					<a href="mailto:scleong@andrew.cmu.edu" target="_blank">Samuel Leong</a>
+					<a href="mailto:cabernar@andrew.cmu.edu" target="_blank">(Chris)Topher Bernard</a>
 				</dd>
 			</dl>
 		</div>
@@ -58,14 +58,14 @@ We are excited to continue small group meetings this semester and will be studyi
 				<dt>Gender</dt>
 				<dd>Men</dd>
 				<dt>Date</dt>
-				<dd>Wednesdays</dd>
+				<dd>Thursdays</dd>
 				<dt>Time</dt>
-				<dd>7-8:30pm (optional dinner beforehand!)</dd>
+				<dd>5:30-7:00pm</dd>
 				<dt>Location</dt>
-				<dd>UC Caffe (2nd floor, near elevators)</dd>
+				<dd>PH 125C</dd>
 				<dt>Contact</dt>
 				<dd>
-					<a href="mailto:cabernar@andrew.cmu.edu" target="_blank">(Chris)Topher Bernard</a>
+					<a href="mailto:scleong@andrew.cmu.edu" target="_blank">Samuel Leong</a>
 				</dd>
 			</dl>
 		</div>
