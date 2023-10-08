@@ -31,8 +31,11 @@ For Large Group this semester, we will be running the <a href="https://www.youtu
 
 <div class="cogs cogs-large">
 	<dl>
-		<dt>Location<a href="#location-addendum"><sup>*</sup></a></dt> <dd>DH 1211</dd>
-		<dt>Time</dt> <dd>Fridays, 6:00 pm &mdash; 7:45 pm</dd>
+		<dt>Location<a href="#location-addendum"><sup>*</sup></a></dt>
+		<dd><a href="https://maps.app.goo.gl/TDHorMbT2i1KzUDZ6" target="_blank">Fifth Ave Commons</a></dd>
+		
+		<dt>Time</dt>
+		<dd>Fridays, 7:00 pm &mdash; 8:30 pm</dd>
 	</dl>
 </div>
 

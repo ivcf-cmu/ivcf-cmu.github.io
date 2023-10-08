@@ -6,7 +6,7 @@ sectionHeader: Contact
 
 <p>
 	The CMU IVCF Discord Server is our main communication channel, and definitely worth joining if you would like to be involved. Signing up is quick and easy - just <b>go to <a href="https://discord.gg/KWV2TwA" target="_blank">discord.gg/KWV2TwA</a> to login or register!</b>
-	If you have problems getting in, please contact <a href="mailto:sriyad@andrew.cmu.edu" target="_blank">Sara Riyad</a> or <a href="mailto:scleong@andrew.cmu.edu" target="_blank">Samuel Leong</a>
+	If you have problems getting in, please contact <a href="mailto:jasminez@andrew.cmu.edu" target="_blank">Jasmine Zeng</a> or <a href="mailto: josephc2@andrew.cmu.edu" target="_blank">Joseph Chan</a>
 </p>
 <!-- <p>
 	The CMU IVCF Slack workspace is our main communication channel, and definitely worth joining if you would like to be involved. Signing up is quick and easy:
