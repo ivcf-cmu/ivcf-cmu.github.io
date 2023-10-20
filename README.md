@@ -15,11 +15,11 @@ is a brief explanation...
 
 ## What on earth is Jekyll?
 
-Jekyll is GitHubs's way of hosting websites. GitHub will properly host a flat
+Jekyll is GitHub's way of hosting websites. GitHub will properly host a flat
 HTML website, but it also allows you to use Jekyll, which allows tools like
 SASS, templating, and CoffeeScript. Jekyll takes these files and, according to
 an optional config file, compiles them into a flat site. This website uses
-Jekyll and GitHub compiles it for us automatically. Notice that Jekyll also
+Jekyll, and GitHub compiles it for us automatically. Notice that Jekyll also
 compiles Markdown into HTML, which might be why the content looks so weird. The
 [Jekyll Docs] are a great place to learn more.
 
@@ -34,10 +34,12 @@ locally too... so you have to compile with Jekyll.
 Follow the installation instructions [here] and then you can compile the site
 into a flat static website with the `jekyll serve -m` command. The `-m` means
 that when you change a file (that is not the config file) Jekyll will
-automatically recomile the site. Find the compiled HTML in the \_site directory
-and you can open them with your browser to check them out before you push.
+automatically recompile the site. Find the compiled HTML in the `_site`
+directory and you can open them with your browser to check them out before you
+push.
 
 Thanks for reading, and good luck!
 
 [Jekyll Docs]: https://jekyllrb.com/docs/installation/
-[here]: https://jekyllrb.com/docs/installation/
+ [here]:
+https://jekyllrb.com/docs/installation/
