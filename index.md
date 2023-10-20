@@ -32,7 +32,7 @@ page: front
     While we usually love connecting in person, in light of COVID-19 all of our events are virtual. That said, we are still excited to encounter Christ and all of the people he has created. Come join us for Bible study, large group, or other events!
     </p>
      -->
-  
+
     <p>
         To visit or learn more about getting involved, check out our <a href="largegroup.html">Large Group</a> page to
         learn about our regular gatherings, <a href="smallgroups.html">Small Groups</a> page for our Bible studies, or
@@ -42,19 +42,21 @@ page: front
 
     <p>
         This website mainly concerns the undergraduate chapter. For graduate students, please visit the national
-        <a href="https://gfm.intervarsity.org/our-ministries/graduate-students" target="_blank">Graduate & Faculty Ministry website.</a>
+        <a href="https://gfm.intervarsity.org/our-ministries/graduate-students" target="_blank">Graduate & Faculty
+            Ministry website.</a>
         To connect personally at CMU and receive emails about upcoming events, please email
         <a href="mailto:kathy.mccready@intervarsity.org" target="_blank">Kathy</a>
     </p>
 
 
-    <br/>
+    <br />
     <div id="curator-feed-default-feed-layout">
-        <a href="https://curator.io" target="_blank" class="crt-logo crt-tag">Powered by Curator.io</a></div>
+        <a href="https://curator.io" target="_blank" class="crt-logo crt-tag">Powered by Curator.io</a>
+    </div>
     <!-- The Javascript can be moved to the end of the html page before the </body> tag -->
     <script type="text/javascript">
         /* curator-feed-default-feed-layout */
-        (function() {
+        (function () {
             var i, e, d = document,
                 s = "script";
             i = d.createElement("script");

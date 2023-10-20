@@ -1,17 +1,18 @@
 <!DOCTYPE html>
 <html>
-	{% include head.html %}
-	<body style="background: url('{{ "images/bg.jpg" | base_url }}')">
-		{% include header.html %}
-		<div class='main'>
-			<div class='content content-{{ page.page }}'>
-				<div class='section-header'>
-					<h1>{{ page.sectionHeader }}</h1>
-				</div>
-			{{ content }}
-			</div>
-		</div>
-		{% include footer.html %}
-	</body>
-</html>
+  {% include head.html %}
 
+  <body style="background: url('{{ " images/bg.jpg" | base_url }}')">
+    {% include header.html %}
+    <div class='main'>
+      <div class='content content-{{ page.page }}'>
+        <div class='section-header'>
+          <h1>{{ page.sectionHeader }}</h1>
+        </div>
+        {{ content }}
+      </div>
+    </div>
+    {% include footer.html %}
+  </body>
+
+</html>

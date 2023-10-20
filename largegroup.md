@@ -8,10 +8,10 @@ sectionHeader: Large Group
 While the online format is new this year we still look forward to gathering to worship God together, know Him better through scripture, have fellowship with one another, and be ignited and uplifted by the Holy Spirit. Large group is a time where the expectation is to meet God together as one body, in one accord. Come join us!
 </p>
 <div class="cogs cogs-large">
-	<dl>
-		<dt>Location</dt> <dd><a href="https://discord.gg/Af8Y8Zn" target="_blank">Discord</a></dd>
-		<dt>Time</dt> <dd>Fridays, 7:30 pm EST</dd>
-	</dl>
+  <dl>
+    <dt>Location</dt> <dd><a href="https://discord.gg/Af8Y8Zn" target="_blank">Discord</a></dd>
+    <dt>Time</dt> <dd>Fridays, 7:30 pm EST</dd>
+  </dl>
 </div> -->
 
 <p>
@@ -30,15 +30,15 @@ For Large Group this semester, we will be running the <a href="https://www.youtu
 <!-- Fill out this <a href="https://forms.gle/mDxTPt8Xv5wv6S8X7" target="_blank">Google Form</a> as part of this commitment.</p> -->
 
 <div class="cogs cogs-large">
-	<dl>
-		<dt>Location<a href="#location-addendum"><sup>*</sup></a></dt>
-		<dd><a href="https://maps.app.goo.gl/TDHorMbT2i1KzUDZ6" target="_blank">Fifth Ave Commons</a></dd>
-		
-		<dt>Time</dt>
-		<dd>Fridays, 7:00 pm &mdash; 8:30 pm</dd>
-	</dl>
+  <dl>
+    <dt>Location<a href="#location-addendum"><sup>*</sup></a></dt>
+    <dd><a href="https://maps.app.goo.gl/TDHorMbT2i1KzUDZ6" target="_blank">Fifth Ave Commons</a></dd>
+    
+    <dt>Time</dt>
+    <dd>Fridays, 7:00 pm &mdash; 8:30 pm</dd>
+  </dl>
 </div>
 
 <p id="location-addendum">
-	<sup>*</sup>Check the <a href="https://discord.gg/Af8Y8Zn" target="_blank">Discord</a> for any last minute changes
+  <sup>*</sup>Check the <a href="https://discord.gg/Af8Y8Zn" target="_blank">Discord</a> for any last minute changes
 </p>
