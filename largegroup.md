@@ -12,7 +12,8 @@ sectionHeader: Large Group
   in one accord. After Large Group, it is an InterVarsity tradition to get
   dinner together afterwards and socialize. Come join us, and bring friends!
 </p>
-</br>
+<br>
+
 <!-- Table for location, time -->
 <div class="cogs cogs-large">
   <dl>
