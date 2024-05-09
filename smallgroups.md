@@ -8,64 +8,45 @@ sectionHeader: Small Groups
 </p>
 <br/>
 <p>
-  We are excited to continue small group meetings this semester and will be studying the book of 1 and 2 Peter together. Find the group that is right for you:
+  We are excited to continue small group meetings this semester and will be studying the book of [TBD] together. Find the group that is right for you:
 </p>
 
 <br/>
 <div class="cogs">
-  <div class="tricolumn">
+  <div class="halfcolumn">
     <div class="smallgroup">
       <h2>Women’s Group</h2>
       <dl>
         <dt>Gender</dt>
         <dd>Women</dd>
         <dt>Date</dt>
-        <dd>Thursdays</dd>
+        <dd>TBD</dd>
         <dt>Time</dt>
-        <dd>5:00-6:30pm</dd>
+        <dd>TBD</dd>
         <dt>Location</dt>
-        <dd>PH 125B</dd>
+        <dd>TBD</dd>
         <dt>Contact</dt>
         <dd>
-          <a href="mailto:jugwu@andrew.cmu.edu" target="_blank">Joy Ugwu</a>
+          <a href="mailto:kaitlink@andrew.cmu.edu" target="_blank">Kaiti Kirby</a>
         </dd>
       </dl>
     </div>
   </div>
-  <div class="tricolumn">
+  <div class="halfcolumn">
     <div class="smallgroup">
       <h2>Men's Group</h2>
       <dl>
         <dt>Gender</dt>
         <dd>Men</dd>
         <dt>Date</dt>
-        <dd>Mondays</dd>
+        <dd>TBD</dd>
         <dt>Time</dt>
-        <dd>6:00-7:30pm (optional dinner beforehand!)</dd>
+        <dd>TBD</dd>
         <dt>Location</dt>
-        <dd>UC Caffe (2nd floor, near elevators)</dd>
+        <dd>TBD</dd>
         <dt>Contact</dt>
         <dd>
-          <a href="mailto:cabernar@andrew.cmu.edu" target="_blank">(Chris)Topher Bernard</a>
-        </dd>
-      </dl>
-    </div>
-  </div>
-  <div class="tricolumn">
-    <div class="smallgroup">
-      <h2>Men's Group</h2>
-      <dl>
-        <dt>Gender</dt>
-        <dd>Men</dd>
-        <dt>Date</dt>
-        <dd>Thursdays</dd>
-        <dt>Time</dt>
-        <dd>5:30-7:00pm</dd>
-        <dt>Location</dt>
-        <dd>PH 125C</dd>
-        <dt>Contact</dt>
-        <dd>
-          <a href="mailto:scleong@andrew.cmu.edu" target="_blank">Samuel Leong</a>
+          <a href="mailto:nkenscha@andrew.cmu.edu" target="_blank">Nathaniel Kenschaft</a>
         </dd>
       </dl>
     </div>
