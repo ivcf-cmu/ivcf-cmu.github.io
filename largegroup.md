@@ -10,11 +10,13 @@ sectionHeader: Large Group
   have fellowship with one another, and be ignited and uplifted by the Holy
   Spirit.
 </p>
+<br />
 <p>
   Large Group is a time of community, to meet God together as one body,
   in one accord. After Large Group, it is an InterVarsity tradition to get
   dinner together afterwards and socialize. Come join us, and bring friends!
 </p>
+<br />
 
 <!-- Table for location, time -->
 <table style="width:100%">
