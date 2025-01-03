@@ -9,7 +9,8 @@ sectionHeader: Large Group
     pm</b> to worship God through music, know Him better through scripture,
   have fellowship with one another, and be ignited and uplifted by the Holy
   Spirit.
-
+</p>
+<p>
   Large Group is a time of community, to meet God together as one body,
   in one accord. After Large Group, it is an InterVarsity tradition to get
   dinner together afterwards and socialize. Come join us, and bring friends!
@@ -94,7 +95,6 @@ sectionHeader: Large Group
       <td><b> Large Group 13 </b></td>
       <td> April 25 </td>
       <td> DH 1211 </td>
-    </tr>
     </tr>
   </tbody>
 </table>
