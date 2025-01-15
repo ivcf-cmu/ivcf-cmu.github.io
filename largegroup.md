@@ -38,7 +38,7 @@ sectionHeader: Large Group
     <tr>
       <td><b> Large Group 2 </b></td>
       <td> January 24 </td>
-      <td> DH 1211 </td>
+      <td> DH 1112 </td>
     </tr>
     <tr>
       <td><b> Large Group 3 </b></td>
@@ -48,7 +48,7 @@ sectionHeader: Large Group
     <tr>
       <td><b> Large Group 4 </b></td>
       <td> February 7 </td>
-      <td> DH 1211 </td>
+      <td> DH 1112 </td>
     </tr>
     <tr>
       <td><b> Large Group 5 </b></td>
@@ -68,7 +68,7 @@ sectionHeader: Large Group
     <tr>
       <td><b> Large Group 8 </b></td>
       <td> March 14 </td>
-      <td> DH 1211 </td>
+      <td> DH 1112 </td>
     </tr>
     <tr>
       <td><b> Large Group 9 </b></td>
@@ -78,7 +78,7 @@ sectionHeader: Large Group
     <tr>
       <td><b> Large Group 10 </b></td>
       <td> March 28 </td>
-      <td> DH 1211 </td>
+      <td> DH 1112 </td>
     </tr>
     <tr>
       <td><b> Alumni Reunion </b></td>
@@ -98,7 +98,7 @@ sectionHeader: Large Group
     <tr>
       <td><b> Large Group 13 </b></td>
       <td> April 25 </td>
-      <td> DH 1211 </td>
+      <td> DH 1112 </td>
     </tr>
   </tbody>
 </table>
