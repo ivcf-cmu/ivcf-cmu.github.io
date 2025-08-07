@@ -18,7 +18,7 @@ sectionHeader: Large Group
 </p>
 <br />
 
-<h2>Spring 2025 schedule</h2>
+<h2>Fall 2025 schedule</h2>
 
 <!-- Table for location, time -->
 <table style="width:100%">
