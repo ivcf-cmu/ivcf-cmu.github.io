@@ -31,15 +31,14 @@ changes.
 This will be easier and cleaner, but it means that you will likely want to test
 locally too... so you have to compile with Jekyll.
 
-Follow the installation instructions [here] and then you can compile the site
-into a flat static website with the `jekyll serve -m` command. The `-m` means
-that when you change a file (that is not the config file) Jekyll will
-automatically recompile the site. Find the compiled HTML in the `_site`
-directory and you can open them with your browser to check them out before you
-push.
+Follow the installation instructions [here](https://jekyllrb.com/docs/installation/) 
+and then you can compile the site into a flat static website with the 
+`jekyll serve -m` command. The `-m` means that when you change a file (that is 
+not the config file) Jekyll will automatically recompile the site. Find the 
+compiled HTML in the `_site` directory and you can open them with your browser 
+to check them out before you push.
 
 Thanks for reading, and good luck!
 
 [Jekyll Docs]: https://jekyllrb.com/docs/installation/
- [here]:
-https://jekyllrb.com/docs/installation/
+
