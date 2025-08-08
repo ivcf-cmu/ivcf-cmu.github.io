@@ -13,14 +13,16 @@ page: front
         </div>
         <div class="title">Welcome!</div>
     </header>
+    <br>
     <p>
         Welcome to InterVarsity Christian Fellowship! We are a community of students at Carnegie Mellon University who
         strive to know God and make Him known.
     </p>
 
-    <p>
+    <!-- <p>
         With CMU finally moving back into in-person, IVCF will also prayfully begin in-person activities! Yay!
     </p>
+    -->
 
     <p>
         In conjunction with CMU's Inter-Fellowship Association, we have
@@ -45,7 +47,7 @@ page: front
         <a href="https://gfm.intervarsity.org/our-ministries/graduate-students" target="_blank">Graduate & Faculty
             Ministry website.</a>
         To connect personally at CMU and receive emails about upcoming events, please email
-        <a href="mailto:kathy.mccready@intervarsity.org" target="_blank">Kathy</a>
+        <a href="mailto:kathy.mccready@intervarsity.org" target="_blank">Kathy</a>.
     </p>
 
 
