@@ -6,7 +6,7 @@ sectionHeader: Contact
 
 <p>
   The CMU IVCF Discord Server is our main communication channel, and definitely worth joining if you would like to be involved. Signing up is quick and easy - just <b>go to <a href="https://discord.gg/KWV2TwA" target="_blank">discord.gg/KWV2TwA</a> to login or register!</b>
-  If you have problems getting in, please contact <a href="mailto:jasminez@andrew.cmu.edu" target="_blank">Jasmine Zeng</a> or <a href="mailto: josephc2@andrew.cmu.edu" target="_blank">Joseph Chan</a>
+  If you have problems getting in, please contact <a href="mailto:jasminez@andrew.cmu.edu" target="_blank">Jasmine Zeng</a> or <a href="mailto: josephc2@andrew.cmu.edu" target="_blank">Joseph Chan</a>.
 </p>
 <!-- <p>
   The CMU IVCF Slack workspace is our main communication channel, and definitely worth joining if you would like to be involved. Signing up is quick and easy:
@@ -21,7 +21,7 @@ sectionHeader: Contact
 -->
 <br/>
 <p>
-  To reach out directly, feel free to send us an email at <a href="mailto:ivcf@andrew.cmu.edu">ivcf@andrew.cmu.edu</a>
+  To reach out directly, feel free to send us an email at <a href="mailto:ivcf@andrew.cmu.edu">ivcf@andrew.cmu.edu</a>.
 </p>
 <br/>
 <p>
@@ -33,7 +33,7 @@ sectionHeader: Contact
   <h1>Churches</h1>
 </header>
 <p>
-  InterVarsity invites you to get connected to a local church! Our members come from all sorts of backgrounds and cultures. As such, the churches we attend are very diverse! From the formal to the casual, the big to the small, the modern to the traditional, and even from the early birds to the night owls, whatever sort of church you seek, we&rsquo;ll gladly help you find one in which you can joyfully serve. Below is a list of churches that we know are nearby, many of which have been or are currently attended by students involved with our chapter. Please reach out in person or by emailing us at <a href="ivcf@andrew.cmu.edu">ivcf@andrew.cmu.edu</a> if you are looking for someone to go with and we will do our best to put you in touch with a regular attender.
+  InterVarsity invites you to get connected to a local church! Our members come from all sorts of backgrounds and cultures. No matter what sort of church you seek&mdash;from the formal to the casual, the big to the small, the modern to the traditional, and even from the early birds to the night owls&mdash;we&rsquo;ll gladly help you find a church in which you can joyfully serve. Below is a list of churches that we know are nearby, many of which have been or are currently attended by students involved with our chapter. Please reach out in person or by emailing us at <a href="ivcf@andrew.cmu.edu">ivcf@andrew.cmu.edu</a> if you are looking for someone to go with and we will do our best to put you in touch with a regular attendee.
 </p>
 <div class="churches">
   <ul>
@@ -54,6 +54,7 @@ sectionHeader: Contact
     <li>Mt. Ararat Baptist</li>
     <li>Newman Center Chapel</li>
     <li>North Way Oakland</li>
+    <li>Renaissance Church</li>
   </ul>
 <!--
   <div class="tricolumn">
@@ -95,7 +96,7 @@ sectionHeader: Contact
   <h1>Other <br class="responsive-br"/>Fellowships</h1>
 </header>
 <p class="affiliations">
-  InterVarsity at CMU is a part of CMU's Inter-Fellowship Association (IFA), which is the union of all the Christian fellowships on campus. The groups are all united together to glorify God, but we each do it a little differently, so feel free to <a href="http://christatcmu.com/fellowships.html" target="_blank">check out our fellow fellowships</a> on IFA's website!
+  InterVarsity at CMU is a part of CMU's Inter-Fellowship Association (IFA), which is the union of all the Christian fellowships on campus. The groups are all united together to glorify God, but we each do it a little differently, so feel free to <a href="https://interfellowshipcmu.com/fellowships.html" target="_blank">check out our fellow fellowships</a> on IFA's website!
 </p>
 
 <p class="affiliations">
