@@ -32,73 +32,68 @@ sectionHeader: Large Group
     </thead>
     <tr>
       <td><b> Large Group 1 </b></td>
-      <td> January 17 </td>
+      <td> August 29 </td>
       <td> Danforth Conference Room </td>
     </tr>
     <tr>
       <td><b> Large Group 2 </b></td>
-      <td> January 24 </td>
-      <td> DH 1112 </td>
+      <td> September 5 </td>
+      <td> Danforth Conference Room </td>
     </tr>
     <tr>
       <td><b> Large Group 3 </b></td>
-      <td> January 31 </td>
+      <td> September 12 </td>
       <td> Danforth Conference Room </td>
     </tr>
     <tr>
       <td><b> Large Group 4 </b></td>
-      <td> February 7 </td>
-      <td> DH 1112 </td>
+      <td> September 19 </td>
+      <td> Danforth Conference Room </td>
     </tr>
     <tr>
       <td><b> Large Group 5 </b></td>
-      <td> February 14 </td>
-      <td> Danforth Conference Room </td>
+      <td> September 26 </td>
+      <td> TBC </td>
     </tr>
     <tr>
       <td><b> Large Group 6 </b></td>
-      <td> February 21 </td>
-      <td> Danforth Conference Room </td>
+      <td> October 3 </td>
+      <td> TBC </td>
     </tr>
     <tr>
       <td><b> Large Group 7 </b></td>
-      <td> February 28 </td>
+      <td> October 10 </td>
       <td> Danforth Conference Room </td>
     </tr>
     <tr>
       <td><b> Large Group 8 </b></td>
-      <td> March 14 </td>
-      <td> DH 1112 </td>
+      <td> October 24 </td>
+      <td> Danforth Conference Room  </td>
     </tr>
     <tr>
       <td><b> Large Group 9 </b></td>
-      <td> March 21 </td>
+      <td> October 31 </td>
       <td> Danforth Conference Room </td>
     </tr>
     <tr>
       <td><b> Large Group 10 </b></td>
-      <td> March 28 </td>
-      <td> DH 1112 </td>
-    </tr>
-    <tr>
-      <td><b> Alumni Reunion </b></td>
-      <td> April 5 </td>
+      <td> November 7 </td>
       <td> TBC </td>
     </tr>
     <tr>
       <td><b> Large Group 11 </b></td>
-      <td> April 11 </td>
+      <td> November 14 </td>
       <td> Danforth Conference Room </td>
     </tr>
     <tr>
       <td><b> Large Group 12 </b></td>
-      <td> April 18 </td>
+      <td> November 21 </td>
       <td> Danforth Conference Room </td>
     </tr>
     <tr>
       <td><b> Large Group 13 </b></td>
-      <td> April 25 </td>
-      <td> DH 1112 </td>
+      <td> December 5 </td>
+      <td> Danforth Conference Room </td>
     </tr>
   </tbody>
 </table>
