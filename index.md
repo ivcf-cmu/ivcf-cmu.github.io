@@ -51,11 +51,13 @@ page: front
     </p>
 
 
-    <br />
+    <!-- Below this comment is code to have our instagram show up using curator.io. I (Samuel Greco) am commenting this out on 8/8/25 because it is not working properly, but would like to come back and fix it at some point -->
+
+    <!-- <br />
     <div id="curator-feed-default-feed-layout">
         <a href="https://curator.io" target="_blank" class="crt-logo crt-tag">Powered by Curator.io</a>
     </div>
-    <!-- The Javascript can be moved to the end of the html page before the </body> tag -->
+    The Javascript can be moved to the end of the html page before the </body> tag
     <script type="text/javascript">
         /* curator-feed-default-feed-layout */
         (function () {
@@ -69,9 +71,7 @@ page: front
         })();
 
     </script>
-    <!--<p>
-    If you're a graduate student, you may want to investigate
-    <a href="https://www.andrew.cmu.edu/org/GCF/">GCF</a>,
-    InterVarsity's chapter specifically for you.
-    </p>-->
+
+    -->
+
 </article>
