@@ -5,11 +5,83 @@ sectionHeader: Events
 ---
 
 <p>
-Come relax and spend some time with us. Clear your head and learn what God, friends, and life are all about. For questions, or to RSVP please contact <a href="mailto:jamiepark@cmu.edu">Jamie Park</a>. Make sure to <a href="https://discord.gg/Af8Y8Zn" target="_blank">join CMU IVCF on discord</a> to get the latest updates!
-</p>
+Come relax and spend some time with us. Clear your head and learn what God, friends, and life are all about. For questions about events, or to RSVP please contact <a href="mailto:samuelgr@andrew.cmu.edu">Samuel Greco</a>. Make sure to <a href="https://discord.gg/Af8Y8Zn" target="_blank">join CMU IVCF on discord</a> to get the latest updates!
+
+<br/><br/><br/>
+<header class="section-header">
+	<h1>Orientation 2025</h1>
+</header>
+
+<img src="images/recruitment_2025.png" style="width:60%; margin-left: auto; margin-right: auto; display: block;"/>
+
+<br/><br/><br/><br/>
+<header class="section-header">
+	<h1>Later in the Year</h1>
+</header>
+
 <div class="content-events">
 	<div class="cogs">
-		<!-- <div class="tricolumn">
+
+		<div class="tricolumn">
+			<h2>Urbana</h2>
+			<p>
+				Urbana is a triennial event where over 25,000 people gather to worship
+				God and hear how he is using people to accomplish his purposes
+				throughout the world. For sixty years, God has been using Urbana
+				conventions to change the lives of students and to advance His Kingdom
+				in our world.
+			</p>
+			<a href="http://www.urbana.org/" target="_blank">
+			  Official Website
+			</a>
+		</div>
+
+		<div class="tricolumn">
+			<h2>The Overnighter</h2>
+			<dl>
+				<dt>When?&nbsp;</dt><dd>TBA</dd>
+				<dt>Where?&nbsp;</dt><dd>TBA</dd>
+			</dl>
+			<p>
+				Relax, refresh, and refocus at our (hopefully restarting) annual retreat. Worship, prayer, discussion, and learning, as well as games, food, a campfire, and friends all make for a weekend that everyone should attend.
+			</p>
+		</div>
+		
+		<div class="tricolumn">
+			<h2>Philly Missions</h2>
+			<p>
+				Each year we partner with InterFellowship Association in order to minister and witness to the Kensington
+				community in Philadelphia during Spring break. 
+
+				More details to be announced!
+				
+				<!-- Information <a href="https://youtu.be/V9ZAeCb7zoE" target="_blank">video here</a>. -->
+
+				<!-- If you would like to be involved, fill out
+				<a href="https://forms.gle/14TxhiDnvdL9iBot8" target="_blank">the interest form</a>. -->
+			</p>
+		</div>
+
+		<div class="tricolumn">
+			<h2>Alumni Reunion</h2>
+			<dl>
+				<dt>When?&nbsp;</dt>
+				<dd>TBA</dd>
+				<dt>Where?&nbsp;</dt>
+				<dd>TBA</dd>
+			</dl>
+			<p>
+				Join us during Spring Carnival for a time of worship, prayer, snacks, games, and hopefully dinner afterwards!
+				Both alumni and current members welcome!
+			</p>
+		</div>
+
+	
+		
+		
+		<!-- Old Events -->
+<!-- 
+		<div class="tricolumn">
 			<h2>Orientation Week Meet &amp; Greet</h2>
 			<dl>
 				<dt>When?&nbsp;</dt>
@@ -24,9 +96,9 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
 				community here. Join us for a time of worship, fellowship and food, and learn a bit more about IVCF and who we
 				are!
 			</p>
-		</div> -->
+		</div>
 
-		<!-- <div class="tricolumn">
+		<div class="tricolumn">
 			<h2>Game Night</h2>
 			<dl>
 				<dt>When?&nbsp;</dt>
@@ -38,7 +110,7 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
 			<p>
 				Don't like the sudden changes in Pittsburgh weather? Join us indoors for a game night at <b>5547 Beeler St</b> on Saturday, Sep 25, 5PM! There'll be food and snacks provided :)
 			</p>
-		</div> -->
+		</div>
 
 		<div class="tricolumn">
 			<h2>Philly Missions</h2>
@@ -46,13 +118,13 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
 				Each year we partner with InterFellowship Association in order to minister and witness to the Kensington
 				community in Philadelphia during Spring break (Mar 5 - Mar 11). We are in person this year, but notably, outreach will be in the afternoon and VBS in the evening. Stay updated for more information!
 				
-				<!-- Information <a href="https://youtu.be/V9ZAeCb7zoE" target="_blank">video here</a>. -->
+				Information <a href="https://youtu.be/V9ZAeCb7zoE" target="_blank">video here</a>.
 
 				<!-- If you would like to be involved, fill out
-				<a href="https://forms.gle/14TxhiDnvdL9iBot8" target="_blank">the interest form</a>. -->
+				<a href="https://forms.gle/14TxhiDnvdL9iBot8" target="_blank">the interest form</a>. 
 			</p>
 		</div>
-
+ 
 		<div class="tricolumn">
 			<h2>Labor Day Trip</h2>
 			<dl>
@@ -70,7 +142,7 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
 			</p>
 		</div>
 
-		<!-- <div class="tricolumn">
+		<div class="tricolumn">
 		    <h2>Alpha Large Group</h2>
 		    <p>
 		        This semester, we are doing something very different for <a href="largegroup.md">Large Group</a>: a
@@ -81,9 +153,9 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
 
 				We hope that you prayerfully invite friends! More details about that in the <a href="largegroup.md">Large Group</a> section.
 		    </p>
-		</div> -->
+		</div>
 
-		<!-- <div class="tricolumn">
+		<div class="tricolumn">
 			<h2>Alumni Reunion</h2>
 			<dl>
 				<dt>When?&nbsp;</dt>
@@ -95,9 +167,9 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
 				Join us during Spring Carnival for a time of worship, prayer, snacks, games, and hopefully dinner afterwards!
 				Both alumni and current members welcome!
 			</p>
-		</div> -->
+		</div>
 
-		<!-- <div class="tricolumn">
+		<div class="tricolumn">
 			<h2>
 				IV Regional Prayer Meeting
 			</h2>
@@ -116,9 +188,9 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
 			    Come for a time of prayer, free food, and to meet people from IV and free food.
 			https://riversrails.events.intervarsity.org/olgprayer
 			</p>
-		</div> -->
+		</div>
 
-		<!--
+		
 		<div class="tricolumn">
 			<h2>Ignite Conference</h2>
 			<dl>
@@ -207,7 +279,7 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
 			<a href="http://www.urbana.org/" target="_blank">
 			  Official Website
 			</a>
-		</div>
-		-->
+		</div> -->
+		
 	</div>
 </div>
