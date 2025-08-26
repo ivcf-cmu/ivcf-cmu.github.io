@@ -11,12 +11,12 @@ sectionHeader: Large Group
   Spirit.
 </p>
 <br />
-<p>
+<!-- <p>
   Large Group is a time of community, to meet God together as one body,
   in one accord. After Large Group, it is an InterVarsity tradition to get
   dinner together afterwards and socialize. Come join us, and bring friends!
 </p>
-<br />
+<br /> -->
 
 <h2>Fall 2025 schedule</h2>
 
