@@ -7,21 +7,39 @@ sectionHeader: Events
 <p>
 Come relax and spend some time with us. Clear your head and learn what God, friends, and life are all about. For questions about events, or to RSVP please contact <a href="mailto:samuelgr@andrew.cmu.edu">Samuel Greco</a>. Make sure to <a href="https://discord.gg/Af8Y8Zn" target="_blank">join CMU IVCF on discord</a> to get the latest updates!
 
-<br/><br/><br/>
-<header class="section-header">
-	<h1>Orientation 2025</h1>
-</header>
-
-<img src="images/recruitment_2025.png" style="width:60%; margin-left: auto; margin-right: auto; display: block;"/>
-
-<br/><br/><br/><br/>
-<header class="section-header">
-	<h1>Later in the Year</h1>
-</header>
 
 <div class="content-events">
 	<div class="cogs">
 
+		<div class="tricolumn">
+			<h2>Ohiopyle</h2>
+			<dl>
+				<dt>When?&nbsp;</dt><dd>9/1/2025 | 9AM - 6PM</dd>
+				<dt>Where?&nbsp;</dt><dd>Ohiopyle State Park</dd>
+			</dl>
+			<p>
+				On Labor Day take a break from school, and come for a fun day of hikes, (natural) waterslides and a picnic at Ohiopyle State Park, PA! (You read that right, it's not in OH.) This is free. Please let us know if you're coming by this Wenesday (8/27) so we can arrange rides soon :) 
+
+			</p>
+			<a href="https://forms.gle/Vrmds4qMH5HHX2PC8" target="_blank">
+			  Sign-ups here
+			</a>
+		</div>
+
+		<div class="tricolumn">
+			<h2>Fall Retreat</h2>
+			<dl>
+				<dt>When?&nbsp;</dt><dd>October 3-5</dd>
+				<dt>Where?&nbsp;</dt><dd>Marengo, Ohio</dd>
+			</dl>
+			<p>
+				Join us as we attend our InterVarsity region's annual fall retreat! Registration closes 9/18. 
+			</p>
+			<a href="https://riversandrails.intervarsity.org/fall-retreat-2025.html" target="_blank">
+			  Sign-ups here
+			</a>
+		</div>
+		
 		<div class="tricolumn">
 			<h2>Urbana</h2>
 			<p>
