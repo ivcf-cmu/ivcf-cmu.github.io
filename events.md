@@ -11,7 +11,7 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
 <div class="content-events">
 	<div class="cogs">
 
-		<div class="tricolumn">
+		<!-- <div class="tricolumn">
 			<h2>Ohiopyle</h2>
 			<dl>
 				<dt>When?&nbsp;</dt><dd>9/1/2025 | 9AM - 6PM</dd>
@@ -24,7 +24,7 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
 			<a href="https://forms.gle/Vrmds4qMH5HHX2PC8" target="_blank">
 			  Sign-ups here
 			</a>
-		</div>
+		</div> -->
 
 		<div class="tricolumn">
 			<h2>Fall Retreat</h2>
