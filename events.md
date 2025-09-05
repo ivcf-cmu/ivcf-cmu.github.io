@@ -20,9 +20,6 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
 			</dl>
 			<p>
 				A conversation about God, science, and spirituality led by Sean McDowell. 
-			</p>
-			<a href="https://forms.gle/Vrmds4qMH5HHX2PC8" target="_blank">
-			  Sign-ups here
 			</a>
 		</div>
 
