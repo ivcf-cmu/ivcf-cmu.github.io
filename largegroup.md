@@ -53,45 +53,45 @@ sectionHeader: Large Group
     <tr>
       <td><b> Large Group 5 </b></td>
       <td> September 26 </td>
-      <td> TBC </td>
+      <td> DH 1211 </td>
     </tr>
-    <tr>
+<!--    <tr>
       <td><b> Large Group 6 </b></td>
       <td> October 3 </td>
-      <td> TBC </td>
-    </tr>
+      <td> DH 1211 </td>
+    </tr> -->
     <tr>
-      <td><b> Large Group 7 </b></td>
+      <td><b> Large Group 6 </b></td>
       <td> October 10 </td>
       <td> Danforth Conference Room </td>
     </tr>
     <tr>
-      <td><b> Large Group 8 </b></td>
+      <td><b> Large Group 7 </b></td>
       <td> October 24 </td>
       <td> Danforth Conference Room  </td>
     </tr>
     <tr>
-      <td><b> Large Group 9 </b></td>
+      <td><b> Large Group 8 </b></td>
       <td> October 31 </td>
       <td> Danforth Conference Room </td>
     </tr>
     <tr>
-      <td><b> Large Group 10 </b></td>
+      <td><b> Large Group 9 </b></td>
       <td> November 7 </td>
-      <td> TBC </td>
+      <td> DH 1211 </td>
     </tr>
     <tr>
-      <td><b> Large Group 11 </b></td>
+      <td><b> Large Group 10 </b></td>
       <td> November 14 </td>
       <td> Danforth Conference Room </td>
     </tr>
     <tr>
-      <td><b> Large Group 12 </b></td>
+      <td><b> Large Group 11 </b></td>
       <td> November 21 </td>
       <td> Danforth Conference Room </td>
     </tr>
     <tr>
-      <td><b> Large Group 13 </b></td>
+      <td><b> Large Group 12 </b></td>
       <td> December 5 </td>
       <td> Danforth Conference Room </td>
     </tr>
