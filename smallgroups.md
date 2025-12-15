@@ -10,7 +10,7 @@ sectionHeader: Small Groups
 <p>
   We are excited to continue small group meetings this semester and will be studying the book of Luke together. Find the group that is right for you, or show up to any of them and talk to the small group leader. Join the <a href="https://discord.gg/Af8Y8Zn" target="_blank">Discord server</a> for questions or more information!
 </p>
-
+<!--
 <br/>
 <div class="cogs">
   <div class="halfcolumn">
@@ -82,3 +82,6 @@ sectionHeader: Small Groups
     </div>
   </div>
 </div>
+-->
+
+Our small group leaders have yet to set times and locations; fill out the form in <a href="https://timeful.app/e/Cebb2" target="_blank">this link</a> by **Dec. 20th** to confirm that a study will work for your availability!
