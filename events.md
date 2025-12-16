@@ -8,7 +8,7 @@ sectionHeader: Events
 Come relax and spend some time with us. Clear your head and learn what God, friends, and life are all about. For questions about events, or to RSVP please contact <a href="mailto:samuelgr@andrew.cmu.edu">Samuel Greco</a>. Make sure to <a href="https://discord.gg/Af8Y8Zn" target="_blank">join CMU IVCF on discord</a> to get the latest updates!
 
 </p>
-<img src="/images/f25-images/f25-events" alt="events, updated Fall 2025">
+<img src="/images/f25-images/f25-events.PNG" alt="events, updated Fall 2025">
 
 <p>
 <div class="content-events">
