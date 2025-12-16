@@ -3,6 +3,9 @@ layout: default
 page: about
 sectionHeader: Our Vision
 ---
+<img src="/images/f25-images/f25-logo.png" alt="F25 CMU IV logo">
+
+
 In response to God’s love, grace, and truth, our vision is to grow in love with God
 
  - Through God's Word
