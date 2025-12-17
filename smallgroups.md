@@ -7,10 +7,10 @@ sectionHeader: Small Groups
   Most of InterVarsity’s ministry happens in our small groups where we work together to fulfill the Great Commission of Jesus Christ on our campus. This is done by following the example of the fellowship of Jesus’ apostles, seeking to edify each other through prayer, worship, and Scripture as we invite our community to join us in partaking in God's love for us. Our small groups are not self-contained, but instead, are focused on reaching out to the campus community as a whole.
 <br/>
 </p>
-<img src="/images/f25-images/f25-sg.PNG" alt="events from Fall 2025">
 <p>
+  <img src="/images/f25-images/f25-sg.PNG" alt="events from Fall 2025">
 <br/>
-</p>
+<p>
   We are excited to continue small group meetings this semester and will be studying the book of **Acts** together. Find the group that is right for you, or show up to any of them and talk to the small group leader. Join the <a href="https://discord.gg/Af8Y8Zn" target="_blank">Discord server</a> for questions or more information!
 </p>
 <!--
@@ -89,3 +89,4 @@ sectionHeader: Small Groups
 <br/>
 <p>
 Our small group leaders have yet to set times and locations; fill out the form in <a href="https://timeful.app/e/Cebb2" target="_blank">this link</a> by **Dec. 20th** to confirm that a study will work for your availability!
+</p>
