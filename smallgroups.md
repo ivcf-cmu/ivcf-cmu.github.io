@@ -10,6 +10,7 @@ sectionHeader: Small Groups
 <p>
   <img src="/images/f25-images/f25-sg.PNG" alt="events from Fall 2025">
 <br/>
+</p>
 <p>
   We are excited to continue small group meetings this semester and will be studying the book of **Acts** together. Find the group that is right for you, or show up to any of them and talk to the small group leader. Join the <a href="https://discord.gg/Af8Y8Zn" target="_blank">Discord server</a> for questions or more information!
 </p>
