@@ -33,7 +33,7 @@ sectionHeader: Large Group
     <tr>
       <td><b> Large Group 1 </b></td>
       <td> January 16 </td>
-      <td> Danforth Conference Room </td>
+      <td> UC McKenna/Peter </td>
     </tr>
     <tr>
       <td><b> Large Group 2 </b></td>
