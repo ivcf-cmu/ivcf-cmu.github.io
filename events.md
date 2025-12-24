@@ -4,65 +4,23 @@ page: events
 sectionHeader: Events
 ---
 
+
+<img src="/images/f25-images/f25-events.PNG" alt="events, updated Fall 2025">
+
 <p>
 Come relax and spend some time with us. Clear your head and learn what God, friends, and life are all about. For questions about events, or to RSVP please contact <a href="mailto:samuelgr@andrew.cmu.edu">Samuel Greco</a>. Make sure to <a href="https://discord.gg/Af8Y8Zn" target="_blank">join CMU IVCF on discord</a> to get the latest updates!
 
-</p>
-<img src="/images/f25-images/f25-events.PNG" alt="events, updated Fall 2025">
+<br>
+<br>
+
+
+
+<h2>Upcoming Special Events:</h2>
 
 <p>
 <div class="content-events">
 	<div class="cogs">
 
-		<div class="tricolumn">
-			<h2>7 Reasons God is back</h2>
-			<dl>
-				<dt>When?&nbsp;</dt><dd>9/18/25 | 7:30 PM</dd>
-				<dt>Where?&nbsp;</dt><dd>McConomy Auditorium</dd>
-			</dl>
-			<p>
-				A conversation about God, science, and spirituality led by Sean McDowell. 
-			</p>
-		</div>
-
-		<div class="tricolumn">
-			<h2>Fall Retreat</h2>
-			<dl>
-				<dt>When?&nbsp;</dt><dd>October 3-5</dd>
-				<dt>Where?&nbsp;</dt><dd>Marengo, Ohio</dd>
-			</dl>
-			<p>
-				Join us as we attend our InterVarsity region's annual fall retreat! Registration closes 9/18. 
-			</p>
-			<a href="https://riversandrails.intervarsity.org/fall-retreat-2025.html" target="_blank">
-			  Sign-ups here
-			</a>
-		</div>
-		
-		<div class="tricolumn">
-			<h2>Urbana</h2>
-			<p>
-				Urbana is a triennial event where over 25,000 people gather to worship
-				God and hear how he is using people to accomplish his purposes
-				throughout the world. For sixty years, God has been using Urbana
-				conventions to change the lives of students and to advance His Kingdom
-				in our world.
-			</p>
-			<a href="http://www.urbana.org/" target="_blank">
-			  Official Website
-			</a>
-		</div>
-
-		<div class="tricolumn">
-			<h2>The Overnighter</h2>
-			<dl>
-				<dt>When?&nbsp;</dt><dd>TBA</dd>
-				<dt>Where?&nbsp;</dt><dd>TBA</dd>
-			</dl>
-			<p>
-				Relax, refresh, and refocus at our (hopefully restarting) annual retreat. Worship, prayer, discussion, and learning, as well as games, food, a campfire, and friends all make for a weekend that everyone should attend.
-			</p>
-		</div>
 		
 		<div class="tricolumn">
 			<h2>Philly Missions</h2>
@@ -93,12 +51,84 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
 			</p>
 		</div>
 
-	
+		<div class="tricolumn">
+			<h2>Mark Camp</h2>
+			<dl>
+				<dt>When?&nbsp;</dt>
+				<dd>May 11-16 2026</dd>
+				<dt>Where?&nbsp;</dt>
+				<dd>TBA</dd>
+			</dl>
+			<p>
+				Mark Camp is a time for study and fellowship with believers from around the region. 
+			</p>
+		</div>
+
+</div>
+</div>
+
+<br>		
+<h2>Google Calendar: </h2>
+<br>
+
+		<iframe src="https://calendar.google.com/calendar/embed?src=c_8340f965d5b494a60cc272666cd7c1297032ac0702d03e00c1b7f8f2ec9260c4%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 		
-		
+
+
 		<!-- Old Events -->
 
 <!-- 
+		<div class="tricolumn">
+			<h2>The Overnighter</h2>
+			<dl>
+				<dt>When?&nbsp;</dt><dd>TBA</dd>
+				<dt>Where?&nbsp;</dt><dd>TBA</dd>
+			</dl>
+			<p>
+				Relax, refresh, and refocus at our (hopefully restarting) annual retreat. Worship, prayer, discussion, and learning, as well as games, food, a campfire, and friends all make for a weekend that everyone should attend.
+			</p>
+		</div>
+
+
+				<div class="tricolumn">
+			<h2>Urbana</h2>
+			<p>
+				Urbana is a triennial event where over 25,000 people gather to worship
+				God and hear how he is using people to accomplish his purposes
+				throughout the world. For sixty years, God has been using Urbana
+				conventions to change the lives of students and to advance His Kingdom
+				in our world.
+			</p>
+			<a href="http://www.urbana.org/" target="_blank">
+			  Official Website
+			</a>
+		</div>	
+			
+				<div class="tricolumn">
+			<h2>Fall Retreat</h2>
+			<dl>
+				<dt>When?&nbsp;</dt><dd>October 3-5</dd>
+				<dt>Where?&nbsp;</dt><dd>Marengo, Ohio</dd>
+			</dl>
+			<p>
+				Join us as we attend our InterVarsity region's annual fall retreat! Registration closes 9/18. 
+			</p>
+			<a href="https://riversandrails.intervarsity.org/fall-retreat-2025.html" target="_blank">
+			  Sign-ups here
+			</a>
+		</div>
+		
+		<div class="tricolumn">
+			<h2>7 Reasons God is back</h2>
+			<dl>
+				<dt>When?&nbsp;</dt><dd>9/18/25 | 7:30 PM</dd>
+				<dt>Where?&nbsp;</dt><dd>McConomy Auditorium</dd>
+			</dl>
+			<p>
+				A conversation about God, science, and spirituality led by Sean McDowell. 
+			</p>
+		</div>
+
 		<div class="tricolumn">
 			<h2>Ohiopyle</h2>
 			<dl>
@@ -313,6 +343,4 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
 			  Official Website
 			</a>
 		</div> -->
-		
-	</div>
-</div>
+	
