@@ -5,30 +5,31 @@ sectionHeader: Events
 ---
 
 
-<img src="/images/f25-images/f25-events.PNG" alt="events, updated Fall 2025">
-
 <p>
 Come relax and spend some time with us. Clear your head and learn what God, friends, and life are all about. For questions about events, or to RSVP please contact <a href="mailto:samuelgr@andrew.cmu.edu">Samuel Greco</a>. Make sure to <a href="https://discord.gg/Af8Y8Zn" target="_blank">join CMU IVCF on discord</a> to get the latest updates!
 
 <br>
+<br>		
+<h2>Google Calendar: </h2>
+
+<div class="calendar-container">
+	<iframe src="https://calendar.google.com/calendar/embed?src=c_8340f965d5b494a60cc272666cd7c1297032ac0702d03e00c1b7f8f2ec9260c4%40group.calendar.google.com&ctz=America%2FNew_York" style="border:none" scrolling="yes" title="IV Calendar"></iframe>
+</div>
+
 <br>
+<br>
+<h2>Upcoming Special Events: </h2>
 
-
-
-<h2>Upcoming Special Events:</h2>
-
-<p>
 <div class="content-events">
 	<div class="cogs">
 
-		
 		<div class="tricolumn">
 			<h2>Philly Missions</h2>
 			<p>
 				Each year we partner with InterFellowship Association in order to minister and witness to the Kensington
 				community in Philadelphia during Spring break. 
 
-				More details to be announced!
+				Applications are closed for this year, but you can still be praying for the team!
 				
 				<!-- Information <a href="https://youtu.be/V9ZAeCb7zoE" target="_blank">video here</a>. -->
 
@@ -41,7 +42,7 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
 			<h2>Alumni Reunion</h2>
 			<dl>
 				<dt>When?&nbsp;</dt>
-				<dd>TBA</dd>
+				<dd>April 10, Time TBA</dd>
 				<dt>Where?&nbsp;</dt>
 				<dd>TBA</dd>
 			</dl>
@@ -67,13 +68,10 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
 </div>
 </div>
 
-<br>		
-<h2>Google Calendar: </h2>
+<br>
 <br>
 
-		<iframe src="https://calendar.google.com/calendar/embed?src=c_8340f965d5b494a60cc272666cd7c1297032ac0702d03e00c1b7f8f2ec9260c4%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-		
-
+<img src="/images/f25-images/f25-events.PNG" alt="events, updated Fall 2025">
 
 		<!-- Old Events -->
 
