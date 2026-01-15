@@ -14,7 +14,6 @@ sectionHeader: Small Groups
 <p>
   We are excited to continue small group meetings this semester and will be studying the book of **Acts** together. Find the group that is right for you, or show up to any of them and talk to the small group leader. Join the <a href="https://discord.gg/Af8Y8Zn" target="_blank">Discord server</a> for questions or more information!
 </p>
-<!--
 <br/>
 <div class="cogs">
   <div class="halfcolumn">
@@ -22,11 +21,11 @@ sectionHeader: Small Groups
       <h2>Josh's group</h2>
       <dl>
         <dt>Date</dt>
-        <dd>Monday</dd>
+        <dd>Wednesday</dd>
         <dt>Time</dt>
-        <dd>7:30-9:00 PM</dd>
+        <dd>7:00-9:00 PM</dd>
         <dt>Location</dt>
-        <dd>DH 1209</dd>
+        <dd>PH A20A</dd>
         <dt>Contact</dt>
         <dd>
           <a href="mailto:jsamulak@andrew.cmu.edu" target="_blank">Josh Samulak</a>
@@ -39,11 +38,11 @@ sectionHeader: Small Groups
       <h2>Nathaniel's Group</h2>
       <dl>
         <dt>Date</dt>
-        <dd>Tuesday</dd>
+        <dd>Thursday</dd>
         <dt>Time</dt>
-        <dd>5:00-6:30 PM</dd>
+        <dd>5:00-7:00 PM</dd>
         <dt>Location</dt>
-        <dd>GHC 4101</dd>
+        <dd>PH A21A</dd>
         <dt>Contact</dt>
         <dd>
           <a href="mailto:nkenscha@andrew.cmu.edu" target="_blank">Nathaniel Kenschaft</a>
@@ -56,11 +55,11 @@ sectionHeader: Small Groups
       <h2>Nathan's group</h2>
       <dl>
         <dt>Date</dt>
-        <dd>Wednesday</dd>
+        <dd>Thursday</dd>
         <dt>Time</dt>
-        <dd>7:00-8:30 PM</dd>
+        <dd>5:00-7:00 PM</dd>
         <dt>Location</dt>
-        <dd>GHC 4101</dd>
+        <dd>PH A21</dd>
         <dt>Contact</dt>
         <dd>
           <a href="mailto:nbrock@andrew.cmu.edu" target="_blank">Nathan Brock</a>
@@ -75,9 +74,9 @@ sectionHeader: Small Groups
         <dt>Date</dt>
         <dd>Thursday</dd>
         <dt>Time</dt>
-        <dd>4:00-5:30 PM</dd>
+        <dd>4:00-6:00 PM</dd>
         <dt>Location</dt>
-        <dd>GHC 4101</dd>
+        <dd>PH A20A</dd>
         <dt>Contact</dt>
         <dd>
           <a href="mailto:rachel.nuhfer@intervarsity.org" target="_blank">Rachel Nuhfer</a>
@@ -86,8 +85,9 @@ sectionHeader: Small Groups
     </div>
   </div>
 </div>
--->
 <br/>
+<!--
 <p>
 Our small group leaders have yet to set times and locations; fill out the form in <a href="https://timeful.app/e/Cebb2" target="_blank">this link</a> by **Dec. 20th** to confirm that a study will work for your availability!
 </p>
+-->
