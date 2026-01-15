@@ -86,8 +86,4 @@ sectionHeader: Small Groups
   </div>
 </div>
 <br/>
-<!--
-<p>
-Our small group leaders have yet to set times and locations; fill out the form in <a href="https://timeful.app/e/Cebb2" target="_blank">this link</a> by **Dec. 20th** to confirm that a study will work for your availability!
-</p>
--->
+<!-- Our small group leaders have yet to set times and locations; fill out the form in <a href="https://timeful.app/e/Cebb2" target="_blank">this link</a> by **Dec. 20th** to confirm that a study will work for your availability! -->
