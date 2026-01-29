@@ -56,12 +56,18 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
 			<h2>Mark Camp</h2>
 			<dl>
 				<dt>When?&nbsp;</dt>
-				<dd>May 11-16 2026</dd>
+				<dd>May 4-9 2026</dd>
 				<dt>Where?&nbsp;</dt>
-				<dd>TBA</dd>
+				<dd>Summersville, West Virginia</dd>
+				<dt>Cost:?&nbsp;</dt>
+				<dd>$275</dd>
 			</dl>
 			<p>
-				Mark Camp is a time for study and fellowship with believers from around the region. 
+				Join other students from our region for in-depth exploration of Jesus through the Gospel of Mark. 
+
+				​Encounter God through scripture, wrestle honestly with questions, ​and connect deeply with community.
+
+				<a href="https://forms.gle/14TxhiDnvdL9iBot8" target="_blank">Register </a> by April 26!
 			</p>
 		</div>
 
