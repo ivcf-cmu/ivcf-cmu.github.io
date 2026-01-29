@@ -67,7 +67,7 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
 
 				​Encounter God through scripture, wrestle honestly with questions, ​and connect deeply with community.
 
-				<a href="https://forms.gle/14TxhiDnvdL9iBot8" target="_blank">Register </a> by April 26!
+				<a href="https://riversandrails.intervarsity.org/mark-camp.html" target="_blank">Register </a> by April 26!
 			</p>
 		</div>
 
