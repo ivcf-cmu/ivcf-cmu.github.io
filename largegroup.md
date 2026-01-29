@@ -48,7 +48,7 @@ sectionHeader: Large Group
     <tr>
       <td><b> Large Group 4 </b></td>
       <td> February 6 </td>
-      <td> TBD </td>
+      <td> DH 1211 </td>
     </tr>
     <tr>
       <td><b> Large Group 5 </b></td>
@@ -78,7 +78,7 @@ sectionHeader: Large Group
     <tr>
       <td><b> Large Group 10 </b></td>
       <td> March 27 </td>
-      <td> TBD </td>
+      <td> DH 1211 </td>
     </tr>
     <tr>
       <td><b> Large Group 11 </b></td>
