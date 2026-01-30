@@ -76,7 +76,7 @@ sectionHeader: Small Groups
         <dt>Time</dt>
         <dd>4:00-6:00 PM</dd>
         <dt>Location</dt>
-        <dd>PH A20A</dd>
+        <dd>PH 125B</dd>
         <dt>Contact</dt>
         <dd>
           <a href="mailto:rachel.nuhfer@intervarsity.org" target="_blank">Rachel Nuhfer</a>
