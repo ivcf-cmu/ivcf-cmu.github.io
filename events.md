@@ -42,13 +42,12 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
 			<h2>Alumni Reunion</h2>
 			<dl>
 				<dt>When?&nbsp;</dt>
-				<dd>April 10, Time TBA</dd>
+				<dd>April 10, 5 PM - 7 PM</dd>
 				<dt>Where?&nbsp;</dt>
 				<dd>TBA</dd>
 			</dl>
 			<p>
-				Join us during Spring Carnival for a time of worship, prayer, snacks, games, and hopefully dinner afterwards!
-				Both alumni and current members welcome!
+				Open to both Alumni and Current students! We will have dinner, worship, and stories of how God has been working in the lives of our InterVarsity Community
 			</p>
 		</div>
 
