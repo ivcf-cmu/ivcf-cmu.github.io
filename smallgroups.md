@@ -14,7 +14,27 @@ sectionHeader: Small Groups
 <p>
   We are excited to continue small group meetings this semester and will be studying the book of **Acts** together. Find the group that is right for you, or show up to any of them and talk to the small group leader. Join the <a href="https://discord.gg/Af8Y8Zn" target="_blank">Discord server</a> for questions or more information!
 </p>
+<p>
+   We want to draw your attention to **Groups Investigating God (GIGs)**. These are Bible studies that don't assume prior knowledge of the Bible, and are a great place to ask questions about Christianity!
+</p>
 <br/>
+<div class="halfcolumn">
+  <div class="smallgroup">
+    <h2>Groups Investigating God</h2>
+    <dl>
+      <dt>Date</dt>
+      <dd>Tuesdays</dd>
+      <dt>Time</dt>
+      <dd>7:30-8:45 PM</dd>
+      <dt>Location</dt>
+      <dd>UC 303</dd>
+      <dt>Contact</dt>
+      <dd>
+        <a href="mailto:tbrock@andrew.cmu.edu" target="_blank">Titus Brock</a>
+      </dd>
+      </dl>
+    </div>
+  </div>
 <div class="cogs">
   <div class="halfcolumn">
     <div class="smallgroup">
