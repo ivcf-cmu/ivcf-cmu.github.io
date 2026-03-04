@@ -23,7 +23,7 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
 <div class="content-events">
 	<div class="cogs">
 
-		<div class="tricolumn">
+		<!-- <div class="tricolumn">
 			<h2>Philly Missions</h2>
 			<p>
 				Each year we partner with InterFellowship Association in order to minister and witness to the Kensington
@@ -36,7 +36,7 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
 				<!-- If you would like to be involved, fill out
 				<a href="https://forms.gle/14TxhiDnvdL9iBot8" target="_blank">the interest form</a>. -->
 			</p>
-		</div>
+		</div> -->
 
 		<div class="tricolumn">
 			<h2>Alumni Reunion</h2>
@@ -48,6 +48,8 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
 			</dl>
 			<p>
 				Open to both Alumni and Current students! We will have dinner, worship, and stories of how God has been working in the lives of our InterVarsity Community
+
+				If possible, please RSVP using this <a href="https://forms.gle/UJe2tE6j5EMFqvgV7" target="_blank">this </a> form! 
 			</p>
 		</div>
 
