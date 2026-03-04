@@ -18,24 +18,24 @@ sectionHeader: Small Groups
    We want to draw your attention to **Groups Investigating God (GIGs)**. These are Bible studies that don't assume prior knowledge of the Bible, and are a great place to ask questions about Christianity!
 </p>
 <br/>
-<div class="halfcolumn">
-  <div class="smallgroup">
-    <h2>Groups Investigating God</h2>
-    <dl>
-      <dt>Date</dt>
-      <dd>Tuesdays</dd>
-      <dt>Time</dt>
-      <dd>7:30-8:45 PM</dd>
-      <dt>Location</dt>
-      <dd>UC 303</dd>
-      <dt>Contact</dt>
-      <dd>
-        <a href="mailto:tbrock@andrew.cmu.edu" target="_blank">Titus Brock</a>
-      </dd>
-      </dl>
-    </div>
-  </div>
 <div class="cogs">
+  <div class="halfcolumn">
+    <div class="smallgroup">
+      <h2>Groups Investigating God</h2>
+      <dl>
+        <dt>Date</dt>
+        <dd>Tuesdays</dd>
+        <dt>Time</dt>
+        <dd>7:30-8:45 PM</dd>
+        <dt>Location</dt>
+        <dd>UC 303</dd>
+        <dt>Contact</dt>
+        <dd>
+          <a href="mailto:tbrock@andrew.cmu.edu" target="_blank">Titus Brock</a>
+        </dd>
+        </dl>
+      </div>
+    </div>
   <div class="halfcolumn">
     <div class="smallgroup">
       <h2>Josh's group</h2>
