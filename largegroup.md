@@ -78,7 +78,7 @@ sectionHeader: Large Group
     <tr>
       <td><b> Large Group 10 </b></td>
       <td> March 27 </td>
-      <td> DH 1211 </td>
+      <td> Danforth Conference Room </td>
     </tr>
     <tr>
       <td><b> Large Group 11 </b></td>
