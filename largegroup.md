@@ -18,7 +18,7 @@ sectionHeader: Large Group
 </p>
 <br /> -->
 
-<h2>Spring 2026 schedule</h2>
+<h2>Fall 2026 schedule</h2>
 
 <!-- Table for location, time -->
 <table style="width:100%">
@@ -32,67 +32,77 @@ sectionHeader: Large Group
     </thead>
     <tr>
       <td><b> Large Group 1 </b></td>
-      <td> January 16 </td>
-      <td> UC McKenna/Peter </td>
+      <td> August 28 </td>
+      <td> Danforth Conference Room </td>
     </tr>
     <tr>
       <td><b> Large Group 2 </b></td>
-      <td> January 23 </td>
+      <td> September 4 </td>
       <td> Danforth Conference Room </td>
     </tr>
     <tr>
       <td><b> Large Group 3 </b></td>
-      <td> January 30 </td>
+      <td> September 11 </td>
       <td> Danforth Conference Room </td>
     </tr>
     <tr>
       <td><b> Large Group 4 </b></td>
-      <td> February 6 </td>
-      <td> DH 1211 </td>
+      <td> September 18 </td>
+      <td> Danforth Conference Room </td>
     </tr>
     <tr>
       <td><b> Large Group 5 </b></td>
-      <td> February 13 </td>
+      <td> September 25 </td>
       <td> Danforth Conference Room </td>
+    </tr>
+    <tr>
+      <td><b> TBA </b></td>
+      <td> October 2 </td>
+      <td> TBA (Not UC Danforth)</td>
     </tr>
     <tr>
       <td><b> Large Group 6 </b></td>
-      <td> Feburary 20 </td>
+      <td> October 9 </td>
       <td> Danforth Conference Room </td>
     </tr>
     <tr>
+      <td><b> No Large Group (Fall Break) </b></td>
+      <td> October 16 </td>
+      <td> N/A</td>
+    </tr>
+    <tr>
+      <td><b> TBA </b></td>
+      <td> October 23 </td>
+      <td> TBA (Not UC Danforth)</td>
+    </tr>
+    <tr>
       <td><b> Large Group 7 </b></td>
-      <td> Feburary 27 </td>
+      <td> October 30 </td>
       <td> Danforth Conference Room </td>
     </tr>
     <tr>
       <td><b> Large Group 8 </b></td>
-      <td> March 13 </td>
+      <td> November 6 </td>
       <td> Danforth Conference Room </td>
     </tr>
     <tr>
       <td><b> Large Group 9 </b></td>
-      <td> March 20 </td>
+      <td> November 13 </td>
       <td> Danforth Conference Room </td>
     </tr>
     <tr>
       <td><b> Large Group 10 </b></td>
-      <td> March 27 </td>
+      <td> November 20 </td>
       <td> Danforth Conference Room </td>
+    </tr>
+      <tr>
+      <td><b> No Large Group (Thanksgiving)</b></td>
+      <td> November 27 </td>
+      <td> N/A </td>
     </tr>
     <tr>
       <td><b> Large Group 11 </b></td>
-      <td> April 3 </td>
-      <td> Danforth Conference Room </td>
-    </tr>
-    <tr>
-      <td><b> Large Group 12 </b></td>
-      <td> April 17 </td>
-      <td> Danforth Conference Room </td>
-    </tr>
-    <tr>
-      <td><b> Large Group 13 </b></td>
-      <td> April 24 </td>
+      <td> December 4 </td>
       <td> Danforth Conference Room </td>
     </tr>
   </tbody>
