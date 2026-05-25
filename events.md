@@ -16,42 +16,50 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
 	<iframe src="https://calendar.google.com/calendar/embed?src=c_8340f965d5b494a60cc272666cd7c1297032ac0702d03e00c1b7f8f2ec9260c4%40group.calendar.google.com&ctz=America%2FNew_York" style="border:none" scrolling="yes" title="IV Calendar"></iframe>
 </div>
 
-<br>
-<br>
+<hr>
+
 <h2>Upcoming Special Events: </h2>
+
+<p> Stay tuned for Fall 2026 Events! Details are still TBD, but we are planning to have events for first-year orientation on August 21-23. </p>
 
 <div class="content-events">
 	<div class="cogs">
 
-		<!-- <div class="tricolumn">
-			<h2>Philly Missions</h2>
-			<p>
-				Each year we partner with InterFellowship Association in order to minister and witness to the Kensington
-				community in Philadelphia during Spring break. 
-
-				Applications are closed for this year, but you can still be praying for the team!
-				
-				<!-- Information <a href="https://youtu.be/V9ZAeCb7zoE" target="_blank">video here</a>. -->
-
-				<!-- If you would like to be involved, fill out
-				<a href="https://forms.gle/14TxhiDnvdL9iBot8" target="_blank">the interest form</a>. -->
-			</p>
-		</div> -->
-
 		<div class="tricolumn">
-			<h2>Alumni Reunion</h2>
+			<h2>Ohiopyle</h2>
 			<dl>
-				<dt>When?&nbsp;</dt>
-				<dd>April 10, 5 PM - 7 PM</dd>
-				<dt>Where?&nbsp;</dt>
-				<dd>TBA</dd>
+				<dt>When?&nbsp;</dt><dd>TBA</dd>
+				<dt>Where?&nbsp;</dt><dd>Ohiopyle State Park</dd>
 			</dl>
 			<p>
-				Open to both Alumni and Current students! We will have dinner, worship, and stories of how God has been working in the lives of our InterVarsity Community
+				Take a break from school, and come for a fun day of hikes, (natural) waterslides and a picnic at Ohiopyle State Park, PA! (You read that right, it's not in OH.) This is free. 
 
-				If possible, please RSVP using this <a href="https://forms.gle/UJe2tE6j5EMFqvgV7" target="_blank">this </a> form! 
+				Details TBA! 
+
+			</p>
+
+		</div>
+
+		<div class="tricolumn">
+			<h2>Fall Retreat</h2>
+			<dl>
+				<dt>When?&nbsp;</dt><dd>October</dd>
+				<dt>Where?&nbsp;</dt><dd>TBA</dd>
+			</dl>
+			<p>
+				Join us as we attend our InterVarsity region's annual fall retreat. 
 			</p>
 		</div>
+	</div>
+</div>
+
+<hr>
+
+<img src="/images/f25-images/f25-events.PNG" alt="events, updated Fall 2025">
+
+		<!-- Old Events -->
+
+<!-- 
 
 		<div class="tricolumn">
 			<h2>Mark Camp</h2>
@@ -72,17 +80,37 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
 			</p>
 		</div>
 
-</div>
-</div>
+		<div class="tricolumn">
+			<h2>Alumni Reunion</h2>
+			<dl>
+				<dt>When?&nbsp;</dt>
+				<dd>April 10, 5 PM - 7 PM</dd>
+				<dt>Where?&nbsp;</dt>
+				<dd>TBA</dd>
+			</dl>
+			<p>
+				Open to both Alumni and Current students! We will have dinner, worship, and stories of how God has been working in the lives of our InterVarsity Community
 
-<br>
-<br>
+				If possible, please RSVP using this <a href="https://forms.gle/UJe2tE6j5EMFqvgV7" target="_blank">this </a> form! 
+			</p>
+		</div> 
 
-<img src="/images/f25-images/f25-events.PNG" alt="events, updated Fall 2025">
+		<div class="tricolumn">
+			<h2>Philly Missions</h2>
+			<p>
+				Each year we partner with InterFellowship Association in order to minister and witness to the Kensington
+				community in Philadelphia during Spring break. 
 
-		<!-- Old Events -->
+				Applications are closed for this year, but you can still be praying for the team!
+				
+				Information <a href="https://youtu.be/V9ZAeCb7zoE" target="_blank">video here</a>.
 
-<!-- 
+				If you would like to be involved, fill out
+				<a href="https://forms.gle/14TxhiDnvdL9iBot8" target="_blank">the interest form</a>.
+			</p>
+		</div> 
+
+
 		<div class="tricolumn">
 			<h2>The Overnighter</h2>
 			<dl>
@@ -95,7 +123,7 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
 		</div>
 
 
-				<div class="tricolumn">
+		<div class="tricolumn">
 			<h2>Urbana</h2>
 			<p>
 				Urbana is a triennial event where over 25,000 people gather to worship
@@ -109,19 +137,7 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
 			</a>
 		</div>	
 			
-				<div class="tricolumn">
-			<h2>Fall Retreat</h2>
-			<dl>
-				<dt>When?&nbsp;</dt><dd>October 3-5</dd>
-				<dt>Where?&nbsp;</dt><dd>Marengo, Ohio</dd>
-			</dl>
-			<p>
-				Join us as we attend our InterVarsity region's annual fall retreat! Registration closes 9/18. 
-			</p>
-			<a href="https://riversandrails.intervarsity.org/fall-retreat-2025.html" target="_blank">
-			  Sign-ups here
-			</a>
-		</div>
+
 		
 		<div class="tricolumn">
 			<h2>7 Reasons God is back</h2>
