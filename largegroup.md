@@ -56,9 +56,9 @@ sectionHeader: Large Group
       <td> Danforth Conference Room </td>
     </tr>
     <tr>
-      <td><b> TBA </b></td>
+      <td><b> Fall Retreat (No Large Group)</b></td>
       <td> October 2 </td>
-      <td> TBA (Not UC Danforth)</td>
+      <td> Off Campus </td>
     </tr>
     <tr>
       <td><b> Large Group 6 </b></td>
