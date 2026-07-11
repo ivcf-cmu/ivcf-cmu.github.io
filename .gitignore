@@ -5,3 +5,4 @@ Gemfile.lock
 *.swo
 .jekyll-metadata
 _site
+.DS_Store
