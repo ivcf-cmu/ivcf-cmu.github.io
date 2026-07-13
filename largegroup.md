@@ -20,7 +20,18 @@ sectionHeader: Large Group
 
 <h2>Fall 2026 schedule</h2>
 
-<!-- Table for location, time -->
+<div class="calendar-container">
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTtkMCXwjx0MLHPGQBmPU2WS-4IQUQHWn2ippcIy-zyMwA8OaKXIzBWVSIzsj6KaDcCUNV2KigQ_2YN/pubhtml?gid=0&amp;single=true&amp;widget=false&amp;headers=false&amp;range=A2:D18&amp;chrome=false"
+  range="A2:D18" 
+  width="80%" 
+  height="600" 
+  border="false"
+  name="Semester Schedule"
+  ></iframe>
+<\div>
+
+
+<!-- Table for location, time
 <table style="width:100%">
   <tbody>
     <thead>
@@ -106,4 +117,4 @@ sectionHeader: Large Group
       <td> Danforth Conference Room </td>
     </tr>
   </tbody>
-</table>
+</table> -->
