@@ -96,7 +96,7 @@ sectionHeader: Contact
   <h1>Other <br class="responsive-br"/>Fellowships</h1>
 </header>
 <p class="affiliations">
-  InterVarsity at CMU is a part of CMU's Inter-Fellowship Association (IFA), which is the union of all the Christian fellowships on campus. The groups are all united together to glorify God, but we each do it a little differently, so feel free to <a href="https://interfellowshipcmu.com/fellowships.html" target="_blank">check out our fellow fellowships</a> on IFA's website!
+  InterVarsity at CMU is a part of CMU's Inter-Fellowship Association (IFA), which is the union of all the Christian fellowships on campus. The groups are all united together to glorify God, but we each do it a little differently, so feel free to <a href="https://cmuifa.com/fellowships.html" target="_blank">check out our fellow fellowships</a> on IFA's website!
 </p>
 
 <p class="affiliations">
