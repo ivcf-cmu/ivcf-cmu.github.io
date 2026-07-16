@@ -1,0 +1,37 @@
+# To add a new group, just copy an existing block/list item.
+# There must be a space within each (key: value) pair (for example, "title: GIG")
+
+- title: Groups Investigating God
+  day: Tuesdays
+  time: 7:30-8:45 PM
+  location: UC 303
+  contact: Titus Brock
+  email: tbrock@andrew.cmu.edu
+
+- title: Josh's group
+  day: Wednesdays
+  time: 7:00-9:00 PM
+  location: PH A20A
+  contact: Josh Samulak
+  email: jsamulak@andrew.cmu.edu
+
+- title: Nathaniel's Group
+  day: Thursdays
+  time: 5:00-7:00 PM
+  location: PH A21A
+  contact: Nathaniel Kenschaft
+  email: nkenscha@andrew.cmu.edu
+
+- title: Nathan's group
+  day: Thursdays
+  time: 5:00-7:00 PM
+  location: PH A21
+  contact: Nathan Brock
+  email: nbrock@andrew.cmu.edu
+
+- title: Rachel's group
+  day: Thursdays
+  time: 4:00-6:00 PM
+  location: PH 125B
+  contact: Rachel Nuhfer
+  email: rachel.nuhfer@intervarsity.org

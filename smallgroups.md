@@ -3,111 +3,42 @@ layout: default
 page: smallgroups
 sectionHeader: Small Groups
 ---
-<p>
-  Most of InterVarsity’s ministry happens in our small groups where we work together to fulfill the Great Commission of Jesus Christ on our campus. This is done by following the example of the fellowship of Jesus’ apostles, seeking to edify each other through prayer, worship, and Scripture as we invite our community to join us in partaking in God's love for us. Our small groups are not self-contained, but instead, are focused on reaching out to the campus community as a whole.
-<br/>
-</p>
-<p>
-  <img src="/images/f25-images/f25-sg.PNG" alt="events from Fall 2025">
-<br/>
-</p>
 
-<h3> Fall 2026 </h3>
+Most of InterVarsity’s ministry happens in our small groups where we work together to fulfill the Great Commission of Jesus Christ on our campus. This is done by following the example of the fellowship of Jesus’ apostles, seeking to edify each other through prayer, worship, and Scripture as we invite our community to join us in partaking in God's love for us. Our small groups are not self-contained, but instead, are focused on reaching out to the campus community as a whole.
 
-<!-- 
-<p>
-  We are excited to continue small group meetings this semester and will be studying the book of **Acts** together. Find the group that is right for you, or show up to any of them and talk to the small group leader. Join the <a href="https://discord.gg/Af8Y8Zn" target="_blank">Discord server</a> for questions or more information!
-</p>
-<p>
-   We want to draw your attention to **Groups Investigating God (GIGs)**. These are Bible studies that don't assume prior knowledge of the Bible, and are a great place to ask questions about Christianity!
-</p>
-<br/>
+<br>
+
+![events from Fall 2025](/images/f25-images/f25-sg.PNG)
+
+### Fall 2026
+
+<!-- We are excited to continue small group meetings this semester and will be studying the book of \**Acts** together. Find the group that is right for you, or show up to any of them and talk to the small group leader. Join the <a href="https://discord.gg/Af8Y8Zn" target="_blank">Discord server</a> for questions or more information!
+
+We want to draw your attention to \**Groups Investigating God (GIGs)**. These are Bible studies that don't assume prior knowledge of the Bible, and are a great place to ask questions about Christianity!
+
+<!- - To edit small group data, change /_data/smallgroups.yaml - ->
 <div class="cogs">
+  {% for group in site.data.smallgroups %}
   <div class="halfcolumn">
     <div class="smallgroup">
-      <h2>Groups Investigating God</h2>
+      <h2>{{ group.title }}</h2>
       <dl>
-        <dt>Date</dt>
-        <dd>Tuesdays</dd>
+        <dt>Day</dt>
+        <dd>{{ group.day }}</dd>
         <dt>Time</dt>
-        <dd>7:30-8:45 PM</dd>
+        <dd>{{ group.time }}</dd>
         <dt>Location</dt>
-        <dd>UC 303</dd>
+        <dd>{{ group.location }}</dd>
         <dt>Contact</dt>
         <dd>
-          <a href="mailto:tbrock@andrew.cmu.edu" target="_blank">Titus Brock</a>
-        </dd>
-        </dl>
-      </div>
-    </div>
-  <div class="halfcolumn">
-    <div class="smallgroup">
-      <h2>Josh's group</h2>
-      <dl>
-        <dt>Date</dt>
-        <dd>Wednesday</dd>
-        <dt>Time</dt>
-        <dd>7:00-9:00 PM</dd>
-        <dt>Location</dt>
-        <dd>PH A20A</dd>
-        <dt>Contact</dt>
-        <dd>
-          <a href="mailto:jsamulak@andrew.cmu.edu" target="_blank">Josh Samulak</a>
+          <a href="mailto:{{ group.email }}" target="_blank">{{ group.contact }}</a>
         </dd>
       </dl>
     </div>
   </div>
-  <div class="halfcolumn">
-    <div class="smallgroup">
-      <h2>Nathaniel's Group</h2>
-      <dl>
-        <dt>Date</dt>
-        <dd>Thursday</dd>
-        <dt>Time</dt>
-        <dd>5:00-7:00 PM</dd>
-        <dt>Location</dt>
-        <dd>PH A21A</dd>
-        <dt>Contact</dt>
-        <dd>
-          <a href="mailto:nkenscha@andrew.cmu.edu" target="_blank">Nathaniel Kenschaft</a>
-        </dd>
-      </dl>
-    </div>
-  </div>
-  <div class="halfcolumn">
-    <div class="smallgroup">
-      <h2>Nathan's group</h2>
-      <dl>
-        <dt>Date</dt>
-        <dd>Thursday</dd>
-        <dt>Time</dt>
-        <dd>5:00-7:00 PM</dd>
-        <dt>Location</dt>
-        <dd>PH A21</dd>
-        <dt>Contact</dt>
-        <dd>
-          <a href="mailto:nbrock@andrew.cmu.edu" target="_blank">Nathan Brock</a>
-        </dd>
-      </dl>
-    </div>
-  </div>
-  <div class="halfcolumn">
-    <div class="smallgroup">
-      <h2>Rachel's group</h2>
-      <dl>
-        <dt>Date</dt>
-        <dd>Thursday</dd>
-        <dt>Time</dt>
-        <dd>4:00-6:00 PM</dd>
-        <dt>Location</dt>
-        <dd>PH 125B</dd>
-        <dt>Contact</dt>
-        <dd>
-          <a href="mailto:rachel.nuhfer@intervarsity.org" target="_blank">Rachel Nuhfer</a>
-        </dd>
-      </dl>
-    </div>
-  </div>
+  {% endfor %}
 </div>
-<br/> -->
+
+<br>  -->
+
 We have not yet set Small Group times and locations for Fall 2026. Stay tuned for more information as we get closer to the start of the semester!
