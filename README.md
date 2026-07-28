@@ -2,8 +2,6 @@
 
 I, Matt Kern, am documenting a little of how it works to make it easier for whatever poor soul finds themself in charge of it in the future - thanks in advance!
 
-*(Edited in 2026 by Clayton Yu for clarification on Ruby version, bundler, running command in the terminal.)*
-
 ## Minimum maintenance
 
 If need be, you can simply edit the text on the website in GitHub's UI directly.
@@ -28,5 +26,7 @@ To interactively view your local changes, run the `jekyll serve` command, and vi
 If using bundler (dependency manager), prefix the above commands with `bundle exec`.
 
 Thanks for reading, and good luck!
+
+*(Edited in 2026 by Clayton Yu for clarification on Ruby version, bundler, running command in the terminal.)*
 
 [Jekyll Docs]: https://jekyllrb.com/docs/installation/

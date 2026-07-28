@@ -12,7 +12,7 @@ In response to God’s love, grace, and truth, our vision is to grow in love wit
  - With All of God's People, Regardless of Ethnicity or Culture
  - For God's Purposes in the World
 
-InterVarsity Christian Fellowship/USA is a vibrant campus ministry that establishes and advances witnessing communities of students and faculty. We minister to all through <a href="https://www.cmuintervarsity.org/smallgroups.html">small group</a> Bible studies, <a href="https://www.cmuintervarsity.org/largegroup.html">large campus gatherings</a>, leadership training, thoughtful discipleship, and life-changing conferences and events.
+InterVarsity Christian Fellowship/USA is a vibrant campus ministry that establishes and advances witnessing communities of students and faculty. We minister to all through <a href="smallgroups.html">small group</a> Bible studies, <a href="largegroup.html">large campus gatherings</a>, leadership training, thoughtful discipleship, and life-changing conferences and events.
 
 In one accord with all Christians on campus, we have a vision to see Carnegie Mellon University become a place where Jesus’ name is lifted on high and glorified.
 
