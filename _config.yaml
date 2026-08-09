@@ -6,6 +6,10 @@
 baseurl: ""
 url: "https://www.cmuintervarsity.org"
 
+# Github pages automatically pulls in theme; using null to stop that.
+# Not detrimental, deleting this line only clutters up _site directory with another css file.
+theme: null
+
 # sass settings - compresses output css
 sass:
   style: compressed

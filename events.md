@@ -9,22 +9,68 @@ sectionHeader: Events
 Come relax and spend some time with us. Clear your head and learn what God, friends, and life are all about. For questions about events, or to RSVP please contact <a href="mailto:samuelgr@andrew.cmu.edu">Samuel Greco</a>. Make sure to <a href="https://discord.gg/Af8Y8Zn" target="_blank">join CMU IVCF on discord</a> to get the latest updates!
 
 <br>
-<br>		
-<h2>Google Calendar: </h2>
+<br>
 
-<div class="calendar-container">
-	<iframe src="https://calendar.google.com/calendar/embed?src=c_8340f965d5b494a60cc272666cd7c1297032ac0702d03e00c1b7f8f2ec9260c4%40group.calendar.google.com&ctz=America%2FNew_York" style="border:none" scrolling="yes" title="IV Calendar"></iframe>
-</div>
+<h2>First-Year Orientation Events: </h2>
 
-<hr>
-
-<h2>Upcoming Special Events: </h2>
-
-<p> Stay tuned for Fall 2026 Events! Details are still TBD, but we are planning to have events for first-year orientation on August 21-23. </p>
+<p> Join us for events during CMU's first-year orientation! We welcome you to find fellowship with us as you get acclimated to campus life.</p>
 
 <div class="content-events">
 	<div class="cogs">
+		<div class="tricolumn">
+			<h2>Ice Cream Social</h2>
+			<dl>
+				<dt>What day?&nbsp;</dt><dd>Saturday, August 15</dd>
+				<dt>Time?&nbsp;</dt><dd>4-6 PM</dd>
+				<dt>Where?&nbsp;</dt><dd><a href="https://maps.app.goo.gl/PBj2gLvwtiG2j4Vz9" target="_blank">The Mall</a></dd>
+			</dl>
+			<p>
+				Come get to know members of InterVarsity Christian Fellowship at CMU with lawn games, ice cream, and popsicles (all free). Look for the orange tablecloth!
+			</p>
+		</div>
+		<div class="tricolumn">
+			<h2>Large Group 0</h2>
+			<dl>
+				<dt>What day?&nbsp;</dt><dd>Friday, August 21</dd>
+				<dt>Time?&nbsp;</dt><dd>4-6 PM</dd>
+				<dt>Where?&nbsp;</dt><dd>CUC Peter (2nd floor)</dd>
+			</dl>
+			<p>
+				Come join InterVarsity Christian Fellowship for a sneak-peek Large Group—something we’ll do every Friday during the school year!
+			</p>
+		</div>
+		<div class="tricolumn">
+			<h2>Poultry n’ Play</h2>
+			<dl>
+				<dt>What day?&nbsp;</dt><dd>Saturday, August 22</dd>
+				<dt>Time?&nbsp;</dt><dd>2-4 PM</dd>
+				<dt>Where?&nbsp;</dt><dd>CUC Wright (2nd floor)</dd>
+			</dl>
+			<p>
+				Come play all sorts of games with us, from board games to social deduction games and more! For the culinarily inclined and/or hungry, we’ll have free Chick-Fil-A!
 
+			</p>
+		</div>
+		<div class="tricolumn">
+			<h2>Snacks and Songs</h2>
+			<dl>
+				<dt>What day?&nbsp;</dt><dd>Sunday, August 23</dd>
+				<dt>Time?&nbsp;</dt><dd>12-2 PM</dd>
+				<dt>Where?&nbsp;</dt><dd>CUC Wright (2nd floor)</dd>
+			</dl>
+			<p>
+				Come join us for a casual worship jam session, with watermelon, dessert waffles, and other snacks.
+			</p>
+		</div>
+	</div>
+</div>
+
+<h2>Upcoming Special Events: </h2>
+
+<p> Stay tuned for more Fall 2026 Events! Details are still TBD, but we are planning to have events for first-year orientation on August 21-23. </p>
+
+<div class="content-events">
+	<div class="cogs">
 		<div class="tricolumn">
 			<h2>Ohiopyle</h2>
 			<dl>
@@ -35,22 +81,28 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
 				Take a break from school, and come for a fun day of hikes, (natural) waterslides and a picnic at Ohiopyle State Park, PA! (You read that right, it's not in OH.) This is free. 
 
 				Details TBA! 
-
 			</p>
-
 		</div>
 
 		<div class="tricolumn">
 			<h2>Fall Retreat</h2>
 			<dl>
-				<dt>When?&nbsp;</dt><dd>October</dd>
-				<dt>Where?&nbsp;</dt><dd>TBA</dd>
+				<dt>When?&nbsp;</dt><dd>October 2-4</dd>
+				<dt>Where?&nbsp;</dt><dd>Cross Oak Camp & Retreat Center</dd>
 			</dl>
 			<p>
-				Join us as we attend our InterVarsity region's annual fall retreat. 
+				Join us as we attend our InterVarsity region's annual fall retreat. Register <a href="https://riversrails.events.intervarsity.org/fall-retreat-2026" target="_blank">here</a> by September 24th!
 			</p>
 		</div>
 	</div>
+</div>
+
+<hr>
+
+<h2>Google Calendar: </h2>
+
+<div class="calendar-container">
+	<iframe src="https://calendar.google.com/calendar/embed?src=c_8340f965d5b494a60cc272666cd7c1297032ac0702d03e00c1b7f8f2ec9260c4%40group.calendar.google.com&ctz=America%2FNew_York" style="border:none" scrolling="yes" title="IV Calendar"></iframe>
 </div>
 
 <hr>
@@ -98,7 +150,7 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
 		<div class="tricolumn">
 			<h2>Philly Missions</h2>
 			<p>
-				Each year we partner with InterFellowship Association in order to minister and witness to the Kensington
+				Each year we partner with Inter-Fellowship Association in order to minister and witness to the Kensington
 				community in Philadelphia during Spring break. 
 
 				Applications are closed for this year, but you can still be praying for the team!

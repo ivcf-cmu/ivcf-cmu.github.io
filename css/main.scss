@@ -613,6 +613,22 @@ img {
 
 }
 
+/* Prevent paragraph text from wrapping around the floated description list
+ * on small screens so paragraph lines keep a consistent width. Desktop
+ * layout is unchanged. */
+@media (max-width: 509px) {
+	.content-events .cogs dl {
+		float: none;
+		width: auto;
+		margin: 0 0 10px 0;
+	}
+
+	.content-events .tricolumn p {
+		clear: both;
+		max-width: 100%;
+	}
+}
+
 // Added by Samuel Greco on 1/6/2026 in order to get google calendar embed to 
 // display properly 
 .calendar-container {
