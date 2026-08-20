@@ -184,8 +184,8 @@ img {
 				height: 36px;
 				text-align: center;
 				font-family: Lato;
-				font-size: 13px;
-				color: #abc4b5;
+				font-size: 15px;
+				color: #537560;
 				text-transform: uppercase;
 			}
 
@@ -257,12 +257,20 @@ img {
 	}
 }
 
-.navbar .navcontrol .homelink img {
-	visibility: hidden;
+.navbar .navcontrol .homelink {
+	background-image: url("/images/top_logo.png");
+	// height: 60px;
+	// width: 60px;
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 
-.navbar .navcontrol .homelink:hover img {
-	visibility: visible;
+.navbar .navcontrol .homelink:hover {
+	background-image: url("/images/top_logo_hover.png");
+	// height: 60px;
+	// width: 60px;
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 
 /*
@@ -399,7 +407,7 @@ img {
 
 
 .frontpage p {
-	max-width: 350px;
+	max-width: 500px;
 	text-align: center;
 	margin-left: auto;
 	margin-right: auto;
