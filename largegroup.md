@@ -9,6 +9,7 @@ sectionHeader: Large Group
     pm</b> to worship God through music, know Him better through scripture,
   have fellowship with one another, and be ignited and uplifted by the Holy
   Spirit.
+
 </p>
 <br />
 <!-- <p>
@@ -20,7 +21,10 @@ sectionHeader: Large Group
 
 <h2>Fall 2026 schedule</h2>
 
-<!-- Table for location, time -->
+<iframe width="100%" height="500" scrolling="no" overflow="hidden" frameBorder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTtkMCXwjx0MLHPGQBmPU2WS-4IQUQHWn2ippcIy-zyMwA8OaKXIzBWVSIzsj6KaDcCUNV2KigQ_2YN/pubhtml?gid=1755016990&amp;single=true&amp;widget=false&amp;headers=false&amp;range=A1:F20&amp;chrome=false&amp;frameborder=0&amp;rm=minimal"></iframe>
+
+
+<!-- Table for location, time
 <table style="width:100%">
   <tbody>
     <thead>
@@ -106,4 +110,4 @@ sectionHeader: Large Group
       <td> Danforth Conference Room </td>
     </tr>
   </tbody>
-</table>
+</table> -->
