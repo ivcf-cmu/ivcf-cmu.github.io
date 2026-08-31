@@ -12,11 +12,11 @@ Most of InterVarsity’s ministry happens in our small groups where we work toge
 
 ### Fall 2026
 
-<!-- We are excited to continue small group meetings this semester and will be studying the book of \**Acts** together. Find the group that is right for you, or show up to any of them and talk to the small group leader. Join the <a href="https://discord.gg/Af8Y8Zn" target="_blank">Discord server</a> for questions or more information!
+We are excited to continue co-ed small group meetings this semester and will be studying the book of **Ephesians** together. Find the group that is right for you, or show up to any of them and talk to the small group leader. Join the <a href="https://discord.gg/Af8Y8Zn" target="_blank">Discord server</a> for questions or more information!
 
-We want to draw your attention to \**Groups Investigating God (GIGs)**. These are Bible studies that don't assume prior knowledge of the Bible, and are a great place to ask questions about Christianity!
+We want to draw your attention to **Groups Investigating God (GIGs)**. These are Bible studies that don't assume prior knowledge of the Bible, and are a great place to ask questions about Christianity!
 
-<!- - To edit small group data, change /_data/smallgroups.yaml - ->
+<!-- To edit small group data, change /_data/smallgroups.yaml -->
 <div class="cogs">
   {% for group in site.data.smallgroups %}
   <div class="halfcolumn">
@@ -39,6 +39,5 @@ We want to draw your attention to \**Groups Investigating God (GIGs)**. These ar
   {% endfor %}
 </div>
 
-<br>  -->
-
-We have not yet set Small Group times and locations for Fall 2026. Stay tuned for more information as we get closer to the start of the semester!
+<br>
+<!-- We have not yet set Small Group times and locations for Fall 2026. Stay tuned for more information as we get closer to the start of the semester! -->
