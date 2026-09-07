@@ -23,16 +23,26 @@ We want to draw your attention to **Groups Investigating God (GIGs)**. These are
     <div class="smallgroup">
       <h2>{{ group.title }}</h2>
       <dl>
-        <dt>Day</dt>
-        <dd>{{ group.day }}</dd>
         <dt>Time</dt>
         <dd>{{ group.time }}</dd>
         <dt>Location</dt>
         <dd>{{ group.location }}</dd>
         <dt>Contact</dt>
+        <dd>{{ group.leader }}</dd>
+
+        <!-- Contact info! Either phone or email will appear (only phone shows if both present) -->
+        {% if group.phone %}
+        <dt>Phone</dt>
+        <dd>{{ group.phone }}</dd>
+        {% endif %}
+
+        {% if group.email and group.phone == nil %}
+        <dt>Email</dt>
         <dd>
-          <a href="mailto:{{ group.email }}" target="_blank">{{ group.contact }}</a>
+          <a href="mailto:{{ group.email }}" target="_blank">{{ group.email }}</a>
         </dd>
+        {% endif %}
+
       </dl>
     </div>
   </div>

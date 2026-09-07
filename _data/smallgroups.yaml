@@ -1,37 +1,38 @@
 # To add a new group, just copy an existing block/list item.
-# There must be a space within each (key: value) pair (for example, "title: GIG")
+# There must be a space within each (key: value) pair (for example, "title: GIG"
+# Either phone or email will appear (only phone shows if both present)
 
 - title: Groups Investigating God
-  day: Tuesdays
-  time: 5:00-7:00 PM
+  time: Mondays 7:00-9:00 PM
   location: TBD
-  contact: David
-  email:
+  leader: David
+  phone: +1 (412) 513-8356
+  email: 
 
 - title: Parker's Group
-  day: Mondays
-  time: 4:00-6:00 PM
-  location: TBD
-  contact: Parker Merritt
+  time: Mondays 4:00-6:00 PM
+  location: Porter Hall A20A
+  leader: Parker Merritt
+  phone: +1 (517) 257-6077
   email: pmerritt@andrew.cmu.edu
 
 - title: Jadelynn's Group
-  day: Tuesdays
-  time: 5:00-7:00 PM
-  location: TBD
-  contact: Jadelynn Ho
+  time: Tuesdays 5:00-7:00 PM
+  location: Porter Hall A20A
+  leader: Jadelynn Ho
+  phone: +1 (657) 644-2332
   email: jvho@andrew.cmu.edu
 
 - title: Nathan's Group
-  day: Thursdays
-  time: 5:00-7:00 PM
-  location: TBD
-  contact: Nathan Brock
+  time: Thursdays 5:00-7:00 PM
+  location: Porter Hall A20A
+  leader: Nathan Brock
+  phone: +1 (757) 264-1167
   email: nbrock@andrew.cmu.edu
 
 - title: Lucy's Group
-  day: Thursdays
-  time: 6:30-8:30 PM
-  location: TBD
-  contact: Lucy Wang
+  time: Thursdays 6:30-8:30 PM
+  location: Doherty Hall 1209
+  leader: Lucy Wang
+  phone: 
   email: lucyw2@andrew.cmu.edu
