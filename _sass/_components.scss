@@ -1,0 +1,251 @@
+.content-about,
+.content-smallgroups,
+.content-largegroup,
+.content-events,
+.content-otherinfo,
+.fishespage {
+  a {
+    color: var(--link);
+  }
+}
+
+.frontpage {
+  margin-bottom: 0;
+
+  header {
+    text-align: center;
+  }
+
+  #welcome-img {
+    margin: 0 auto;
+  }
+
+  .subtitle {
+    display: flex;
+    margin: 1rem auto .75rem;
+    align-items: center;
+    justify-content: center;
+    color: var(--blue);
+    font-size: 1.1rem;
+    font-style: italic;
+    gap: .35rem;
+  }
+
+  .subtitle img {
+    width: auto;
+    height: 2.25rem;
+  }
+
+  .title {
+    color: var(--orange);
+    font-family: $font-heading;
+    font-size: 2.25rem;
+    font-weight: 800;
+  }
+
+  p {
+    max-width: 680px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+  }
+}
+
+.content-about {
+  p {
+    max-width: var(--reading-width);
+    margin: 0 auto 1rem;
+  }
+
+  .leaders {
+    margin-top: -2rem;
+    text-align: center;
+
+    figure {
+      display: inline-block;
+      width: 13rem;
+      margin: 3rem 1rem 0;
+      vertical-align: top;
+    }
+
+    figure > img {
+      margin: 0 auto;
+    }
+
+    figure h2 {
+      margin-top: 1rem;
+      text-align: center;
+      text-transform: uppercase;
+    }
+
+    figure p,
+    .tricolumn p {
+      width: auto;
+      font-style: italic;
+      text-align: center;
+    }
+  }
+}
+
+.content-smallgroups,
+.content-largegroup,
+.content-events {
+  .section-header {
+    margin-bottom: 2rem;
+  }
+
+  .cogs {
+    margin-top: 2rem;
+    text-align: center;
+  }
+
+  .smallgroup,
+  .tricolumn {
+    text-align: left;
+  }
+
+  .smallgroup p {
+    max-width: 30rem;
+  }
+
+  dl {
+    display: grid;
+    grid-template-columns: minmax(5.5rem, auto) 1fr;
+    max-width: 25rem;
+    margin: 1rem 0;
+    font-size: .95rem;
+  }
+
+  dt {
+    color: var(--orange);
+    font-weight: 800;
+  }
+
+  dd {
+    margin: 0;
+  }
+
+  a {
+    text-decoration: underline;
+  }
+
+  #location-addendum {
+    margin-top: 2rem;
+  }
+}
+
+.content-events {
+  p {
+    text-align: left;
+  }
+
+  .tricolumn {
+    padding-top: 1.5rem;
+    border-top: 3px solid var(--orange);
+  }
+}
+
+.calendar-container {
+  position: relative;
+  width: 100%;
+  max-width: var(--reading-width);
+  margin: 2rem auto;
+  overflow: hidden;
+  padding-top: 75%;
+
+  iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+  }
+}
+
+.content-calendar {
+  display: flex;
+  flex-direction: column;
+
+  iframe {
+    min-height: 100vh;
+  }
+}
+
+.photospage {
+  p {
+    margin-bottom: 2rem;
+  }
+
+  .photos {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(13rem, 1fr));
+    gap: 1.5rem;
+    text-align: center;
+  }
+
+  .photos div {
+    padding: 0;
+  }
+
+  .photos figure {
+    position: relative;
+    margin: 0;
+    padding: .75rem;
+    border: 1px solid var(--line);
+    background-color: var(--paper);
+    box-shadow: var(--shadow);
+  }
+
+  .photos figure img {
+    max-width: 250px;
+    max-height: 250px;
+    margin: 0 auto;
+    border: 1px solid var(--line);
+  }
+
+  .photos figcaption {
+    padding: .75rem 0 .25rem;
+    color: var(--text);
+    font-size: .9rem;
+  }
+}
+
+.content-otherinfo {
+  .churches h2 {
+    margin: .5rem 0 1rem;
+    text-align: left;
+  }
+
+  .churches .tricolumn {
+    width: calc(33.333% - 1.5rem);
+    text-align: left;
+  }
+
+  .affiliations {
+    margin-bottom: 1rem;
+  }
+
+  .contact {
+    display: flex;
+    margin-left: 1rem;
+    gap: .6rem;
+
+    &:before {
+      content: "\021E5";
+      color: var(--blue);
+    }
+
+    a {
+      color: var(--blue);
+    }
+  }
+}
+
+@media (max-width: $break-tablet - 1px) {
+  .halfcolumn,
+  .content-otherinfo .churches .tricolumn {
+    width: 100%;
+    margin-right: 0;
+  }
+}

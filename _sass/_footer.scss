@@ -1,0 +1,85 @@
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+.main {
+  flex: 1 0 auto;
+}
+
+.footer {
+  flex: 0 0 auto;
+  width: 100%;
+  min-height: 7rem;
+  border-top: 1px solid var(--line);
+  background-color: var(--wash);
+  background-repeat: repeat-x;
+  background-position: 0 5px;
+  font-size: .8rem;
+}
+
+.footercontent {
+  display: flex;
+  width: min(calc(100% - (2 * var(--gutter))), var(--max-width));
+  min-height: 7rem;
+  margin: 0 auto;
+  padding: 1.5rem 0;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1.5rem;
+}
+
+.contactinfo {
+  color: var(--muted);
+}
+
+.contactlinks {
+  text-align: right;
+}
+
+.contactblurb {
+  color: var(--blue);
+  font-weight: 700;
+}
+
+.icons {
+  display: flex;
+  justify-content: flex-end;
+  gap: 1rem;
+  margin-top: .6rem;
+
+  figure {
+    margin: 0;
+  }
+
+  figcaption {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+    white-space: nowrap;
+  }
+
+  img {
+    width: 1.5rem;
+    height: 1.5rem;
+    object-fit: contain;
+  }
+}
+
+@media (max-width: $break-tablet - 1px) {
+  .footercontent {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .contactlinks {
+    width: 100%;
+    text-align: left;
+  }
+
+  .icons {
+    justify-content: flex-start;
+  }
+}

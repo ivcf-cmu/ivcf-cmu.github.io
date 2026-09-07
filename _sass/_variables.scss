@@ -1,0 +1,20 @@
+:root {
+  --orange: #E76127;
+  --blue: #006880;
+  --text: #333333;
+  --muted: #5d686b;
+  --paper: #ffffff;
+  --wash: #f4f7f5;
+  --line: #d8e1df;
+  --link: #a94c26;
+  --max-width: 1120px;
+  --reading-width: 760px;
+  --gutter: clamp(1rem, 4vw, 3rem);
+  --space-section: clamp(3rem, 7vw, 5.5rem);
+  --shadow: 0 8px 24px rgba(0, 54, 64, .08);
+}
+
+$font-body: "Lato", sans-serif;
+$font-heading: "Barlow Condensed", sans-serif;
+$break-tablet: 700px;
+$break-wide: 1050px;

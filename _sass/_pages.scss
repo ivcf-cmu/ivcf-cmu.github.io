@@ -1,0 +1,17 @@
+.content-about .halfcolumn p {
+  margin-left: 0;
+}
+
+.content-events .tricolumn p {
+  max-width: 30rem;
+}
+
+@media (max-width: $break-tablet - 1px) {
+  .content-events .cogs dl {
+    width: 100%;
+  }
+
+  .content-events .tricolumn p {
+    max-width: 100%;
+  }
+}
