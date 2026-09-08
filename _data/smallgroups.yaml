@@ -2,13 +2,6 @@
 # There must be a space within each (key: value) pair (for example, "title: GIG"
 # Either phone or email will appear (only phone shows if both present)
 
-- title: Groups Investigating God
-  time: Mondays 7:00-9:00 PM
-  location: Porter Hall A20
-  leader: David
-  phone: +1 (412) 513-8356
-  email: 
-
 - title: Parker's Group
   time: Mondays 4:00-6:00 PM
   location: Porter Hall A20A
@@ -36,3 +29,10 @@
   leader: Lucy Wang
   phone: 
   email: lucyw2@andrew.cmu.edu
+
+  - title: Group Investigating God
+  time: Mondays 7:00-9:00 PM
+  location: Porter Hall A20
+  leader: David
+  phone: +1 (412) 513-8356
+  email: 
