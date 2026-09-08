@@ -11,12 +11,12 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
 <br>
 <br>
 
-<h2>First-Year Orientation Events: </h2>
+<!-- <h2>First-Year Orientation Events: </h2> -->
 
-<p> Join us for events during CMU's first-year orientation! We welcome you to find fellowship with us as you get acclimated to campus life.</p>
+<!-- <p> Join us for events during CMU's first-year orientation! We welcome you to find fellowship with us as you get acclimated to campus life.</p> -->
 
 
-<img src="images/f26-images/IV_OWeek_Events_2026.png" alt="Schedule of events during O-Week">
+<!-- <img src="images/f26-images/IV_OWeek_Events_2026.png" alt="Schedule of events during O-Week"> -->
 
 <!-- <div class="content-events">
 	<div class="cogs">
@@ -76,7 +76,7 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
 
 <div class="content-events">
 	<div class="cogs">
-		<div class="tricolumn">
+		<!-- <div class="tricolumn">
 			<h2>Ohiopyle</h2>
 			<dl>
 				<dt>When?&nbsp;</dt><dd>TBA</dd>
@@ -87,7 +87,7 @@ Come relax and spend some time with us. Clear your head and learn what God, frie
 
 				Details TBA! 
 			</p>
-		</div>
+		</div> -->
 
 		<div class="tricolumn">
 			<h2>Fall Retreat</h2>
